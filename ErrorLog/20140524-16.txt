@@ -1,0 +1,38 @@
+﻿發生錯誤的網頁:/globals.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 219.85.177.24
+	Port: 46442
+	Referer: http://m.wantgoo.com/globals.aspx
+	Path: /globals.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.1.2; C1905 Build/15.1.C.2.8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.122 Mobile Safari/537.36
+	ViewState: /wEPDwUKMTM2Mzg5OTg4NmRkN8hLfc2wmvSglvRgfyaTT2hXzxVaMMJVr0h59z2kqk8=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : http://m.wantgoo.com/globals.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 219.85.177.24:46442
+5/24/2014 4:38:46 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 219.85.177.24
+	Port: 46442
+	Referer: http://m.wantgoo.com/globals.aspx
+	Path: /globals.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.1.2; C1905 Build/15.1.C.2.8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.122 Mobile Safari/537.36
+	ViewState: /wEPDwUKMTM2Mzg5OTg4NmRkN8hLfc2wmvSglvRgfyaTT2hXzxVaMMJVr0h59z2kqk8=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : http://m.wantgoo.com/globals.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 219.85.177.24:46442
+5/24/2014 4:39:08 PM
+-----------------------------------------------------------------------------------------------------------------------

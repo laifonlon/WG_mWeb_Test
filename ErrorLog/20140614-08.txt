@@ -1,0 +1,152 @@
+﻿發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 1.170.143.248
+	Port: 56519
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; U; Android 2.3.6; zh-tw; GT-I9103 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 87708
+UserName :  8800andy@gmail.com
+IP : 1.170.143.248
+6/14/2014 8:17:36 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 1.170.143.248
+	Port: 48662
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; U; Android 2.3.6; zh-tw; GT-I9103 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 87708
+UserName :  8800andy@gmail.com
+IP : 1.170.143.248
+6/14/2014 8:18:38 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 211.79.36.249
+	Port: 49145
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; zh-tw; PadFone 2 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 211.79.36.249
+6/14/2014 8:32:24 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 211.79.36.249
+	Port: 35798
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; zh-tw; PadFone 2 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 211.79.36.249
+6/14/2014 8:32:56 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 42.71.170.238
+	Port: 38837
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B350 Safari/8536.25
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.170.238
+6/14/2014 8:36:13 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 42.71.170.238
+	Port: 38861
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B350 Safari/8536.25
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.170.238
+6/14/2014 8:36:42 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 42.71.170.238
+	Port: 38868
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B350 Safari/8536.25
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.170.238
+6/14/2014 8:36:57 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 42.71.170.238
+	Port: 38963
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B350 Safari/8536.25
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.170.238
+6/14/2014 8:39:11 AM
+-----------------------------------------------------------------------------------------------------------------------

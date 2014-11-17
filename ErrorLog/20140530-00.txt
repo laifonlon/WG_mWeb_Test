@@ -1,0 +1,52 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:The connection name 'ApplicationServices' was not found in the applications configuration or the connection string is empty.
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAKmUkQ4FdZAxLZBZBsfghqgm6ROOf1ogNtMivaDzPzgZBvuUnaINUP555zEq0vCqu2uyF3Q11JYGd8ieminhuSItAubk2keXuvPWB459fcwz2AUYDylElZCcZBzq2U7uEruP5GLb9mTtwgZAbQt69Qua5DMzM9bi2nkrjdGZAaFX&m=hgp10281028@gmail.com&u=100002921215645&l=君&f=萍&s=female&n=君萍&r=&GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 219.68.179.50:47671
+5/30/2014 12:09:54 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:An item with the same key has already been added.
+詳細資訊:
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at TwStockAccessor.GetName(String stockNo) in D:\home\site\wwwroot\App_Code\twStock\TwStockAccessor.vb:line 353
+   at TwStockAccessor.GetRealTimeChart(String stockNo, Int32 width, Int32 height) in D:\home\site\wwwroot\App_Code\twStock\TwStockAccessor.vb:line 369
+   at RealTimeChart.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\RealTimeChart.ascx.vb:line 17
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=1108
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 208.115.113.84:38062
+5/30/2014 12:15:40 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:The connection name 'ApplicationServices' was not found in the applications configuration or the connection string is empty.
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAF6PQgQvRlNlztI7uchexdOGrnM37PnPsGSJo8PKWF6DSZCg1KeZBObDnUzGjglGeABOoDdiWf4ZAlR6Wvm13ubBAotPIs6ofbALttVxufEEJM853LKyqOPkw34ZBVLZC0kWndyZBOl3Q8EGpRYmEzr6ZBri6RyN9f6L6Wmr9u7KjvJd3jDgL4ZD&m=ketty52077@yahoo.com.tw&u=100001678367466&l=Wang&f=Bowei&s=male&n=Bowei Wang&r=&GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.254.194.236:37245
+5/30/2014 12:28:13 AM
+-----------------------------------------------------------------------------------------------------------------------

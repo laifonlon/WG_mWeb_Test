@@ -1,0 +1,43 @@
+﻿發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=SIMO
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.125.71.51
+7/3/2014 9:04:59 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/PersonalPage/MyBlogPost.aspx
+錯誤訊息:The file '/PersonalPage/MyBlogPost.aspx' does not exist.
+詳細資訊:
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/PersonalPage/MyBlogPost.aspx?MemberNo=22456&ArticleID=995
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.79.99
+7/3/2014 9:07:37 PM
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,210 @@
+﻿發生錯誤的網頁:/index_s.aspx
+錯誤訊息:數學運算導致溢位。
+詳細資訊:
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\index_s.aspx.vb: 行 9
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  
+IP : 127.0.0.1
+2014/3/20 下午 02:12:21
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:數學運算導致溢位。
+詳細資訊:
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\index_s.aspx.vb: 行 9
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  
+IP : 127.0.0.1
+2014/3/20 下午 02:13:35
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:數學運算導致溢位。
+詳細資訊:
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\index_s.aspx.vb: 行 9
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  
+IP : 127.0.0.1
+2014/3/20 下午 02:13:42
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:數學運算導致溢位。
+詳細資訊:
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\index_s.aspx.vb: 行 9
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  
+IP : 127.0.0.1
+2014/3/20 下午 02:14:42
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:數學運算導致溢位。
+詳細資訊:
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\index_s.aspx.vb: 行 9
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  
+IP : 127.0.0.1
+2014/3/20 下午 02:15:48
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:數學運算導致溢位。
+詳細資訊:
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\index_s.aspx.vb: 行 9
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  
+IP : 127.0.0.1
+2014/3/20 下午 02:16:48
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:數學運算導致溢位。
+詳細資訊:
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\index_s.aspx.vb: 行 9
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  
+IP : 127.0.0.1
+2014/3/20 下午 02:17:40
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:數學運算導致溢位。
+詳細資訊:
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\index_s.aspx.vb: 行 9
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  
+IP : 127.0.0.1
+2014/3/20 下午 02:18:48
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:數學運算導致溢位。
+詳細資訊:
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\index_s.aspx.vb: 行 9
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  
+IP : 127.0.0.1
+2014/3/20 下午 02:20:07
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:數學運算導致溢位。
+詳細資訊:
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\index_s.aspx.vb: 行 9
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  
+IP : 127.0.0.1
+2014/3/20 下午 02:20:07
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:數學運算導致溢位。
+詳細資訊:
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\index_s.aspx.vb: 行 9
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  
+IP : 127.0.0.1
+2014/3/20 下午 02:20:49
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:數學運算導致溢位。
+詳細資訊:
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\index_s.aspx.vb: 行 9
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  
+IP : 127.0.0.1
+2014/3/20 下午 02:21:03
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:數學運算導致溢位。
+詳細資訊:
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\index_s.aspx.vb: 行 9
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  
+IP : 127.0.0.1
+2014/3/20 下午 02:22:52
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:數學運算導致溢位。
+詳細資訊:
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\index_s.aspx.vb: 行 9
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  
+IP : 127.0.0.1
+2014/3/20 下午 02:22:52
+-----------------------------------------------------------------------------------------------------------------------

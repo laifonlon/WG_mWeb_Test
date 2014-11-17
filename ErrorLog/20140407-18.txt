@@ -1,0 +1,231 @@
+﻿發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=WDC
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 220.181.108.148
+4/7/2014 6:05:19 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=ETFC
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 68.180.225.50
+4/7/2014 6:29:42 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=WPO
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.125.71.71
+4/7/2014 6:33:59 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=WPO
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.125.71.45
+4/7/2014 6:34:06 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=TSL
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 220.181.108.80
+4/7/2014 6:35:08 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=TSL
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.125.71.59
+4/7/2014 6:35:17 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=TSL
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.125.71.48
+4/7/2014 6:35:17 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=AT
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 220.181.108.83
+4/7/2014 6:46:23 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=AT
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.125.71.46
+4/7/2014 6:46:29 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/chart.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/chart.aspx?no=WTX&
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 220.181.108.111
+4/7/2014 6:46:51 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/chart.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/chart.aspx?no=WTX&
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.125.71.12
+4/7/2014 6:46:58 PM
+-----------------------------------------------------------------------------------------------------------------------

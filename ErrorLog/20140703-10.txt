@@ -1,0 +1,110 @@
+﻿發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=WTX&
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 66379
+UserName :  chaohung.wang@gmail.com
+IP : 125.227.190.252
+7/3/2014 10:48:42 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=WTX&
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 66379
+UserName :  chaohung.wang@gmail.com
+IP : 125.227.190.252
+7/3/2014 10:48:55 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=WTX&
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 66379
+UserName :  chaohung.wang@gmail.com
+IP : 125.227.190.252
+7/3/2014 10:48:57 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=WTX&
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 66379
+UserName :  chaohung.wang@gmail.com
+IP : 125.227.190.252
+7/3/2014 10:49:12 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=WTX&
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 66379
+UserName :  chaohung.wang@gmail.com
+IP : 125.227.190.252
+7/3/2014 10:49:22 AM
+-----------------------------------------------------------------------------------------------------------------------

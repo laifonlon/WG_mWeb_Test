@@ -1,0 +1,57 @@
+﻿發生錯誤的網頁:/globals.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 101.8.124.35
+	Port: 18874
+	Referer: http://m.wantgoo.com/globals.aspx?g=f
+	Path: /globals.aspx
+	User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) GSA/4.0.0.29643 Mobile/11D201 Safari/9537.53
+	ViewState: /wEPDwUKMTM2Mzg5OTg4NmRkN8hLfc2wmvSglvRgfyaTT2hXzxVaMMJVr0h59z2kqk8=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.8.124.35:18874
+5/27/2014 3:06:02 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 101.8.124.35
+	Port: 18874
+	Referer: http://m.wantgoo.com/globals.aspx?g=f
+	Path: /globals.aspx
+	User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) GSA/4.0.0.29643 Mobile/11D201 Safari/9537.53
+	ViewState: /wEPDwUKMTM2Mzg5OTg4NmRkN8hLfc2wmvSglvRgfyaTT2hXzxVaMMJVr0h59z2kqk8=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.8.124.35:18874
+5/27/2014 3:06:09 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 101.8.124.35
+	Port: 18874
+	Referer: http://m.wantgoo.com/globals.aspx?g=f
+	Path: /globals.aspx
+	User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) GSA/4.0.0.29643 Mobile/11D201 Safari/9537.53
+	ViewState: /wEPDwUKMTM2Mzg5OTg4NmRkN8hLfc2wmvSglvRgfyaTT2hXzxVaMMJVr0h59z2kqk8=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.8.124.35:18874
+5/27/2014 3:06:23 PM
+-----------------------------------------------------------------------------------------------------------------------

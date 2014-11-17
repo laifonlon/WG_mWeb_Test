@@ -1,0 +1,139 @@
+﻿發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:'lvMyRule' 的 DataSourceID 必須是 IDataSource 型別的控制項 ID。找不到 ID 為 'sdsMyRule' 的控制項。
+詳細資訊:
+   於 System.Web.UI.WebControls.DataBoundControl.GetDataSource()
+   於 System.Web.UI.WebControls.DataBoundControl.ConnectToDataSourceView()
+   於 System.Web.UI.WebControls.DataBoundControl.OnLoad(EventArgs e)
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=7893&RuleName=主升段進行式&rd=&direction=
+前一頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 下午 03:46:35
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:模稜兩可的資料行名稱 'Last'。
+詳細資訊:
+   於 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   於 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   於 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   於 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   於 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   於 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   於 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   於 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   於 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   於 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   於 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   於 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   於 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   於 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   於 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   於 System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   於 System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 97
+   於 Hottip_HottipResult.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 18
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action :  Declare @StartDate date Set @StartDate = '2014/03/24' Declare @EndDate date Set @EndDate = '2014/03/24' Declare @CompareDate date Set @CompareDate = '2013/05/30' SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Change > 0 then '▲' when Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Change ))) as Change2, case when Change > 0 then 'r' when Change < 0 then 'g' else '' End as ColorStyle, case when Change > 0 then '+' when Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Change/ Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=0 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM Stock Left OUTER JOIN Selection1 ON Stock.StockNo = Selection1.StockNo Left OUTER JOIN Selection ON Stock.StockNo = Selection.StockNo Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo Inner JOIN (Select [StockNo],[Open],[High],[Low],[Close],[Volume],[K9],[D9],[PriceVolume],[Mean5],[Mean10],[Mean20],[Mean60],[Mean120],[Mean240],[RankDirect],[RankDirectShort],[RankDuration],[RankDurationShort],[Rank20Short],[Rank20],[Rank40Short],[Rank40],[Rank60Short],[Rank60],[Mean5Volume],[Mean10Volume],[Mean20Volume],[Mean60Volume],[William20],[Last],[RSI3],[RSI5],[RSI6],[RSI9],[RSI10],[RSI12],[RSI14],[Mean20DistanceRate],[Mean60DistanceRate],[ChangeRatio],[AmplitudeRatio],[UpShadowRatio],[DownShadowRatio],[KstickRatio],NewHighDays FROM HistoryPriceDaily WHERE Date = @CompareDate And StockNo In (Select StockNo From Stock Where Market < 2)) AS Today ON Stock.StockNo = Today.StockNo Inner JOIN (Select K9,D9,StockNo FROM HistoryPriceWeekly WHERE DATEDIFF(WK,Date, @CompareDate) = 0 And StockNo In (Select StockNo From Stock Where Market < 2)) AS Week ON Stock.StockNo = Week.StockNo Inner JOIN (Select K9,D9,StockNo FROM HistoryPriceMonthly WHERE DATEDIFF(M,Date, @CompareDate) = 0 And StockNo In (Select StockNo From Stock Where Market < 2)) AS Month ON Stock.StockNo = Month.StockNo Inner JOIN (Select K9,D9,StockNo From (Select RANK () Over( PARTITION BY StockNo Order by Date Desc) C,K9,D9,StockNo,Date From HistoryPriceDaily Where StockNo In ( Select StockNo From Stock Where Market < 2 ) And Date < @CompareDate and Date > DATEADD(D,-10,@CompareDate) ) t1 Where C = 1)  AS Yesterday ON Stock.StockNo = Yesterday.StockNo Inner JOIN (Select K9,D9,StockNo From (Select RANK () Over( PARTITION BY StockNo Order by Date Desc) C,K9,D9,StockNo,Date From HistoryPriceWeekly Where StockNo In ( Select StockNo From Stock Where Market < 2 ) And DATEDIFF(WK,Date,@CompareDate) < 3 and DATEDIFF(WK,Date,@CompareDate) >= 1 ) t1 Where C = 1)  AS LastWeek ON Stock.StockNo = LastWeek.StockNo Inner JOIN (Select K9,D9,StockNo From (Select RANK () Over( PARTITION BY StockNo Order by Date Desc) C,K9,D9,StockNo,Date From HistoryPriceMonthly Where StockNo In ( Select StockNo From Stock Where Market < 2 ) And DATEDIFF(M,Date,@CompareDate) < 3 and DATEDIFF(M,Date,@CompareDate) >= 1 ) t1 Where C = 1) AS LastMonth ON Stock.StockNo = LastMonth.StockNo  WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Today.[Close] > 3 And Today.[Close] < 50 And Today.Volume > 300000 And 100*Today.[AmplitudeRatio] > 1 And Today.K9 > Yesterday.K9 And Week.K9 > LastWeek.K9 And Month.K9 > LastMonth.K9 And Today.NewHighDays > 3 And cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 < 35 And Stock.StockNo > 999 And Stock.NPTT < 1 And Stock.EPS > 0.01 And Stock.EPS < 16 And Fundamentals.EpsSeason > 0  Order by StockNo
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=5118&RuleName=大三元選股秘技-1&rd=今日&direction=空頭
+前一頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx?direction=空頭&rd=今日
+MemberNo : 23795
+UserName :  a3173002000@yahoo.com.tw
+IP : 127.0.0.1
+2014/3/24 下午 03:47:28
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:'lvMyRule' 的 DataSourceID 必須是 IDataSource 型別的控制項 ID。找不到 ID 為 'sdsMyRule' 的控制項。
+詳細資訊:
+   於 System.Web.UI.WebControls.DataBoundControl.GetDataSource()
+   於 System.Web.UI.WebControls.DataBoundControl.ConnectToDataSourceView()
+   於 System.Web.UI.WebControls.DataBoundControl.OnLoad(EventArgs e)
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action :  Declare @StartDate date Set @StartDate = '2014/03/24' Declare @EndDate date Set @EndDate = '2014/03/24' Declare @CompareDate date Set @CompareDate = '2013/05/30' SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=0 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM Stock Left OUTER JOIN Selection1 ON Stock.StockNo = Selection1.StockNo Left OUTER JOIN Selection ON Stock.StockNo = Selection.StockNo Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo Inner JOIN (Select [StockNo],[Open],[High],[Low],[Close],[Volume],[K9],[D9],[PriceVolume],[Mean5],[Mean10],[Mean20],[Mean60],[Mean120],[Mean240],[RankDirect],[RankDirectShort],[RankDuration],[RankDurationShort],[Rank20Short],[Rank20],[Rank40Short],[Rank40],[Rank60Short],[Rank60],[Mean5Volume],[Mean10Volume],[Mean20Volume],[Mean60Volume],[William20],[Last],[RSI3],[RSI5],[RSI6],[RSI9],[RSI10],[RSI12],[RSI14],[Mean20DistanceRate],[Mean60DistanceRate],[ChangeRatio],[AmplitudeRatio],[UpShadowRatio],[DownShadowRatio],[KstickRatio],NewHighDays FROM HistoryPriceDaily WHERE Date = @CompareDate And StockNo In (Select StockNo From Stock Where Market < 2)) AS Today ON Stock.StockNo = Today.StockNo Inner JOIN (Select K9,D9,StockNo FROM HistoryPriceWeekly WHERE DATEDIFF(WK,Date, @CompareDate) = 0 And StockNo In (Select StockNo From Stock Where Market < 2)) AS Week ON Stock.StockNo = Week.StockNo Inner JOIN (Select K9,D9,StockNo FROM HistoryPriceMonthly WHERE DATEDIFF(M,Date, @CompareDate) = 0 And StockNo In (Select StockNo From Stock Where Market < 2)) AS Month ON Stock.StockNo = Month.StockNo Inner JOIN (Select K9,D9,StockNo From (Select RANK () Over( PARTITION BY StockNo Order by Date Desc) C,K9,D9,StockNo,Date From HistoryPriceDaily Where StockNo In ( Select StockNo From Stock Where Market < 2 ) And Date < @CompareDate and Date > DATEADD(D,-10,@CompareDate) ) t1 Where C = 1)  AS Yesterday ON Stock.StockNo = Yesterday.StockNo Inner JOIN (Select K9,D9,StockNo From (Select RANK () Over( PARTITION BY StockNo Order by Date Desc) C,K9,D9,StockNo,Date From HistoryPriceWeekly Where StockNo In ( Select StockNo From Stock Where Market < 2 ) And DATEDIFF(WK,Date,@CompareDate) < 3 and DATEDIFF(WK,Date,@CompareDate) >= 1 ) t1 Where C = 1)  AS LastWeek ON Stock.StockNo = LastWeek.StockNo Inner JOIN (Select K9,D9,StockNo From (Select RANK () Over( PARTITION BY StockNo Order by Date Desc) C,K9,D9,StockNo,Date From HistoryPriceMonthly Where StockNo In ( Select StockNo From Stock Where Market < 2 ) And DATEDIFF(M,Date,@CompareDate) < 3 and DATEDIFF(M,Date,@CompareDate) >= 1 ) t1 Where C = 1) AS LastMonth ON Stock.StockNo = LastMonth.StockNo  WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Today.[Close] > 3 And Today.[Close] < 50 And Today.Volume > 300000 And 100*Today.[AmplitudeRatio] > 1 And Today.K9 > Yesterday.K9 And Week.K9 > LastWeek.K9 And Month.K9 > LastMonth.K9 And Today.NewHighDays > 3 And cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 < 35 And Stock.StockNo > 999 And Stock.EPS > 0.01 And Stock.EPS < 16 And Fundamentals.EpsSeason > 0  Order by StockNo
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=5119&RuleName=大三元選股秘技-2&rd=今日&direction=空頭
+前一頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx?direction=空頭&rd=今日
+MemberNo : 23795
+UserName :  a3173002000@yahoo.com.tw
+IP : 127.0.0.1
+2014/3/24 下午 03:48:26
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:'lvMyRule' 的 DataSourceID 必須是 IDataSource 型別的控制項 ID。找不到 ID 為 'sdsMyRule' 的控制項。
+詳細資訊:
+   於 System.Web.UI.WebControls.DataBoundControl.GetDataSource()
+   於 System.Web.UI.WebControls.DataBoundControl.ConnectToDataSourceView()
+   於 System.Web.UI.WebControls.DataBoundControl.OnLoad(EventArgs e)
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action :  Declare @StartDate date Set @StartDate = '2014/03/24' Declare @EndDate date Set @EndDate = '2014/03/24' SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=0 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM Stock Left OUTER JOIN Selection1 ON Stock.StockNo = Selection1.StockNo Left OUTER JOIN Selection ON Stock.StockNo = Selection.StockNo Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo Left OUTER JOIN Exright ON Stock.StockNo = Exright.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Fundamentals.IncomeHighLastYear > 6 And Fundamentals.OperatingMargin > 20  Order by StockNo
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=4704&RuleName=高成長高毛利&rd=今日&direction=空頭
+前一頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx?direction=空頭&rd=今日
+MemberNo : 23795
+UserName :  a3173002000@yahoo.com.tw
+IP : 127.0.0.1
+2014/3/24 下午 03:48:36
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:'lvMyRule' 的 DataSourceID 必須是 IDataSource 型別的控制項 ID。找不到 ID 為 'sdsMyRule' 的控制項。
+詳細資訊:
+   於 System.Web.UI.WebControls.DataBoundControl.GetDataSource()
+   於 System.Web.UI.WebControls.DataBoundControl.ConnectToDataSourceView()
+   於 System.Web.UI.WebControls.DataBoundControl.OnLoad(EventArgs e)
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action :  Declare @StartDate date Set @StartDate = '2014/03/24' Declare @EndDate date Set @EndDate = '2014/03/24' SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=0 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM Stock Left OUTER JOIN Selection1 ON Stock.StockNo = Selection1.StockNo Left OUTER JOIN Selection ON Stock.StockNo = Selection.StockNo Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo Left OUTER JOIN Exright ON Stock.StockNo = Exright.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Fundamentals.IncomeHighLastYear > 6 And Fundamentals.OperatingMargin > 20  Order by StockNo
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=4704&RuleName=高成長高毛利&rd=今日&direction=空頭
+前一頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx?direction=空頭&rd=今日
+MemberNo : 23795
+UserName :  a3173002000@yahoo.com.tw
+IP : 127.0.0.1
+2014/3/24 下午 03:49:44
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:'lvMyRule' 的 DataSourceID 必須是 IDataSource 型別的控制項 ID。找不到 ID 為 'sdsMyRule' 的控制項。
+詳細資訊:
+   於 System.Web.UI.WebControls.DataBoundControl.GetDataSource()
+   於 System.Web.UI.WebControls.DataBoundControl.ConnectToDataSourceView()
+   於 System.Web.UI.WebControls.DataBoundControl.OnLoad(EventArgs e)
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action :  Declare @StartDate date Set @StartDate = '2014/03/24' Declare @EndDate date Set @EndDate = '2014/03/24' Declare @CompareDate date Set @CompareDate = '2013/05/30' SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=0 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM Stock Left OUTER JOIN Selection1 ON Stock.StockNo = Selection1.StockNo Left OUTER JOIN Selection ON Stock.StockNo = Selection.StockNo Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo Inner JOIN (Select [StockNo],[Open],[High],[Low],[Close],[Volume],[K9],[D9],[PriceVolume],[Mean5],[Mean10],[Mean20],[Mean60],[Mean120],[Mean240],[RankDirect],[RankDirectShort],[RankDuration],[RankDurationShort],[Rank20Short],[Rank20],[Rank40Short],[Rank40],[Rank60Short],[Rank60],[Mean5Volume],[Mean10Volume],[Mean20Volume],[Mean60Volume],[William20],[Last],[RSI3],[RSI5],[RSI6],[RSI9],[RSI10],[RSI12],[RSI14],[Mean20DistanceRate],[Mean60DistanceRate],[ChangeRatio],[AmplitudeRatio],[UpShadowRatio],[DownShadowRatio],[KstickRatio],NewHighDays FROM HistoryPriceDaily WHERE Date = @CompareDate And StockNo In (Select StockNo From Stock Where Market < 2)) AS Today ON Stock.StockNo = Today.StockNo Inner JOIN (Select K9,D9,StockNo FROM HistoryPriceWeekly WHERE DATEDIFF(WK,Date, @CompareDate) = 0 And StockNo In (Select StockNo From Stock Where Market < 2)) AS Week ON Stock.StockNo = Week.StockNo Inner JOIN (Select K9,D9,StockNo FROM HistoryPriceMonthly WHERE DATEDIFF(M,Date, @CompareDate) = 0 And StockNo In (Select StockNo From Stock Where Market < 2)) AS Month ON Stock.StockNo = Month.StockNo Inner JOIN (Select K9,D9,StockNo From (Select RANK () Over( PARTITION BY StockNo Order by Date Desc) C,K9,D9,StockNo,Date From HistoryPriceDaily Where StockNo In ( Select StockNo From Stock Where Market < 2 ) And Date < @CompareDate and Date > DATEADD(D,-10,@CompareDate) ) t1 Where C = 1)  AS Yesterday ON Stock.StockNo = Yesterday.StockNo Inner JOIN (Select K9,D9,StockNo From (Select RANK () Over( PARTITION BY StockNo Order by Date Desc) C,K9,D9,StockNo,Date From HistoryPriceWeekly Where StockNo In ( Select StockNo From Stock Where Market < 2 ) And DATEDIFF(WK,Date,@CompareDate) < 3 and DATEDIFF(WK,Date,@CompareDate) >= 1 ) t1 Where C = 1)  AS LastWeek ON Stock.StockNo = LastWeek.StockNo Inner JOIN (Select K9,D9,StockNo From (Select RANK () Over( PARTITION BY StockNo Order by Date Desc) C,K9,D9,StockNo,Date From HistoryPriceMonthly Where StockNo In ( Select StockNo From Stock Where Market < 2 ) And DATEDIFF(M,Date,@CompareDate) < 3 and DATEDIFF(M,Date,@CompareDate) >= 1 ) t1 Where C = 1) AS LastMonth ON Stock.StockNo = LastMonth.StockNo  WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Today.[Close] > 3 And Today.[Close] < 50 And Today.Volume > 300000 And 100*Today.[AmplitudeRatio] > 1 And Today.K9 > Yesterday.K9 And Week.K9 > LastWeek.K9 And Month.K9 > LastMonth.K9 And Today.NewHighDays > 3 And cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 < 35 And Stock.StockNo > 999 And Stock.EPS > 0.01 And Stock.EPS < 16 And Fundamentals.EpsSeason > 0  Order by StockNo
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=5119&RuleName=大三元選股秘技-2&rd=今日&direction=空頭
+前一頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx?direction=空頭&rd=今日
+MemberNo : 23795
+UserName :  a3173002000@yahoo.com.tw
+IP : 127.0.0.1
+2014/3/24 下午 03:51:12
+-----------------------------------------------------------------------------------------------------------------------

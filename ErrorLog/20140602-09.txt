@@ -1,0 +1,2576 @@
+﻿發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.79.240:43921
+6/2/2014 9:00:14 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/Search.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.243.131.208:53869
+6/2/2014 9:01:34 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.254.179.15:41571
+6/2/2014 9:02:59 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 180.176.205.117:16949
+6/2/2014 9:04:31 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.250.27.85:51159
+6/2/2014 9:05:12 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=a
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.37.82.226:58677
+6/2/2014 9:05:24 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.250.27.85:51174
+6/2/2014 9:05:43 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : http://madchu.com/?p=1675
+MemberNo : 0
+UserName :  NotLogin
+IP : 219.71.93.220:52590
+6/2/2014 9:07:45 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 116.236.105.82:53807
+6/2/2014 9:10:21 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 116.236.105.82:53812
+6/2/2014 9:11:01 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=a
+前一頁 : http://m.wantgoo.com/globals.aspx?g=a
+MemberNo : 0
+UserName :  NotLogin
+IP : 116.236.105.82:53812
+6/2/2014 9:11:27 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 27.52.225.51:55985
+6/2/2014 9:15:26 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 27.52.225.51:55986
+6/2/2014 9:15:29 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 27.52.225.51:55986
+6/2/2014 9:15:31 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 27.52.225.51:55987
+6/2/2014 9:15:33 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=a
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.13.150.67:18245
+6/2/2014 9:16:40 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/Article.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.200.14.39
+6/2/2014 9:18:39 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.36.180:56245
+6/2/2014 9:18:42 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/Article.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.200.14.39
+6/2/2014 9:18:53 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/Article.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.200.14.39
+6/2/2014 9:18:53 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.36.180:56251
+6/2/2014 9:18:56 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:Operator '-' is not defined for type 'DBNull' and type 'Single'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.SubtractObject(Object Left, Object Right)
+   at ASP.dealinfo_ascx.__DataBinding__control6(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx:line 16
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.FormView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.FormView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.FindControl(String id, Int32 pathOffset)
+   at DealInfo.DisplayColor() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 76
+   at DealInfo.LoadData() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/Article.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.200.14.39
+6/2/2014 9:19:02 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.64.143.101:60564
+6/2/2014 9:20:59 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.64.143.101:60564
+6/2/2014 9:21:01 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://www.google.com.tw/search?hl=zh-TW&ie=UTF-8&source=android-browser&q=欧美股市&gfe_rd=cr&ei=B0KMU8fFHomB9AW-3oG4DA
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.252.212.68:45001
+6/2/2014 9:21:15 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://www.google.com.tw/search?hl=zh-TW&ie=UTF-8&source=android-browser&q=欧美股市&gfe_rd=cr&ei=B0KMU8fFHomB9AW-3oG4DA
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.252.212.68:45001
+6/2/2014 9:21:23 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.64.143.101:60618
+6/2/2014 9:21:56 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:Operator '-' is not defined for type 'DBNull' and type 'Single'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.SubtractObject(Object Left, Object Right)
+   at ASP.dealinfo_ascx.__DataBinding__control6(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx:line 16
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.FormView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.FormView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.FindControl(String id, Int32 pathOffset)
+   at DealInfo.DisplayColor() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 76
+   at DealInfo.LoadData() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.64.143.101:60638
+6/2/2014 9:22:10 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 59.115.249.60:45137
+6/2/2014 9:23:58 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.41.1:63133
+6/2/2014 9:29:34 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=a
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 49.219.37.44:2727
+6/2/2014 9:30:01 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:Operator '-' is not defined for type 'DBNull' and type 'Single'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.SubtractObject(Object Left, Object Right)
+   at ASP.dealinfo_ascx.__DataBinding__control6(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx:line 16
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.FormView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.FormView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.FindControl(String id, Int32 pathOffset)
+   at DealInfo.DisplayColor() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 76
+   at DealInfo.LoadData() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/blog.aspx?bid=120725
+MemberNo : 0
+UserName :  NotLogin
+IP : 27.52.222.44:27051
+6/2/2014 9:30:05 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.11.163.108:53502
+6/2/2014 9:30:43 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.3.46.22:38611
+6/2/2014 9:32:24 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.3.46.22:38611
+6/2/2014 9:32:34 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.3.46.22:38611
+6/2/2014 9:32:36 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.3.46.22:38611
+6/2/2014 9:32:44 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://www.google.com.tw/search?hl=zh-TW&ie=UTF-8&source=android-browser&q=欧美股市&gfe_rd=cr&ei=uUSMU4rsJoPA9AXa_YCQBA
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.252.212.68:45114
+6/2/2014 9:32:48 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://www.google.com.tw/search?hl=zh-TW&ie=UTF-8&source=android-browser&q=欧美股市&gfe_rd=cr&ei=uUSMU4rsJoPA9AXa_YCQBA
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.252.212.68:45114
+6/2/2014 9:32:54 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=a
+前一頁 : http://m.wantgoo.com/globals.aspx?g=a
+MemberNo : 0
+UserName :  NotLogin
+IP : 116.236.105.82:53899
+6/2/2014 9:33:19 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.41.144:25834
+6/2/2014 9:33:21 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.142.3.148:45255
+6/2/2014 9:34:20 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.141.166.86:39242
+6/2/2014 9:34:33 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.141.166.86:39246
+6/2/2014 9:35:00 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.141.166.86:39250
+6/2/2014 9:35:03 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.141.166.86:39254
+6/2/2014 9:35:19 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.142.3.148:45255
+6/2/2014 9:35:19 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=a
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.141.166.86:39259
+6/2/2014 9:35:29 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/Globals.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 118.170.179.72:54717
+6/2/2014 9:35:42 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/Globals.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 118.170.179.72:54717
+6/2/2014 9:35:48 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=a
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.141.166.86:39263
+6/2/2014 9:35:51 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/Globals.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 118.170.179.72:54717
+6/2/2014 9:35:51 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=a
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.141.166.86:39266
+6/2/2014 9:36:00 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/Globals.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 118.170.179.72:54717
+6/2/2014 9:36:08 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/Club.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 118.170.179.72:54717
+6/2/2014 9:36:18 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 116.236.105.82:53919
+6/2/2014 9:36:26 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 116.236.105.82:53920
+6/2/2014 9:36:27 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 116.236.105.82:53920
+6/2/2014 9:36:30 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.253.169.50:35964
+6/2/2014 9:37:09 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.8.170.65:52304
+6/2/2014 9:37:15 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.253.169.50:35964
+6/2/2014 9:37:18 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.253.169.50:35964
+6/2/2014 9:37:20 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.253.169.50:35964
+6/2/2014 9:37:25 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:Operator '-' is not defined for type 'DBNull' and type 'Single'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.SubtractObject(Object Left, Object Right)
+   at ASP.dealinfo_ascx.__DataBinding__control6(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx:line 16
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.FormView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.FormView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.FindControl(String id, Int32 pathOffset)
+   at DealInfo.DisplayColor() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 76
+   at DealInfo.LoadData() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.8.170.65:52301
+6/2/2014 9:37:44 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.253.169.50:35968
+6/2/2014 9:37:47 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.11.163.108:60292
+6/2/2014 9:38:19 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/Article.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.8.170.65:52304
+6/2/2014 9:38:54 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 27.52.83.114:3702
+6/2/2014 9:39:30 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.253.169.50:35968
+6/2/2014 9:39:36 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 124.149.161.83:60546
+6/2/2014 9:40:15 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 124.244.179.15:55721
+6/2/2014 9:40:56 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 124.244.179.15:55721
+6/2/2014 9:40:59 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 124.149.161.83:60619
+6/2/2014 9:41:37 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 115.82.22.7:23900
+6/2/2014 9:42:13 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.252.82.50:36976
+6/2/2014 9:44:22 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.252.82.50:36976
+6/2/2014 9:44:39 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 124.149.161.83:60677
+6/2/2014 9:45:09 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.141.166.86:48173
+6/2/2014 9:46:16 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Operator '-' is not defined for type 'DBNull' and type 'Single'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.SubtractObject(Object Left, Object Right)
+   at ASP.dealinfo_ascx.__DataBinding__control20(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx:line 59
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.FormView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.FormView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.FindControl(String id, Int32 pathOffset)
+   at DealInfo.DisplayColor() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 76
+   at DealInfo.LoadData() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=0000
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.162.199.77:46180
+6/2/2014 9:46:32 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:Operator '-' is not defined for type 'DBNull' and type 'Single'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.SubtractObject(Object Left, Object Right)
+   at ASP.dealinfo_ascx.__DataBinding__control6(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx:line 16
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.FormView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.FormView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.FindControl(String id, Int32 pathOffset)
+   at DealInfo.DisplayColor() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 76
+   at DealInfo.LoadData() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.162.199.77:40756
+6/2/2014 9:48:14 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 124.149.161.83:60798
+6/2/2014 9:48:24 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 124.149.161.83:60862
+6/2/2014 9:49:36 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Operator '-' is not defined for type 'DBNull' and type 'Single'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.SubtractObject(Object Left, Object Right)
+   at ASP.dealinfo_ascx.__DataBinding__control20(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx:line 59
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.FormView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.FormView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.FindControl(String id, Int32 pathOffset)
+   at DealInfo.DisplayColor() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 76
+   at DealInfo.LoadData() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=0000
+前一頁 : http://m.wantgoo.com/stock.aspx?no=3561
+MemberNo : 0
+UserName :  NotLogin
+IP : 39.10.56.62:41381
+6/2/2014 9:50:17 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.24.74.62:26509
+6/2/2014 9:50:48 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 118.167.227.142:38739
+6/2/2014 9:50:51 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 118.167.227.142:38739
+6/2/2014 9:51:17 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 183.179.41.151:51038
+6/2/2014 9:51:52 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/chart.aspx
+錯誤訊息:Operator '-' is not defined for type 'DBNull' and type 'Single'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.SubtractObject(Object Left, Object Right)
+   at ASP.dealinfo_ascx.__DataBinding__control6(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx:line 16
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.FormView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.FormView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.FindControl(String id, Int32 pathOffset)
+   at DealInfo.DisplayColor() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 76
+   at DealInfo.LoadData() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/chart.aspx?no=0000
+前一頁 : http://m.wantgoo.com/TwIndex.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.185.166:32076
+6/2/2014 9:53:09 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 54.226.196.69:39096
+6/2/2014 9:55:04 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:Operator '-' is not defined for type 'DBNull' and type 'Single'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.SubtractObject(Object Left, Object Right)
+   at ASP.dealinfo_ascx.__DataBinding__control6(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx:line 16
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.FormView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.FormView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.FindControl(String id, Int32 pathOffset)
+   at DealInfo.DisplayColor() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 76
+   at DealInfo.LoadData() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 54.83.121.1:60528
+6/2/2014 9:55:12 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.235.210.33:42617
+6/2/2014 9:55:17 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.235.210.33:33212
+6/2/2014 9:55:30 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 115.81.94.227:38265
+6/2/2014 9:55:41 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 125.230.94.92:53756
+6/2/2014 9:56:02 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.79.240:47108
+6/2/2014 9:57:31 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.45.57.118:3115
+6/2/2014 9:57:43 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.45.57.118:3115
+6/2/2014 9:57:49 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.235.210.33:53257
+6/2/2014 9:58:11 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.235.210.33:53257
+6/2/2014 9:58:17 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.235.210.33:53257
+6/2/2014 9:58:22 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 125.230.94.92:53833
+6/2/2014 9:58:22 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.235.210.33:53257
+6/2/2014 9:58:28 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 36.231.44.228:12375
+6/2/2014 9:58:47 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.235.210.33:55072
+6/2/2014 9:58:55 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 14.0.207.68:6680
+6/2/2014 9:59:11 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:Operator '-' is not defined for type 'DBNull' and type 'Single'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.SubtractObject(Object Left, Object Right)
+   at ASP.dealinfo_ascx.__DataBinding__control6(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx:line 16
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.FormView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.FormView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.FindControl(String id, Int32 pathOffset)
+   at DealInfo.DisplayColor() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 76
+   at DealInfo.LoadData() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.235.210.33:37159
+6/2/2014 9:59:15 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.235.210.33:47219
+6/2/2014 9:59:27 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Operator '>' is not defined for type 'DBNull' and type 'Integer'.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Operators.ConditionalCompareObjectGreater(Object Left, Object Right, Boolean TextCompare)
+   at StockViewr.LoadData() in D:\home\site\wwwroot\StockViewr.ascx.vb:line 245
+   at StockViewr.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\StockViewr.ascx.vb:line 174
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.235.210.33:58637
+6/2/2014 9:59:41 AM
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,53 @@
+﻿發生錯誤的網頁:/stock/classcont.aspx
+錯誤訊息:檔案 '/stock/classcont.aspx' 不存在。
+詳細資訊:
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock/classcont.aspx?id=27
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.77.32
+4/8/2014 10:10:38 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock/classcont.aspx
+錯誤訊息:檔案 '/stock/classcont.aspx' 不存在。
+詳細資訊:
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock/classcont.aspx?id=34
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.77.32
+4/8/2014 10:11:29 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:在應用程式組態中找不到連接名稱 'ApplicationServices'，或連接字串為空白。
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BABW6FmS79ZBLrGvC5tEcHjK2NoYq79m8PV2kX2tldVLB2pfrb9ZAyQE1yNLS5cpMQWK8WKgH9E8ETp8oQZCcSXW6pRIlFdQZBXmwUNtfohYjoIxp7ZCW1Q0ARvJzdj0uyoVmRToZArWAe0aYErkL7JSc6g7w3inCzJ53sGX6pQZAu50WE2o7vAZD&m=advemture@hotmail.com&u=100000296020502&l=陳&f=寶妃&s=female&n=陳寶妃&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 39.12.183.19
+4/8/2014 10:37:11 AM
+-----------------------------------------------------------------------------------------------------------------------

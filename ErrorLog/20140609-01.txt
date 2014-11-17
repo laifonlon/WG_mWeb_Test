@@ -1,0 +1,64 @@
+﻿發生錯誤的網頁:/ScriptResource.axd
+錯誤訊息:This is an invalid script resource request.
+詳細資訊:
+   at System.Web.Handlers.ScriptResourceHandler.ProcessRequest(HttpContextBase context, VirtualFileReader fileReader, Action`2 logAction, Boolean validatePath)
+   at System.Web.Handlers.ScriptResourceHandler.ProcessRequest(HttpContext context)
+   at System.Web.Handlers.ScriptResourceHandler.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/ScriptResource.axd?d=IFGvftJ6SA2749BmEyfxtlAC8cZtnlfJ6AWwfYuCZD7XYvPtqhbY9vIZOydhQzvIrqDTxWHMOzIankBIztSG5TmziTSERXeRcbDEAIjgJa7kp2nBT-w6yEN0nFMRCv9idHkD9wHw_qTZPO9IqvioYf3AtWvMxAUtw891XHbSOwMfudTT0&t=2e2045e2
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.76.126
+6/9/2014 1:17:40 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/ScriptResource.axd
+錯誤訊息:This is an invalid script resource request.
+詳細資訊:
+   at System.Web.Handlers.ScriptResourceHandler.ProcessRequest(HttpContextBase context, VirtualFileReader fileReader, Action`2 logAction, Boolean validatePath)
+   at System.Web.Handlers.ScriptResourceHandler.ProcessRequest(HttpContext context)
+   at System.Web.Handlers.ScriptResourceHandler.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/ScriptResource.axd?d=Gj6SMotHTblz_EGCAQ_wHdJ5UQrqZbH2zpIcoI_0HkL7QQBh-V3NNEFdiHGsB2H_NnVB_ksCJixsck093P4ik00jtvDgIwojO9Zr3KTO-wJ5BelDaGL7ffpYs7GlPL0KUBn5FuA6U5fcb57svdLd2Pbp6eE1&t=2e2045e2
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.76.126
+6/9/2014 1:17:41 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/WebResource.axd
+錯誤訊息:This is an invalid webresource request.
+詳細資訊:
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/WebResource.axd?d=XHDayB0Q4Qh2rTDjfgD83DdmBFAwnw_V01GDzj1v2UL_k45aWZgwYl8lgANnaY-te5vRM2HaVKAHg7HeOsZINk1CfGk1&t=635083448141708196
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.64.159
+6/9/2014 1:17:42 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:The connection name 'ApplicationServices' was not found in the applications configuration or the connection string is empty.
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BALNHsNK66K5cuUhqLFXvI4vAG7IzLNcRYS6vNLxLipZAvHX4kGzKCTA5ncrSbat3fSLkrd3e4kDGqA70uif2ZBWdBIbZC38HMYvoHeHZAvJB5qZAvteBAeZAZCgIpV1NZCLGK1bUMIkUeWZAYdWcZBOLuuho7VbZAVrhUZABFyfxDDjB&m=mimiandwonwon@yahoo.com.tw&u=1560897842&l=林&f=小因&s=male&n=林小因&r=&GoBackUrl=/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage1.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 115.82.242.77
+6/9/2014 1:35:00 AM
+-----------------------------------------------------------------------------------------------------------------------

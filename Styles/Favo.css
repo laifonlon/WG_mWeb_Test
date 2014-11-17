@@ -1,0 +1,33 @@
+﻿body {
+}
+
+.fixed-ad{
+  padding:1px;
+  width:250px; height:80px;
+  position:fixed; top:260px; right:30px;
+  _position: absolute; /* position fixed for IE6 */
+  _top:expression(documentElement.scrollTop+260);
+  z-index:3;
+}
+
+.org_box{
+    height:80px;
+    line-height:40px; 
+    margin-bottom:30px; 
+    padding-left:10px;
+    background:#B70000 ; 
+    position:relative; 
+}
+.org_bot_cor{
+    width:0; 
+    height:0; 
+    font-size:0; 
+    border-width:15px; 
+    border-style:solid; 
+    border-color:#B70000  transparent transparent; 
+    _border-color:#B70000  white white; 
+    overflow:hidden; 
+    position:absolute; 
+    left:108px; 
+    bottom:-30px;
+}

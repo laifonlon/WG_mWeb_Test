@@ -1,0 +1,15 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BABP84Iw3OWn06mZBnPl5ny3MD2JAuK2cz7Vz6uEAwlWwTz3rDkngKkxpqeJiYwJGua8VmSFJz39YkVtNVIkfmFDnXY6IC2ZCnKR9ExzXU6vD7tj7uxy5pFyDGaTXGk73IpyhPTTZBxCGEvahYEQywMRL59Ht4tuVN14Q2HI3pvzbmM5cA8ZD&m=undefined&u=100000084924878&l=洪&f=薇甯&s=female&n=洪薇甯&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 180.177.76.68
+4/24/2014 10:27:24 PM
+-----------------------------------------------------------------------------------------------------------------------

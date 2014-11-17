@@ -1,0 +1,1583 @@
+﻿發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 112) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.12.14.124
+5/15/2014 9:01:00 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 55) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.89.156
+5/15/2014 9:02:49 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Login.aspx
+錯誤訊息:交易 (處理序識別碼 143) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at MemberAuthority.Login(String userName, Boolean isAutoLogin) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\MemberAuthority.vb:line 14
+   at Login.Login1_LoggedIn(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Login.aspx.vb:line 14
+   at System.Web.UI.WebControls.Login.AttemptLogin()
+   at System.Web.UI.WebControls.Login.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage1.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.12.56.134
+5/15/2014 9:08:59 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 143) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 27.243.74.190
+5/15/2014 9:09:15 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 112) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.77.77
+5/15/2014 9:15:52 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 112) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.66.2.222
+5/15/2014 9:16:43 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Login.aspx
+錯誤訊息:交易 (處理序識別碼 90) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at MemberAuthority.Login(String userName, Boolean isAutoLogin) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\MemberAuthority.vb:line 14
+   at Login.Login1_LoggedIn(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Login.aspx.vb:line 14
+   at System.Web.UI.WebControls.Login.AttemptLogin()
+   at System.Web.UI.WebControls.Login.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.15.44.59
+5/15/2014 9:20:09 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 112) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/topicdetail.aspx?p=1&id=10&tid=18025
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.81.114.235
+5/15/2014 9:20:51 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Login.aspx
+錯誤訊息:交易 (處理序識別碼 103) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at MemberAuthority.Login(String userName, Boolean isAutoLogin) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\MemberAuthority.vb:line 14
+   at Login.Login1_LoggedIn(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Login.aspx.vb:line 14
+   at System.Web.UI.WebControls.Login.AttemptLogin()
+   at System.Web.UI.WebControls.Login.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage1.aspx?g=3
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage1.aspx?g=3
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.70.120.187
+5/15/2014 9:20:52 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 198) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.14.178
+5/15/2014 9:29:03 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 70) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.75.79.54
+5/15/2014 9:29:04 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 198) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.75.79.54
+5/15/2014 9:29:06 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 83) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/topic.aspx?p=1&id=9
+MemberNo : 0
+UserName :  NotLogin
+IP : 59.115.115.72
+5/15/2014 9:29:07 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 198) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.75.79.54
+5/15/2014 9:29:07 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 83) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/topic.aspx?p=1&id=9
+MemberNo : 0
+UserName :  NotLogin
+IP : 59.115.115.72
+5/15/2014 9:29:09 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 70) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/TwIndex.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.14.178
+5/15/2014 9:29:11 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 83) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/topic.aspx?p=1&id=9
+MemberNo : 0
+UserName :  NotLogin
+IP : 59.115.115.72
+5/15/2014 9:29:12 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 198) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 112.105.101.141
+5/15/2014 9:29:12 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 70) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/TwIndex.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.14.178
+5/15/2014 9:29:12 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 198) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/TwIndex.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.14.178
+5/15/2014 9:29:13 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 70) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/AutoRefresh.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.79.249.164
+5/15/2014 9:30:17 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 162) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/AutoRefresh.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 222.251.8.83
+5/15/2014 9:30:35 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 198) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 27.243.91.96
+5/15/2014 9:31:20 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 162) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/AutoRefresh.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.248.167.77
+5/15/2014 9:31:38 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 162) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/AutoRefresh.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.248.167.77
+5/15/2014 9:31:44 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 162) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/AutoRefresh.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.66.82.207
+5/15/2014 9:32:15 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Login.aspx
+錯誤訊息:交易 (處理序識別碼 198) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at MemberAuthority.Login(String userName, Boolean isAutoLogin) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\MemberAuthority.vb:line 14
+   at Login.Login1_LoggedIn(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Login.aspx.vb:line 14
+   at System.Web.UI.WebControls.Login.AttemptLogin()
+   at System.Web.UI.WebControls.Login.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 27.243.91.96
+5/15/2014 9:32:18 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Login.aspx
+錯誤訊息:交易 (處理序識別碼 70) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at MemberAuthority.Login(String userName, Boolean isAutoLogin) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\MemberAuthority.vb:line 14
+   at Login.Login1_LoggedIn(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Login.aspx.vb:line 14
+   at System.Web.UI.WebControls.Login.AttemptLogin()
+   at System.Web.UI.WebControls.Login.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 27.243.91.96
+5/15/2014 9:33:32 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 83) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.46.215.179
+5/15/2014 9:35:01 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 83) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.46.215.179
+5/15/2014 9:35:05 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 83) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.46.215.179
+5/15/2014 9:35:07 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 83) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.46.215.179
+5/15/2014 9:35:10 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 398) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.12.14.124
+5/15/2014 9:36:03 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 398) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.12.14.124
+5/15/2014 9:36:09 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 70) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.12.146.149
+5/15/2014 9:36:50 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 83) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 220.128.230.110
+5/15/2014 9:38:11 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 83) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 36.235.90.86
+5/15/2014 9:38:46 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 83) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.11.146.185
+5/15/2014 9:39:24 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 70) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=5118&RuleName=大三元選股秘技-1&rd=近一周&direction=多頭
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.92.189
+5/15/2014 9:39:48 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 198) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.76.98.193
+5/15/2014 9:43:29 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 70) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.140.74.21
+5/15/2014 9:44:27 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:已超過連接 Timeout 的設定。在作業完成之前超過逾時等待的時間，或者是伺服器未回應。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.WebControls.SqlDataSource.Select(DataSourceSelectArguments arguments)
+   at m_search.btnsearch_Click(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\m_search.master.vb:line 59
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=2454
+前一頁 : http://m.wantgoo.com/stock.aspx?no=2454
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.75.217.202
+5/15/2014 9:45:02 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 70) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 106.65.162.208
+5/15/2014 9:45:43 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:已超過連接 Timeout 的設定。在作業完成之前超過逾時等待的時間，或者是伺服器未回應。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.WebControls.SqlDataSource.Select(DataSourceSelectArguments arguments)
+   at m_search.btnsearch_Click(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\m_search.master.vb:line 59
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=2231
+前一頁 : http://m.wantgoo.com/stock.aspx?no=2231
+MemberNo : 0
+UserName :  NotLogin
+IP : 49.214.193.211
+5/15/2014 9:45:47 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 250) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.37.196.110
+5/15/2014 9:46:51 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 250) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.43.58.20
+5/15/2014 9:47:02 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:已超過連接 Timeout 的設定。在作業完成之前超過逾時等待的時間，或者是伺服器未回應。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=2390
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 49.214.193.211
+5/15/2014 9:47:04 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/logout.aspx
+錯誤訊息:交易 (處理序識別碼 83) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at MemberAuthority.SignOut() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\MemberAuthority.vb:line 53
+   at Logout.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Logout.aspx.vb:line 7
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/logout.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 356
+UserName :  service@wantgoo.com
+IP : 101.10.101.164
+5/15/2014 9:47:21 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:已超過連接 Timeout 的設定。在作業完成之前超過逾時等待的時間，或者是伺服器未回應。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=1715
+前一頁 : http://m.wantgoo.com/TwIndex.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 118.168.198.242
+5/15/2014 9:47:29 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 83) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.12.234.60
+5/15/2014 9:48:47 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 83) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.12.234.60
+5/15/2014 9:48:54 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 398) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.12.234.60
+5/15/2014 9:49:21 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 398) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.12.234.60
+5/15/2014 9:49:22 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 398) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/topic.aspx?p=1&id=10
+MemberNo : 0
+UserName :  NotLogin
+IP : 222.251.1.165
+5/15/2014 9:53:11 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 122) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/topic.aspx?p=1&id=10
+MemberNo : 0
+UserName :  NotLogin
+IP : 222.251.1.165
+5/15/2014 9:53:12 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 122) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/topic.aspx?p=1&id=10
+MemberNo : 0
+UserName :  NotLogin
+IP : 222.251.1.165
+5/15/2014 9:53:17 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 398) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.40.100.135
+5/15/2014 9:53:19 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 398) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 106.107.3.244
+5/15/2014 9:53:53 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Login.aspx
+錯誤訊息:交易 (處理序識別碼 70) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at MemberAuthority.Login(String userName, Boolean isAutoLogin) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\MemberAuthority.vb:line 14
+   at Login.Login1_LoggedIn(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Login.aspx.vb:line 14
+   at System.Web.UI.WebControls.Login.AttemptLogin()
+   at System.Web.UI.WebControls.Login.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.142.179.179
+5/15/2014 9:53:56 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 250) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 39.10.48.106
+5/15/2014 9:58:50 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 250) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 39.10.48.106
+5/15/2014 9:58:52 AM
+-----------------------------------------------------------------------------------------------------------------------

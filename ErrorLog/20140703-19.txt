@@ -1,0 +1,26 @@
+﻿發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=1589
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 115.80.125.210
+7/3/2014 7:33:52 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=1590
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 115.80.125.210
+7/3/2014 7:34:23 PM
+-----------------------------------------------------------------------------------------------------------------------

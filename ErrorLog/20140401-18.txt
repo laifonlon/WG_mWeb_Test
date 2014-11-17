@@ -1,0 +1,76 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:檔案 '/fblogin.aspx' 不存在。
+詳細資訊:
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   於 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   於 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   於 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAH7Nnz6CCylOq92t6ERBQQeS0AXnjamqCA8L0s9FcuKLG8LSLRvCfvakhPx4Xuwwcbp11sedTJgWOAZBswKFM8tbpIZCRBSGSgRB11dAgWcnbrZAqbBjTJ2IafVORfjEe7tXhipOVPHZAAwOnkfP3wtCh0aTAPU6dbpJCsyq78W06hEPvbcZD&m=service@wantgoo.com&u=100000131250870&l=Rich&f=Wantgoo&s=female&n=Wantgoo Rich&r=
+前一頁 : http://devm.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/4/1 下午 06:09:47
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/PersonalPage/MyHome.aspx
+錯誤訊息:檔案 '/PersonalPage/MyHome.aspx' 不存在。
+詳細資訊:
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   於 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   於 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   於 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/PersonalPage/MyHome.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/4/1 下午 06:10:46
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/PersonalPage/MyHome.aspx
+錯誤訊息:檔案 '/PersonalPage/MyHome.aspx' 不存在。
+詳細資訊:
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   於 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   於 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   於 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/PersonalPage/MyHome.aspx
+前一頁 : http://devm.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/4/1 下午 06:23:43
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/PersonalPage/MyHome.aspx
+錯誤訊息:檔案 '/PersonalPage/MyHome.aspx' 不存在。
+詳細資訊:
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   於 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   於 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   於 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/PersonalPage/MyHome.aspx
+前一頁 : http://devm.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/4/1 下午 06:24:18
+-----------------------------------------------------------------------------------------------------------------------

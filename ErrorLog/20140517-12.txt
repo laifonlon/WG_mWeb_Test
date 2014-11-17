@@ -1,0 +1,25 @@
+﻿發生錯誤的網頁:/Login.aspx
+錯誤訊息:Item has already been added. Key in dictionary: '21774'  Key being added: '21774'
+詳細資訊:
+   at System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   at Member.GetHottipDevelopDeadline(String memberNo) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\Member.vb:line 139
+   at Member.IsHottipDeveloper(String memberNo) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\Member.vb:line 105
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\MemberDataAccessor.vb:line 625
+   at Member.SetShowAdFlag(String memberNo) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\Member.vb:line 61
+   at MemberAuthority.WriteCookie(String userName, Int32 cookieExpires) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\MemberAuthority.vb:line 106
+   at Login.Login1_LoggedIn(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Login.aspx.vb:line 15
+   at System.Web.UI.WebControls.Login.AttemptLogin()
+   at System.Web.UI.WebControls.Login.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 21774
+UserName :  
+IP : 223.142.1.207
+5/17/2014 12:28:52 PM
+-----------------------------------------------------------------------------------------------------------------------

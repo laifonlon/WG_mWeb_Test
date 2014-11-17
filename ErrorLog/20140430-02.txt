@@ -1,0 +1,38 @@
+﻿發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=KO
+前一頁 : http://m.wantgoo.com/stock.aspx?no=1213
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.32.197.33
+4/30/2014 2:23:48 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/MobileGetData.asmx/Hottip
+錯誤訊息:無法辨認要求格式，因為 URL 未預期地以 /Hottip 結束。
+詳細資訊:
+   at System.Web.Services.Protocols.WebServiceHandlerFactory.CoreGetHandler(Type type, HttpContext context, HttpRequest request, HttpResponse response)
+   at System.Web.Services.Protocols.WebServiceHandlerFactory.GetHandler(HttpContext context, String verb, String url, String filePath)
+   at System.Web.Script.Services.ScriptHandlerFactory.GetHandler(HttpContext context, String requestType, String url, String pathTranslated)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/MobileGetData.asmx/Hottip
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 157.55.33.124
+4/30/2014 2:51:36 AM
+-----------------------------------------------------------------------------------------------------------------------

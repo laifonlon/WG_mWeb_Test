@@ -1,0 +1,115 @@
+﻿發生錯誤的網頁:/blog.aspx
+錯誤訊息:Conversion from type 'DBNull' to type 'Boolean' is not valid.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToBoolean(Object Value)
+   at blog.LoadArticle() in F:\WantGooMobile\wwwroot\blog.aspx.vb:line 114
+   at blog.fv_DataBound(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\blog.aspx.vb:line 57
+   at System.Web.UI.WebControls.BaseDataBoundControl.OnDataBound(EventArgs e)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.FormView.DataBind()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/blog.aspx?bid=25895
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.79.99
+6/26/2014 9:32:03 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/blog.aspx
+錯誤訊息:Conversion from type 'DBNull' to type 'Boolean' is not valid.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToBoolean(Object Value)
+   at blog.LoadArticle() in F:\WantGooMobile\wwwroot\blog.aspx.vb:line 114
+   at blog.fv_DataBound(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\blog.aspx.vb:line 57
+   at System.Web.UI.WebControls.BaseDataBoundControl.OnDataBound(EventArgs e)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.FormView.DataBind()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/blog.aspx?bid=25887
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.79.73
+6/26/2014 9:32:24 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/blog.aspx
+錯誤訊息:Conversion from type 'DBNull' to type 'Boolean' is not valid.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToBoolean(Object Value)
+   at blog.LoadArticle() in F:\WantGooMobile\wwwroot\blog.aspx.vb:line 114
+   at blog.fv_DataBound(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\blog.aspx.vb:line 57
+   at System.Web.UI.WebControls.BaseDataBoundControl.OnDataBound(EventArgs e)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.FormView.DataBind()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/blog.aspx?bid=25893
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.79.99
+6/26/2014 9:32:41 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/chart.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/chart.aspx?no=2056
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 106.120.173.99
+6/26/2014 9:55:00 PM
+-----------------------------------------------------------------------------------------------------------------------

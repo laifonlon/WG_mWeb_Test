@@ -1,0 +1,29 @@
+﻿發生錯誤的網頁:/Standard & Poor’s (標準普爾) 周二修正全球多家大型銀行的信評尺度，結果 Bank of America (美國商銀)、Goldman Sachs Group Inc. (高盛) 及 Citigroup (花旗) 等銀行的長期評等都從 A 被降到 A-。
+錯誤訊息:具有潛在危險 Request.Path 的值已從用戶端 (&) 偵測到。
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Standard & Poor’s (標準普爾) 周二修正全球多家大型銀行的信評尺度，結果 Bank of America (美國商銀)、Goldman Sachs Group Inc. (高盛) 及 Citigroup (花旗) 等銀行的長期評等都從 A 被降到 A-。
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.77.32
+4/19/2014 6:38:54 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:在應用程式組態中找不到連接名稱 'ApplicationServices'，或連接字串為空白。
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAJE8EWYiZAVk7AjPmtZCqMARBAkzYRMOj9Q4YoUptSb6Y4mOREbBU4KEhIbHPujnD2UF15Lzow5JIx7weEQZApm1SbIoZAnhlgoTyiVRgkgYw0uxjEbHf4gRj8eraZAxIODob7MBZAZAGU11E2tgnxBLZCJPCdoUzOkwyKHDxiZBorHLiZBECZBXckZD&m=zhenhaoyan@gmail.com&u=100004397193794&l=Yan&f=Zhen-hao&s=male&n=Zhen-hao  Yan&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.81.49.134
+4/19/2014 6:39:26 PM
+-----------------------------------------------------------------------------------------------------------------------

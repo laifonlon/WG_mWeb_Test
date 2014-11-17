@@ -1,0 +1,32 @@
+﻿發生錯誤的網頁:/MobileGetData.asmx/Hottip
+錯誤訊息:無法辨認要求格式，因為 URL 未預期地以 /Hottip 結束。
+詳細資訊:
+   at System.Web.Services.Protocols.WebServiceHandlerFactory.CoreGetHandler(Type type, HttpContext context, HttpRequest request, HttpResponse response)
+   at System.Web.Services.Protocols.WebServiceHandlerFactory.GetHandler(HttpContext context, String verb, String url, String filePath)
+   at System.Web.Script.Services.ScriptHandlerFactory.GetHandler(HttpContext context, String requestType, String url, String pathTranslated)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/MobileGetData.asmx/Hottip
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 157.55.32.98
+5/5/2014 9:23:34 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:在應用程式組態中找不到連接名稱 'ApplicationServices'，或連接字串為空白。
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAFzZCfUSdTOOV7TOVxsoQZAOTgmjiSWFZAJzbAWQ4C7gvBUZCQYqTA3OdkPQpwg5e4O2Q91M8I0iJpiZC28ORVqiS3FY3mUeZCEqyWH8pUNgzJP0T1FadziVUKg2hDFKghwMcRxUFZC2sDGgJgfiBQL4JwslJuZBRGY3ZCRyccheS&m=rtpan.me87@nctu.edu.tw&u=100001405194628&l=潘&f=睿慈&s=male&n=潘睿慈&r=&GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.162.101.200
+5/5/2014 9:35:32 PM
+-----------------------------------------------------------------------------------------------------------------------

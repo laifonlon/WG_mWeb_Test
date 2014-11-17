@@ -1,0 +1,26 @@
+﻿發生錯誤的網頁:/Globals.aspx
+錯誤訊息:Access is denied
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/globals.aspx?g=a
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.45.56.105:19311
+6/3/2014 7:29:26 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Access is denied
+詳細資訊:
+
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 85191
+UserName :  wuyenchiu@gmail.com
+IP : 114.37.215.173:57947
+6/3/2014 7:29:26 AM
+-----------------------------------------------------------------------------------------------------------------------

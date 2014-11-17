@@ -1,0 +1,15 @@
+﻿發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:有參數值缺少
+詳細資訊:
+   於 Hottip_HottipResult.Page_Load(Object sender, EventArgs e) 於 C:\!Project\!!!WantGooMobile_2014-0704\WantGooMobile\wwwroot\Hottip\HottipResult.aspx.vb: 行 28
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx
+前一頁 : 
+MemberNo : 356
+UserName :  
+IP : 127.0.0.1
+2014/7/22 上午 11:45:30
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,74 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:交易 (處理序識別碼 135) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at MemberAuthority.Login(String userName, Boolean isAutoLogin) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\MemberAuthority.vb:line 14
+   at Facebook_fblogin.Login(String email) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\fblogin.aspx.vb:line 176
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\fblogin.aspx.vb:line 60
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BACCDCg25PEUZB1xujKhBRODTD2bSYINg14s10biJK1ZAhQUFOcYC2U7MEkOguinLxuFtQ73WadiZAXuRfT8PNoaMH8KTkxTzyy0UYZCZBUfEgXjsDrqriAPOVeRmnkTsn4z1lgz2F9JNctQdiZAZB1H2nFb6H5O3I8ZAwvZCcmdpbTZBoQmEYAzuAZD&m=chchung777@gmail.com&u=100000223355932&l=興興&f=伯伯&s=male&n=興興伯伯&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.37.187.216
+4/28/2014 1:05:59 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/GetData.asmx/GlobalData
+錯誤訊息:無法辨認要求格式，因為 URL 未預期地以 /GlobalData 結束。
+詳細資訊:
+   at System.Web.Services.Protocols.WebServiceHandlerFactory.CoreGetHandler(Type type, HttpContext context, HttpRequest request, HttpResponse response)
+   at System.Web.Services.Protocols.WebServiceHandlerFactory.GetHandler(HttpContext context, String verb, String url, String filePath)
+   at System.Web.Script.Services.ScriptHandlerFactory.GetHandler(HttpContext context, String requestType, String url, String pathTranslated)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/GetData.asmx/GlobalData
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.77.32
+4/28/2014 1:13:28 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/ScriptResource.axd
+錯誤訊息:這是無效的指令碼資源要求。
+詳細資訊:
+   at System.Web.Handlers.ScriptResourceHandler.ProcessRequest(HttpContext context)
+   at System.Web.Handlers.ScriptResourceHandler.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/ScriptResource.axd?d=Gj6SMotHTblz_EGCAQ_wHdJ5UQrqZbH2zpIcoI_0HkL7QQBh-V3NNEFdiHGsB2H_NnVB_ksCJixsck093P4ik00jtvDgIwojO9Zr3KTO-wJ5BelDaGL7ffpYs7GlPL0KUBn5FuA6U5fcb57svdLd2Pbp6eE1&t=2e2045e2
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.77.32
+4/28/2014 1:29:02 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/WebResource.axd
+錯誤訊息:這是無效的 webresource 要求。
+詳細資訊:
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/WebResource.axd?d=XHDayB0Q4Qh2rTDjfgD83DdmBFAwnw_V01GDzj1v2UL_k45aWZgwYl8lgANnaY-te5vRM2HaVKAHg7HeOsZINk1CfGk1&t=635083448141708196
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.77.32
+4/28/2014 1:29:07 PM
+-----------------------------------------------------------------------------------------------------------------------

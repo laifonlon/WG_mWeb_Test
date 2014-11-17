@@ -1,0 +1,14 @@
+﻿發生錯誤的網頁:/interactive/2011/08/world/gallery.riots.monday.night/flashxml/index.xml&configUrl=http:/i.cdn.turner.com/cnn/.element/ssi/www/misc/3.0/omni/config.xml&emailHandler=onEmailClicked&pageType=Story&pageURL=
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (&).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/interactive/2011/08/world/gallery.riots.monday.night/flashxml/index.xml&configUrl=http:/i.cdn.turner.com/cnn/.element/ssi/www/misc/3.0/omni/config.xml&emailHandler=onEmailClicked&pageType=Story&pageURL=
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.79.99
+6/25/2014 9:16:40 PM
+-----------------------------------------------------------------------------------------------------------------------

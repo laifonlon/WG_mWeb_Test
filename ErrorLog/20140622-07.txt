@@ -1,0 +1,17 @@
+﻿發生錯誤的網頁:/ScriptResource.axd
+錯誤訊息:This is an invalid script resource request.
+詳細資訊:
+   at System.Web.Handlers.ScriptResourceHandler.ProcessRequest(HttpContextBase context, VirtualFileReader fileReader, Action`2 logAction, Boolean validatePath)
+   at System.Web.Handlers.ScriptResourceHandler.ProcessRequest(HttpContext context)
+   at System.Web.Handlers.ScriptResourceHandler.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/ScriptResource.axd?d=IFGvftJ6SA2749BmEyfxtlAC8cZtnlfJ6AWwfYuCZD7XYvPtqhbY9vIZOydhQzvIrqDTxWHMOzIankBIztSG5TmziTSERXeRcbDEAIjgJa7kp2nBT-w6yEN0nFMRCv9idHkD9wHw_qTZPO9IqvioYf3AtWvMxAUtw891XHbSOwMfudTT0&t=2e2045e2
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.79.86
+6/22/2014 7:21:56 AM
+-----------------------------------------------------------------------------------------------------------------------

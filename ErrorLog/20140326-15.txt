@@ -1,0 +1,268 @@
+﻿發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/26 下午 03:26:27
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/26 下午 03:27:29
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/26 下午 03:28:22
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage2.aspx
+錯誤訊息:DataBinding: 'System.Data.DataRowView' 沒有包含名為 'Diff1' 的屬性。
+詳細資訊:
+   於 System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   於 System.Web.UI.DataBinder.Eval(Object container, String[] expressionParts)
+   於 ASP.hottip_hottippage2_aspx.__DataBinding__control25(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage2.aspx: 行 63
+   於 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   於 System.Web.UI.Control.DataBindChildren()
+   於 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   於 System.Web.UI.WebControls.ListView.CreateItemsWithoutGroups(ListViewPagedDataSource dataSource, Boolean dataBinding, InsertItemPosition insertPosition, ArrayList keyArray)
+   於 System.Web.UI.WebControls.ListView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   於 System.Web.UI.WebControls.ListView.PerformDataBinding(IEnumerable data)
+   於 System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   於 System.Web.UI.WebControls.ListView.CreateChildControls()
+   於 System.Web.UI.Control.EnsureChildControls()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage2.aspx
+前一頁 : 
+MemberNo : 77681
+UserName :  laifonlon@gmail.com
+IP : 127.0.0.1
+2014/3/26 下午 03:44:24
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage2.aspx
+錯誤訊息:DataBinding: 'System.Data.DataRowView' 沒有包含名為 'Deal' 的屬性。
+詳細資訊:
+   於 System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   於 System.Web.UI.DataBinder.Eval(Object container, String[] expressionParts)
+   於 ASP.hottip_hottippage2_aspx.__DataBind__control38(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage2.aspx: 行 70
+   於 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   於 System.Web.UI.Control.DataBindChildren()
+   於 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   於 System.Web.UI.WebControls.ListView.CreateItemsWithoutGroups(ListViewPagedDataSource dataSource, Boolean dataBinding, InsertItemPosition insertPosition, ArrayList keyArray)
+   於 System.Web.UI.WebControls.ListView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   於 System.Web.UI.WebControls.ListView.PerformDataBinding(IEnumerable data)
+   於 System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   於 System.Web.UI.WebControls.ListView.CreateChildControls()
+   於 System.Web.UI.Control.EnsureChildControls()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage2.aspx
+前一頁 : http://devm.wantgoo.com/Hottip/HottipPage2.aspx
+MemberNo : 77681
+UserName :  
+IP : 127.0.0.1
+2014/3/26 下午 03:49:14
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage2.aspx
+錯誤訊息:DataBinding: 'System.Data.DataRowView' 沒有包含名為 'Deal' 的屬性。
+詳細資訊:
+   於 System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   於 System.Web.UI.DataBinder.Eval(Object container, String[] expressionParts)
+   於 ASP.hottip_hottippage2_aspx.__DataBind__control38(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage2.aspx: 行 70
+   於 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   於 System.Web.UI.Control.DataBindChildren()
+   於 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   於 System.Web.UI.WebControls.ListView.CreateItemsWithoutGroups(ListViewPagedDataSource dataSource, Boolean dataBinding, InsertItemPosition insertPosition, ArrayList keyArray)
+   於 System.Web.UI.WebControls.ListView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   於 System.Web.UI.WebControls.ListView.PerformDataBinding(IEnumerable data)
+   於 System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   於 System.Web.UI.WebControls.ListView.CreateChildControls()
+   於 System.Web.UI.Control.EnsureChildControls()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage2.aspx
+前一頁 : http://devm.wantgoo.com/Hottip/HottipPage2.aspx
+MemberNo : 77681
+UserName :  
+IP : 127.0.0.1
+2014/3/26 下午 03:49:16
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage2.aspx
+錯誤訊息:DataBinding: 'System.Data.DataRowView' 沒有包含名為 'Deal' 的屬性。
+詳細資訊:
+   於 System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   於 System.Web.UI.DataBinder.Eval(Object container, String[] expressionParts)
+   於 ASP.hottip_hottippage2_aspx.__DataBind__control38(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage2.aspx: 行 70
+   於 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   於 System.Web.UI.Control.DataBindChildren()
+   於 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   於 System.Web.UI.WebControls.ListView.CreateItemsWithoutGroups(ListViewPagedDataSource dataSource, Boolean dataBinding, InsertItemPosition insertPosition, ArrayList keyArray)
+   於 System.Web.UI.WebControls.ListView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   於 System.Web.UI.WebControls.ListView.PerformDataBinding(IEnumerable data)
+   於 System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   於 System.Web.UI.WebControls.ListView.CreateChildControls()
+   於 System.Web.UI.Control.EnsureChildControls()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage2.aspx
+前一頁 : http://devm.wantgoo.com/Hottip/HottipPage2.aspx
+MemberNo : 77681
+UserName :  
+IP : 127.0.0.1
+2014/3/26 下午 03:49:37
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage2.aspx
+錯誤訊息:並未將物件參考設定為物件的執行個體。
+詳細資訊:
+   於 Hottip_HottipPage2.lvMyCollect_DataBound(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage2.aspx.vb: 行 86
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   於 System.Web.UI.WebControls.ListView.CreateChildControls()
+   於 System.Web.UI.Control.EnsureChildControls()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage2.aspx
+前一頁 : 
+MemberNo : 77681
+UserName :  
+IP : 127.0.0.1
+2014/3/26 下午 03:49:58
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage2.aspx
+錯誤訊息:無法將類型 'System.Web.UI.WebControls.Literal' 的物件轉換為類型 'System.Web.UI.WebControls.Label'。
+詳細資訊:
+   於 Hottip_HottipPage2.lvMyCollect_DataBound(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage2.aspx.vb: 行 76
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   於 System.Web.UI.WebControls.ListView.CreateChildControls()
+   於 System.Web.UI.Control.EnsureChildControls()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage2.aspx
+前一頁 : 
+MemberNo : 77681
+UserName :  
+IP : 127.0.0.1
+2014/3/26 下午 03:50:33
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage2.aspx
+錯誤訊息:並未將物件參考設定為物件的執行個體。
+詳細資訊:
+   於 Hottip_HottipPage2.lvMyCollect_DataBound(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage2.aspx.vb: 行 104
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   於 System.Web.UI.WebControls.ListView.CreateChildControls()
+   於 System.Web.UI.Control.EnsureChildControls()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage2.aspx
+前一頁 : 
+MemberNo : 77681
+UserName :  
+IP : 127.0.0.1
+2014/3/26 下午 03:51:48
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage2.aspx
+錯誤訊息:並未將物件參考設定為物件的執行個體。
+詳細資訊:
+   於 Hottip_HottipPage2.UpdateTAIEX() 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage2.aspx.vb: 行 128
+   於 Hottip_HottipPage2.lvMyCollect_DataBound(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage2.aspx.vb: 行 115
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   於 System.Web.UI.WebControls.ListView.CreateChildControls()
+   於 System.Web.UI.Control.EnsureChildControls()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage2.aspx
+前一頁 : 
+MemberNo : 77681
+UserName :  
+IP : 127.0.0.1
+2014/3/26 下午 03:52:26
+-----------------------------------------------------------------------------------------------------------------------

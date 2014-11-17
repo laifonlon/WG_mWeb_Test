@@ -1,0 +1,45 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:在應用程式組態中找不到連接名稱 'ApplicationServices'，或連接字串為空白。
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAMyZC2nxgggR8vXYjbX9OqQEZB85FgP2OAg0oayT4hnlCxR9hjoculdJ3lEOS5HygEHFiTeBStULyoIDYZBrhHqXLswiVu9Aois8ojepgipjFnPpErKzxEiclwPFpMRIZC9BK3bgb1DioAZAvnIrZAqutCnr5ZCoPQcy5pg1ABV&m=smartbill2006@hotmail.com&u=1129011465&l=陳&f=彥奇&s=male&n=陳彥奇&r=&GoBackUrl=/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage1.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.142.164.115
+5/18/2014 3:39:41 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BABZBdUbf7AVPPHoUf0exlSUXSviVDZA4eNNO05ZATB6d0gUIYbUzfuPHnGu0ZCHWP0ZBgoEcAC06hfUn3zG1hjnwjyNUzcn8aYIYVwht8vjH46hpdX9MpcYS9OZCC5547TjxMn3FYTUm793mOD0roLBXkmeIuSeGZApbcB8skj4jBR6d0tIQ0gZD&m=undefined&u=100005798232880&l=劉&f=玫君&s=female&n=劉玫君&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.13.223.101
+5/18/2014 3:41:08 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BANqTWqJG79G3GAqelCmYWmVYglKQtJpFYnNgv8MVrzN4dxYEnMq6CgjeHo6C31ri0KZAj0jynNqWwfh1X9MdMekIqgmiTQ3DNoYtKACfbqV9VuSkcRihbESD5g7tIzHBPa700eSvUfJ4OrVCGMr7VZAuqC9u1168MW3ZCbKocN3k4xurKMZD&m=undefined&u=100005798232880&l=劉&f=玫君&s=female&n=劉玫君&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.13.223.101
+5/18/2014 3:42:32 PM
+-----------------------------------------------------------------------------------------------------------------------

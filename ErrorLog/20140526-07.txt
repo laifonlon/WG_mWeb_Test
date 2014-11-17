@@ -1,0 +1,175 @@
+﻿發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:Access to the path 'C:\WantGoo\Wantgoooooo1\tmp\Login\' is denied.
+詳細資訊:
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   at Microsoft.VisualBasic.MyServices.FileSystemProxy.CreateDirectory(String directory)
+   at MemberDataAccessor.WriteLoginLog(String from) in D:\home\site\wwwroot\App_Code\MemberDataAccessor.vb:line 121
+   at CMFunction_autologin.AutoLogin() in D:\home\site\wwwroot\CMFunction\autologin.aspx.vb:line 67
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 356
+UserName :  service@wantgoo.com
+IP : 118.168.116.36:36947
+5/26/2014 7:33:22 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:Access to the path 'C:\WantGoo\Wantgoooooo1\tmp\Login\' is denied.
+詳細資訊:
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   at Microsoft.VisualBasic.MyServices.FileSystemProxy.CreateDirectory(String directory)
+   at MemberDataAccessor.WriteLoginLog(String from) in D:\home\site\wwwroot\App_Code\MemberDataAccessor.vb:line 121
+   at CMFunction_autologin.AutoLogin() in D:\home\site\wwwroot\CMFunction\autologin.aspx.vb:line 67
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 25525
+UserName :  jackjclai@gmail.com
+IP : 116.25.244.195:48539
+5/26/2014 7:39:03 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 42.66.46.213
+	Port: 9905
+	Referer: http://m.wantgoo.com/globals.aspx?g=f
+	Path: /globals.aspx
+	User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.122 Safari/537.36
+	ViewState: /wEPDwUKMTM2Mzg5OTg4NmRkN8hLfc2wmvSglvRgfyaTT2hXzxVaMMJVr0h59z2kqk8=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.66.46.213:9905
+5/26/2014 7:48:58 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 42.66.46.213
+	Port: 9908
+	Referer: http://m.wantgoo.com/globals.aspx?g=f
+	Path: /globals.aspx
+	User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.122 Safari/537.36
+	ViewState: /wEPDwUKMTM2Mzg5OTg4NmRkN8hLfc2wmvSglvRgfyaTT2hXzxVaMMJVr0h59z2kqk8=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.66.46.213:9908
+5/26/2014 7:48:58 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 42.66.46.213
+	Port: 9971
+	Referer: http://m.wantgoo.com/globals.aspx?g=f
+	Path: /globals.aspx
+	User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.122 Safari/537.36
+	ViewState: /wEPDwUKMTM2Mzg5OTg4NmRkN8hLfc2wmvSglvRgfyaTT2hXzxVaMMJVr0h59z2kqk8=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.66.46.213:9971
+5/26/2014 7:48:59 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 42.66.46.213
+	Port: 9972
+	Referer: http://m.wantgoo.com/globals.aspx?g=f
+	Path: /globals.aspx
+	User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.122 Safari/537.36
+	ViewState: /wEPDwUKMTM2Mzg5OTg4NmRkN8hLfc2wmvSglvRgfyaTT2hXzxVaMMJVr0h59z2kqk8=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.66.46.213:9972
+5/26/2014 7:48:59 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 42.66.46.213
+	Port: 9973
+	Referer: http://m.wantgoo.com/globals.aspx?g=f
+	Path: /globals.aspx
+	User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.122 Safari/537.36
+	ViewState: /wEPDwUKMTM2Mzg5OTg4NmRkN8hLfc2wmvSglvRgfyaTT2hXzxVaMMJVr0h59z2kqk8=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.66.46.213:9973
+5/26/2014 7:49:00 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 42.66.46.213
+	Port: 10066
+	Referer: http://m.wantgoo.com/globals.aspx?g=f
+	Path: /globals.aspx
+	User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.122 Safari/537.36
+	ViewState: /wEPDwUKMTM2Mzg5OTg4NmRkN8hLfc2wmvSglvRgfyaTT2hXzxVaMMJVr0h59z2kqk8=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.66.46.213:10066
+5/26/2014 7:51:26 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 114.41.15.162
+	Port: 48460
+	Referer: http://m.wantgoo.com/stock.aspx?no=3023
+	Path: /stock.aspx
+	User-Agent: Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; zh-tw) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7
+	ViewState: /wEPDwUKMTMxNDU3MzUzM2QYCAUkY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkc24xJGx2DxQrAA5kZGRkZGRkPCsACgACCmRkZGYC/////w9kBSxjdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRzY3MxJGd2Q29sbGVjdA88KwAMAQgCAWQFJmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJGRpMSRmdlR3DxQrAAdkZGRkZBYAAgFkBSRjdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRkaTEkZnYPZ2QFK2N0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJHNjczEkZ3ZSZWxhdGUPPCsADAEIAgFkBSxjdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUaHJlZTEkZ3ZTdG9jaw88KwAMAQgCAWQFLGN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJE1hcmdpbjEkZnYwMDAwD2dkBShjdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRNYXJnaW4xJGZ2DxQrAAdkZGRkZBYAAh5kNhDS63xrQfJylp8bkyvXW1MKCWA07OX0E4fkLpTrELA=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=3023
+前一頁 : http://m.wantgoo.com/stock.aspx?no=3023
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.41.15.162:48460
+5/26/2014 7:56:16 AM
+-----------------------------------------------------------------------------------------------------------------------

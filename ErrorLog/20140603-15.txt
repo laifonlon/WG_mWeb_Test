@@ -1,0 +1,13 @@
+﻿發生錯誤的網頁:/Globals.aspx
+錯誤訊息:The semaphore timeout period has expired
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.78.51.21:13200
+6/3/2014 3:06:57 PM
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,100 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:在應用程式組態中找不到連接名稱 'ApplicationServices'，或連接字串為空白。
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAIThPScBo5JZAO0heNvqhAhZBsUknh7yGaLwYI2YcqE0Lo5sh3lvv3MaNcBj1Uhoy5FFLsWkjrNtaP7gsBhZB7jp1DSIBRhancyyZBkvbZBZAzJiWDZCKjeSx6ZCNVwlzqi5VUsBZCHS8BaiJ7A0zJXfmIpDvZCh6xTNEH6o2oZBZByaJToTaiOH7VEZD&m=pony7299@yahoo.com.tw&u=100001218479226&l=Bridge&f=Pony&s=male&n=Pony Bridge&r=&GoBackUrl=/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage1.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 106.107.139.153
+4/8/2014 2:19:06 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index.aspx
+錯誤訊息:Conversion from type 'DBNull' to type 'Integer' is not valid.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(Object Value)
+   at twStocks.RealTimePriceRow.get_Volume() in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.21.vb:line 5053
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index.aspx?no=VNI
+前一頁 : http://m.wantgoo.com/globals.aspx?g=a
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.246.229.186
+4/8/2014 2:41:10 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index.aspx
+錯誤訊息:Conversion from type 'DBNull' to type 'Integer' is not valid.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(Object Value)
+   at twStocks.RealTimePriceRow.get_Volume() in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.21.vb:line 5053
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index.aspx?no=VNI
+前一頁 : http://m.wantgoo.com/globals.aspx?g=a
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.67.153.76
+4/8/2014 2:51:44 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=BP
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.125.71.57
+4/8/2014 2:52:45 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=BP
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.125.71.15
+4/8/2014 2:52:52 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:在應用程式組態中找不到連接名稱 'ApplicationServices'，或連接字串為空白。
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAM4wS2x5DcSFJoLyZBZB2RE2xiWCHKkZCZAZCt2h8SsqctGiMyKrS67RGZAqaoUO3loZAhROfO8LLKVMATkWDOB1cKB1qaBQZBheUr2U7xrW7bZCKBoZBHlTH7Q6stH6C80gCcxCZCZBpKhiVKzfu53nz4IjUWt91rtzqvbKRwuiVroi&m=ponyinnccu@hotmail.com&u=666323790&l=李&f=芮諭&s=male&n=李芮諭&r=&GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 115.82.15.90
+4/8/2014 2:59:02 PM
+-----------------------------------------------------------------------------------------------------------------------

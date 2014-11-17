@@ -1,0 +1,40 @@
+﻿發生錯誤的網頁:/services/globalservice.asmx
+錯誤訊息:已經宣告全域屬性 'http://www.w3.org/XML/1998/namespace:lang'。
+詳細資訊:
+   at System.Xml.Schema.XmlSchemaSet.InternalValidationCallback(Object sender, ValidationEventArgs e)
+   at System.Xml.Schema.Compiler.Prepare(XmlSchema schema, Boolean cleanup)
+   at System.Xml.Schema.XmlSchemaSet.Compile()
+   at System.Xml.Serialization.XmlSchemas.Compile(ValidationEventHandler handler, Boolean fullCompile)
+   at System.Web.Services.Description.SchemaCompiler.Compile(XmlSchemas schemas)
+   at System.Web.Services.Description.WebServicesInteroperability.AnalyzeDescription(ServiceDescriptionCollection descriptions, BasicProfileViolationCollection violations)
+   at System.Web.Services.Description.WebServicesInteroperability.CheckConformance(WsiProfiles claims, ServiceDescriptionCollection descriptions, BasicProfileViolationCollection violations)
+   at ASP.defaultwsdlhelpgenerator_aspx.Page_Load(Object sender, EventArgs e) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Config\DefaultWsdlHelpGenerator.aspx:line 1439
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/services/globalservice.asmx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 113.210.132.29
+5/3/2014 11:15:40 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/MobileGetData.asmx/Hottip
+錯誤訊息:無法辨認要求格式，因為 URL 未預期地以 /Hottip 結束。
+詳細資訊:
+   at System.Web.Services.Protocols.WebServiceHandlerFactory.CoreGetHandler(Type type, HttpContext context, HttpRequest request, HttpResponse response)
+   at System.Web.Services.Protocols.WebServiceHandlerFactory.GetHandler(HttpContext context, String verb, String url, String filePath)
+   at System.Web.Script.Services.ScriptHandlerFactory.GetHandler(HttpContext context, String requestType, String url, String pathTranslated)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/MobileGetData.asmx/Hottip
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 157.56.93.74
+5/3/2014 11:35:42 AM
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,65 @@
+﻿發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=1590
+前一頁 : http://m.wantgoo.com/Search.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.13.146.213
+6/27/2014 9:57:36 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=1590
+前一頁 : http://m.wantgoo.com/Search.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.13.146.213
+6/27/2014 9:58:07 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=1590
+前一頁 : http://m.wantgoo.com/stock.aspx?no=3658
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.13.146.213
+6/27/2014 9:58:37 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=2483
+前一頁 : http://m.wantgoo.com/stock.aspx?no=1476
+MemberNo : 0
+UserName :  NotLogin
+IP : 180.177.106.144
+6/27/2014 9:58:49 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=1590
+前一頁 : http://m.wantgoo.com/Search.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.13.146.213
+6/27/2014 9:59:08 AM
+-----------------------------------------------------------------------------------------------------------------------

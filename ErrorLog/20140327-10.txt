@@ -1,0 +1,194 @@
+﻿發生錯誤的網頁:/Hottip/HottipPage4.aspx
+錯誤訊息:並未將物件參考設定為物件的執行個體。
+詳細資訊:
+   於 Hottip_HottipPage4.lvMyCollect_DataBound(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage4.aspx.vb: 行 93
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   於 System.Web.UI.WebControls.ListView.CreateChildControls()
+   於 System.Web.UI.Control.EnsureChildControls()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage4.aspx?g=2
+前一頁 : http://devm.wantgoo.com/Hottip/HottipPage3.aspx?g=2
+MemberNo : 77681
+UserName :  laifonlon@gmail.com
+IP : 127.0.0.1
+2014/3/27 上午 10:02:43
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage4.aspx
+錯誤訊息:並未將物件參考設定為物件的執行個體。
+詳細資訊:
+   於 Hottip_HottipPage4.lvMyCollect_DataBound(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage4.aspx.vb: 行 89
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   於 System.Web.UI.WebControls.ListView.CreateChildControls()
+   於 System.Web.UI.Control.EnsureChildControls()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage4.aspx?g=1
+前一頁 : http://devm.wantgoo.com/Hottip/HottipPage3.aspx
+MemberNo : 77681
+UserName :  laifonlon@gmail.com
+IP : 127.0.0.1
+2014/3/27 上午 10:03:25
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/TwIndex.aspx
+錯誤訊息:檔案 '/Hottip/TwIndex.aspx' 不存在。
+詳細資訊:
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   於 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   於 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   於 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/TwIndex.aspx
+前一頁 : http://devm.wantgoo.com/Hottip/HottipPage9.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/27 上午 10:48:02
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/TwIndex.aspx
+錯誤訊息:檔案 '/Hottip/TwIndex.aspx' 不存在。
+詳細資訊:
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   於 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   於 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   於 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/TwIndex.aspx
+前一頁 : http://devm.wantgoo.com/Hottip/HottipPage9.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/27 上午 10:48:08
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/Globals.aspx
+錯誤訊息:檔案 '/Hottip/Globals.aspx' 不存在。
+詳細資訊:
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   於 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   於 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   於 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/Globals.aspx
+前一頁 : http://devm.wantgoo.com/Hottip/HottipPage9.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/27 上午 10:48:10
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/Article.aspx
+錯誤訊息:檔案 '/Hottip/Article.aspx' 不存在。
+詳細資訊:
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   於 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   於 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   於 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/Article.aspx
+前一頁 : http://devm.wantgoo.com/Hottip/HottipPage9.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/27 上午 10:48:13
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/club.aspx
+錯誤訊息:檔案 '/Hottip/club.aspx' 不存在。
+詳細資訊:
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   於 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   於 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   於 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/club.aspx
+前一頁 : http://devm.wantgoo.com/Hottip/HottipPage9.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/27 上午 10:48:16
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/Globals.aspx
+錯誤訊息:檔案 '/Hottip/Globals.aspx' 不存在。
+詳細資訊:
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   於 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   於 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   於 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/Globals.aspx
+前一頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/27 上午 10:49:40
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Article.aspx
+錯誤訊息:在主版頁面 '/m_search.master' 中找不到 ContentPlaceHolder 'CPH'，請在內容頁面中檢查內容控制項的 ContentPlaceHolderID 屬性。
+詳細資訊:
+   於 System.Web.UI.MasterPage.CreateMaster(TemplateControl owner, HttpContext context, VirtualPath masterPageFile, IDictionary contentTemplateCollection)
+   於 System.Web.UI.Page.ApplyMasterPage()
+   於 System.Web.UI.Page.PerformPreInit()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://devm.wantgoo.com/Article.aspx
+前一頁 : http://devm.wantgoo.com/Hottip/HottipPage9.aspx?g=1
+MemberNo : 77681
+UserName :  
+IP : 127.0.0.1
+2014/3/27 上午 10:57:12
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Article.aspx
+錯誤訊息:在主版頁面 '/m_search.master' 中找不到 ContentPlaceHolder 'CPH'，請在內容頁面中檢查內容控制項的 ContentPlaceHolderID 屬性。
+詳細資訊:
+   於 System.Web.UI.MasterPage.CreateMaster(TemplateControl owner, HttpContext context, VirtualPath masterPageFile, IDictionary contentTemplateCollection)
+   於 System.Web.UI.Page.ApplyMasterPage()
+   於 System.Web.UI.Page.PerformPreInit()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Article.aspx
+前一頁 : 
+MemberNo : 77681
+UserName :  
+IP : 127.0.0.1
+2014/3/27 上午 10:57:35
+-----------------------------------------------------------------------------------------------------------------------

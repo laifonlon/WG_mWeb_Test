@@ -1,0 +1,126 @@
+﻿發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=DJT
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 220.181.108.185
+4/9/2014 11:19:16 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=DJT
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.125.71.19
+4/9/2014 11:19:23 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=CTIB
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 220.181.108.94
+4/9/2014 11:30:26 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=CTIB
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.125.71.38
+4/9/2014 11:30:39 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=HLTOY
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.125.71.17
+4/9/2014 11:43:32 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED; Declare @StartDate date Set @StartDate = '2014/04/02' Declare @EndDate date Set @EndDate = '2014/04/09' SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM Stock Left OUTER JOIN Selection1 ON Stock.StockNo = Selection1.StockNo Left OUTER JOIN Selection ON Stock.StockNo = Selection.StockNo Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo Left OUTER JOIN Exright ON Stock.StockNo = Exright.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Fundamentals.IncomeHighLastYear > 6 And Fundamentals.OperatingMargin > 20  Order by StockNo
+輸入頁 : http://m.wantgoo.com/index.aspx?no=B1W&
+前一頁 : http://m.wantgoo.com/Club.aspx
+MemberNo : 70448
+UserName :  cllifshih@gmail.com
+IP : 113.161.82.114
+4/9/2014 11:58:39 PM
+-----------------------------------------------------------------------------------------------------------------------

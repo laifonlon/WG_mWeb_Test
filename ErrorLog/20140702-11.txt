@@ -1,0 +1,466 @@
+﻿發生錯誤的網頁:/Login.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at MemberAuthority.WriteCookie(String userName, Int32 cookieExpires) in F:\WantGooMobile\wwwroot\App_Code\MemberAuthority.vb:line 106
+   at Login.Login1_LoggedIn(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Login.aspx.vb:line 15
+   at System.Web.UI.WebControls.Login.OnLoggedIn(EventArgs e)
+   at System.Web.UI.WebControls.Login.AttemptLogin()
+   at System.Web.UI.WebControls.Login.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.WebControls.Button.OnCommand(CommandEventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 88026
+UserName :  
+IP : 115.80.250.196
+7/2/2014 11:13:48 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 88026
+UserName :  sasachao@hotmail.com.tw
+IP : 115.80.250.196
+7/2/2014 11:13:59 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 88026
+UserName :  sasachao@hotmail.com.tw
+IP : 115.80.250.196
+7/2/2014 11:14:08 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 88026
+UserName :  sasachao@hotmail.com.tw
+IP : 115.80.250.196
+7/2/2014 11:14:13 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 88026
+UserName :  sasachao@hotmail.com.tw
+IP : 115.80.250.196
+7/2/2014 11:14:40 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 88026
+UserName :  sasachao@hotmail.com.tw
+IP : 115.80.250.196
+7/2/2014 11:14:43 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 88026
+UserName :  sasachao@hotmail.com.tw
+IP : 115.80.250.196
+7/2/2014 11:17:31 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 88026
+UserName :  sasachao@hotmail.com.tw
+IP : 115.80.250.196
+7/2/2014 11:27:19 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 88026
+UserName :  sasachao@hotmail.com.tw
+IP : 115.80.250.196
+7/2/2014 11:38:13 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 88026
+UserName :  
+IP : 115.80.250.196
+7/2/2014 11:38:32 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=10
+前一頁 : 
+MemberNo : 88026
+UserName :  
+IP : 115.80.250.196
+7/2/2014 11:38:41 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Login.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at MemberAuthority.WriteCookie(String userName, Int32 cookieExpires) in F:\WantGooMobile\wwwroot\App_Code\MemberAuthority.vb:line 106
+   at Login.Login1_LoggedIn(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Login.aspx.vb:line 15
+   at System.Web.UI.WebControls.Login.OnLoggedIn(EventArgs e)
+   at System.Web.UI.WebControls.Login.AttemptLogin()
+   at System.Web.UI.WebControls.Login.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.WebControls.Button.OnCommand(CommandEventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 88026
+UserName :  
+IP : 115.80.250.196
+7/2/2014 11:39:03 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 88026
+UserName :  
+IP : 49.218.123.157
+7/2/2014 11:42:05 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 88026
+UserName :  
+IP : 49.218.123.157
+7/2/2014 11:49:53 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 88026
+UserName :  
+IP : 49.218.123.157
+7/2/2014 11:58:13 AM
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAK3hIh5IhlbUgffo1bUDJp4UZAwnf7UMm1gE4zdCTSA48lK4KtCDIcJIpx78ZADvdxZC3ajfvhJ3oZB9IuDvf2v0B3MMzFBIYP7BggnaAZAc8rswZCicKY1UfK9uhuEn5npBrihssAgoa17iIQlWJIEGF4TSyWKYanlOvvhhy7PzrGT6y8PMcZD&m=undefined&u=100002322114771&l=許&f=世昌&s=male&n=許世昌&r=&GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.171.195.76:40197
+5/29/2014 2:21:44 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAKI8XYdgNsvyxdBRx8vWEUeJiG3hYq15khn4hyWkiFJ1cncIcdyLbgGWz0Yb4bLnW2iNLWZCkr7pHbPZBoysnhTm2KhFP3Ayt3uVkxEr1mdzs77V0iFNYDBKxA7XRNlFo4LblqDkkHTaxCZBVl2jODlpL64KTFnCRQCsPQgzMw4pO9Oe7QZD&m=undefined&u=100002322114771&l=許&f=世昌&s=male&n=許世昌&r=&GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.171.195.76:40194
+5/29/2014 2:21:49 PM
+-----------------------------------------------------------------------------------------------------------------------

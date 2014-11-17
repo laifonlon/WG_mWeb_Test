@@ -1,0 +1,36 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:The connection name 'ApplicationServices' was not found in the applications configuration or the connection string is empty.
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAKLJe2GkbiEeBDoPClbER1BUSiHBcpXSyXkGeKMHZBdQ3QrZAvNa8YJ0MZASFZCgYz6ZC504heMp0abUT9fObnwLn3URmqlffkSKHZCYitjVd2FxVsyBeR6ql01DhnqU59DG9LcZAt1qnsWAOStaUUtEhYqU9WVNtXBBuXd9cSXqKZCgBvbDUhQZD&m=astoro1011@yahoo.com.tw&u=100000352034660&l=王&f=詩晴&s=female&n=王詩晴&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 219.68.229.125:55364
+5/31/2014 3:28:12 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=HIMX
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 157.55.39.50:9058
+5/31/2014 3:52:32 PM
+-----------------------------------------------------------------------------------------------------------------------

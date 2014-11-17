@@ -1,0 +1,371 @@
+﻿發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 106.107.50.29
+	Port: 27821
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; U; Android 2.3.5; zh-tw; HTC_DesireHD_A9191 Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 106.107.50.29
+6/9/2014 12:09:45 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 182.155.20.15
+	Port: 38420
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; U; Android 2.3.4; zh-tw; HTC EVO Design C715e Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 182.155.20.15
+6/9/2014 12:16:05 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 66.249.80.94
+	Port: 52606
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.2.2; InFocus M320 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.66.208.207
+6/9/2014 12:17:10 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 66.249.80.94
+	Port: 52606
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.2.2; InFocus M320 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.66.208.207
+6/9/2014 12:17:10 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 59.120.188.121
+	Port: 39316
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.2.2; GT-I9200 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 59.120.188.121
+6/9/2014 12:17:26 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 59.120.188.121
+	Port: 39316
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.2.2; GT-I9200 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 59.120.188.121
+6/9/2014 12:17:33 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 117.136.11.70
+	Port: 58302
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; U; Android 4.2.2; zh-CN; NX503A Build/JDQ39) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 UCBrowser/9.7.9.439 U3/0.8.0 Mobile Safari/533.1
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 117.136.11.70
+6/9/2014 12:20:55 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 66.249.80.94
+	Port: 59207
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.2.2; InFocus M320 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.66.208.207
+6/9/2014 12:37:02 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 59.120.188.121
+	Port: 47190
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.2.2; GT-I9200 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 59.120.188.121
+6/9/2014 12:40:44 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 59.120.188.121
+	Port: 47190
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.2.2; GT-I9200 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 59.120.188.121
+6/9/2014 12:40:49 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 59.120.188.121
+	Port: 47190
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.2.2; GT-I9200 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 59.120.188.121
+6/9/2014 12:40:51 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 220.130.207.213
+	Port: 43770
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.2; zh-tw; SCH-I939 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 220.130.207.213
+6/9/2014 12:46:42 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 220.130.207.213
+	Port: 43774
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.2; zh-tw; SCH-I939 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 220.130.207.213
+6/9/2014 12:47:38 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 111.80.101.227
+	Port: 32151
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 66169
+UserName :  cooleac@msn.com
+IP : 111.80.101.227
+6/9/2014 12:58:29 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:Divide by zero error encountered.
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at System.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at System.Data.SqlClient.SqlDataReader.Read()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataSet dataSet, String srcTable, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in F:\WantGooMobile\wwwroot\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;Declare @StartDate date Set @StartDate = '2014/06/09' Declare @EndDate date Set @EndDate = '2014/06/09' Declare @CompareDate date Set @CompareDate = '2014/04/22' Declare @SituationDate date Set @SituationDate = '2014/04/22' SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM Stock Left OUTER JOIN (SELECT StockNo,SUM(IsLargeVolume) AS IsLargeVolume,SUM(IsMean3Combine) AS IsMean3Combine,SUM(IsThrough20Mean) AS IsThrough20Mean FROM Selection1 WHERE Selection1.Direction = 1 And Selection1.Date >= @StartDate And Selection1.Date <= @EndDate GROUP BY StockNo,Direction) AS Selection1  ON Stock.StockNo = Selection1.StockNo Left OUTER JOIN Selection ON Stock.StockNo = Selection.StockNo Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo Inner JOIN (Select [StockNo],[Open],[High],[Low],[Close],[Volume],[K9],[D9],[PriceVolume],[Mean5],[Mean10],[Mean20],[Mean60],[Mean120],[Mean240],[RankDirect],[RankDirectShort],[RankDuration],[RankDurationShort],[Rank20Short],[Rank20],[Rank40Short],[Rank40],[Rank60Short],[Rank60],[Mean5Volume],[Mean10Volume],[Mean20Volume],[Mean60Volume],[William20],[Last],[RSI3],[RSI5],[RSI6],[RSI9],[RSI10],[RSI12],[RSI14],Mean5DistanceRate,Mean10DistanceRate,[Mean20DistanceRate],[Mean60DistanceRate],Mean120DistanceRate,Mean240DistanceRate,[ChangeRatio],[AmplitudeRatio],[UpShadowRatio],[DownShadowRatio],[KstickRatio],NewHighDays FROM HistoryPriceDaily WHERE Date = @CompareDate And ISNUMERIC(StockNo) = 1) AS Today ON Stock.StockNo = Today.StockNo  WHERE Stock.Market < 2 And Stock.Deal > 0 AND  Selection1.IsLargeVolume > 0 And Selection1.IsMean3Combine > 0 And Selection1.IsThrough20Mean > 0 And Today.Mean60DistanceRate > 0.01 And Today.Mean60DistanceRate < 0.1 And abs((Today.Mean5 - Today.Mean10)/Today.Mean5)*100 < 1 And abs((Today.Mean5 - Today.Mean20)/Today.Mean5)*100 < 1 And abs((Today.Mean10 - Today.Mean20)/Today.Mean10)*100 < 1  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=9905&RuleName=短線強勢&rd=今日&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx?direction=多頭&rd=今日
+MemberNo : 64642
+UserName :  k19770614@gmail.com
+IP : 42.76.0.123
+6/9/2014 12:59:29 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:Divide by zero error encountered.
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at System.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at System.Data.SqlClient.SqlDataReader.Read()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataSet dataSet, String srcTable, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in F:\WantGooMobile\wwwroot\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;Declare @StartDate date Set @StartDate = '2014/06/09' Declare @EndDate date Set @EndDate = '2014/06/09' Declare @CompareDate date Set @CompareDate = '2014/04/22' Declare @SituationDate date Set @SituationDate = '2014/04/22' SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM Stock Left OUTER JOIN (SELECT StockNo,SUM(IsLargeVolume) AS IsLargeVolume,SUM(IsMean3Combine) AS IsMean3Combine,SUM(IsThrough20Mean) AS IsThrough20Mean FROM Selection1 WHERE Selection1.Direction = 1 And Selection1.Date >= @StartDate And Selection1.Date <= @EndDate GROUP BY StockNo,Direction) AS Selection1  ON Stock.StockNo = Selection1.StockNo Left OUTER JOIN Selection ON Stock.StockNo = Selection.StockNo Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo Inner JOIN (Select [StockNo],[Open],[High],[Low],[Close],[Volume],[K9],[D9],[PriceVolume],[Mean5],[Mean10],[Mean20],[Mean60],[Mean120],[Mean240],[RankDirect],[RankDirectShort],[RankDuration],[RankDurationShort],[Rank20Short],[Rank20],[Rank40Short],[Rank40],[Rank60Short],[Rank60],[Mean5Volume],[Mean10Volume],[Mean20Volume],[Mean60Volume],[William20],[Last],[RSI3],[RSI5],[RSI6],[RSI9],[RSI10],[RSI12],[RSI14],Mean5DistanceRate,Mean10DistanceRate,[Mean20DistanceRate],[Mean60DistanceRate],Mean120DistanceRate,Mean240DistanceRate,[ChangeRatio],[AmplitudeRatio],[UpShadowRatio],[DownShadowRatio],[KstickRatio],NewHighDays FROM HistoryPriceDaily WHERE Date = @CompareDate And ISNUMERIC(StockNo) = 1) AS Today ON Stock.StockNo = Today.StockNo  WHERE Stock.Market < 2 And Stock.Deal > 0 AND  Selection1.IsLargeVolume > 0 And Selection1.IsMean3Combine > 0 And Selection1.IsThrough20Mean > 0 And Today.Mean60DistanceRate > 0.01 And Today.Mean60DistanceRate < 0.1 And abs((Today.Mean5 - Today.Mean10)/Today.Mean5)*100 < 1 And abs((Today.Mean5 - Today.Mean20)/Today.Mean5)*100 < 1 And abs((Today.Mean10 - Today.Mean20)/Today.Mean10)*100 < 1  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=9905&RuleName=短線強勢&rd=今日&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx?direction=多頭&rd=今日
+MemberNo : 64642
+UserName :  k19770614@gmail.com
+IP : 42.76.0.123
+6/9/2014 12:59:44 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:Divide by zero error encountered.
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at System.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at System.Data.SqlClient.SqlDataReader.Read()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataSet dataSet, String srcTable, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in F:\WantGooMobile\wwwroot\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;Declare @StartDate date Set @StartDate = '2014/06/09' Declare @EndDate date Set @EndDate = '2014/06/09' Declare @CompareDate date Set @CompareDate = '2014/04/22' Declare @SituationDate date Set @SituationDate = '2014/04/22' SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM Stock Left OUTER JOIN (SELECT StockNo,SUM(IsLargeVolume) AS IsLargeVolume,SUM(IsMean3Combine) AS IsMean3Combine,SUM(IsThrough20Mean) AS IsThrough20Mean FROM Selection1 WHERE Selection1.Direction = 1 And Selection1.Date >= @StartDate And Selection1.Date <= @EndDate GROUP BY StockNo,Direction) AS Selection1  ON Stock.StockNo = Selection1.StockNo Left OUTER JOIN Selection ON Stock.StockNo = Selection.StockNo Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo Inner JOIN (Select [StockNo],[Open],[High],[Low],[Close],[Volume],[K9],[D9],[PriceVolume],[Mean5],[Mean10],[Mean20],[Mean60],[Mean120],[Mean240],[RankDirect],[RankDirectShort],[RankDuration],[RankDurationShort],[Rank20Short],[Rank20],[Rank40Short],[Rank40],[Rank60Short],[Rank60],[Mean5Volume],[Mean10Volume],[Mean20Volume],[Mean60Volume],[William20],[Last],[RSI3],[RSI5],[RSI6],[RSI9],[RSI10],[RSI12],[RSI14],Mean5DistanceRate,Mean10DistanceRate,[Mean20DistanceRate],[Mean60DistanceRate],Mean120DistanceRate,Mean240DistanceRate,[ChangeRatio],[AmplitudeRatio],[UpShadowRatio],[DownShadowRatio],[KstickRatio],NewHighDays FROM HistoryPriceDaily WHERE Date = @CompareDate And ISNUMERIC(StockNo) = 1) AS Today ON Stock.StockNo = Today.StockNo  WHERE Stock.Market < 2 And Stock.Deal > 0 AND  Selection1.IsLargeVolume > 0 And Selection1.IsMean3Combine > 0 And Selection1.IsThrough20Mean > 0 And Today.Mean60DistanceRate > 0.01 And Today.Mean60DistanceRate < 0.1 And abs((Today.Mean5 - Today.Mean10)/Today.Mean5)*100 < 1 And abs((Today.Mean5 - Today.Mean20)/Today.Mean5)*100 < 1 And abs((Today.Mean10 - Today.Mean20)/Today.Mean10)*100 < 1  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=9905&RuleName=短線強勢&rd=今日&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx?direction=多頭&rd=今日
+MemberNo : 64642
+UserName :  k19770614@gmail.com
+IP : 42.76.0.123
+6/9/2014 12:59:55 PM
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,1449 @@
+﻿發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at MemberAuthority.WriteCookie(String userName, Int32 cookieExpires) in F:\WantGooMobile\wwwroot\App_Code\MemberAuthority.vb:line 106
+   at CMFunction_autologin.AutoLogin() in F:\WantGooMobile\wwwroot\CMFunction\autologin.aspx.vb:line 65
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 88026
+UserName :  sasachao@hotmail.com.tw
+IP : 49.218.123.157
+7/2/2014 12:02:15 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 88026
+UserName :  sasachao@hotmail.com.tw
+IP : 49.218.123.157
+7/2/2014 12:03:09 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at MemberAuthority.WriteCookie(String userName, Int32 cookieExpires) in F:\WantGooMobile\wwwroot\App_Code\MemberAuthority.vb:line 106
+   at CMFunction_autologin.AutoLogin() in F:\WantGooMobile\wwwroot\CMFunction\autologin.aspx.vb:line 65
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 88026
+UserName :  
+IP : 49.218.123.157
+7/2/2014 12:03:25 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipPage1.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipPage1.aspx.vb:line 28
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/stock.aspx?no=1787
+MemberNo : 88026
+UserName :  sasachao@hotmail.com.tw
+IP : 49.218.123.157
+7/2/2014 12:03:30 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 76365
+UserName :  mouse44442001@yahoo.com.tw
+IP : 42.78.8.110
+7/2/2014 12:26:53 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+MemberNo : 44561
+UserName :  jing-qian99@hotmail.com
+IP : 180.204.24.238
+7/2/2014 12:26:54 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=2450
+前一頁 : http://m.wantgoo.com/stock.aspx?no=2450
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.74.205.239
+7/2/2014 12:26:57 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 59.120.188.121
+7/2/2014 12:27:03 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+MemberNo : 55134
+UserName :  liu.chuns711@gmail.com
+IP : 115.80.184.24
+7/2/2014 12:27:05 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/stock.aspx?no=3576
+MemberNo : 81434
+UserName :  lon1169a@hotmail.com
+IP : 42.74.98.148
+7/2/2014 12:27:06 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 26013
+UserName :  a0935803783@yahoo.com.tw
+IP : 101.10.5.116
+7/2/2014 12:27:07 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=1
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=1
+MemberNo : 83946
+UserName :  kkjder@gmail.com
+IP : 223.141.77.102
+7/2/2014 12:27:08 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=a
+前一頁 : http://m.wantgoo.com/globals.aspx?g=a
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.143.246.91
+7/2/2014 12:27:12 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 180.205.71.151
+7/2/2014 12:27:18 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+MemberNo : 44561
+UserName :  jing-qian99@hotmail.com
+IP : 180.204.24.238
+7/2/2014 12:27:24 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 59.120.188.121
+7/2/2014 12:27:34 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+MemberNo : 55134
+UserName :  liu.chuns711@gmail.com
+IP : 115.80.184.24
+7/2/2014 12:27:35 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/stock.aspx?no=3576
+MemberNo : 81434
+UserName :  lon1169a@hotmail.com
+IP : 42.74.98.148
+7/2/2014 12:27:36 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 26013
+UserName :  a0935803783@yahoo.com.tw
+IP : 101.10.5.116
+7/2/2014 12:27:37 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 207.46.128.60
+7/2/2014 12:27:41 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 68727
+UserName :  jcc3737@yahoo.com.tw
+IP : 36.233.241.249
+7/2/2014 12:27:47 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+MemberNo : 44561
+UserName :  jing-qian99@hotmail.com
+IP : 180.204.24.238
+7/2/2014 12:27:57 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.10.1.39
+7/2/2014 12:28:01 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+MemberNo : 55134
+UserName :  liu.chuns711@gmail.com
+IP : 115.80.184.24
+7/2/2014 12:28:05 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=3576
+前一頁 : http://m.wantgoo.com/stock.aspx?no=3576
+MemberNo : 81434
+UserName :  lon1169a@hotmail.com
+IP : 42.74.98.148
+7/2/2014 12:28:06 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/kchart.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/kchart.aspx?no=3092
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.79.99
+7/2/2014 12:28:06 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=0000
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 26013
+UserName :  a0935803783@yahoo.com.tw
+IP : 101.10.5.116
+7/2/2014 12:28:08 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index.aspx?no=S2TWZ1
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 203.210.7.77
+7/2/2014 12:28:14 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 88391
+UserName :  deardaddyiou@gmail.com
+IP : 10.243.4.217
+7/2/2014 12:28:15 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 68727
+UserName :  jcc3737@yahoo.com.tw
+IP : 36.233.241.249
+7/2/2014 12:28:19 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.173.52.27
+7/2/2014 12:28:22 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index.aspx?no=IBO
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.125.71.34
+7/2/2014 12:28:23 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+MemberNo : 44561
+UserName :  jing-qian99@hotmail.com
+IP : 180.204.24.238
+7/2/2014 12:28:27 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 77799
+UserName :  rc815810@pchome.com.tw
+IP : 118.161.51.158
+7/2/2014 12:28:30 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=2450
+前一頁 : http://m.wantgoo.com/stock.aspx?no=2450
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.74.205.239
+7/2/2014 12:28:34 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+MemberNo : 55134
+UserName :  liu.chuns711@gmail.com
+IP : 115.80.184.24
+7/2/2014 12:28:35 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=3576
+前一頁 : http://m.wantgoo.com/stock.aspx?no=3576
+MemberNo : 81434
+UserName :  lon1169a@hotmail.com
+IP : 42.74.98.148
+7/2/2014 12:28:37 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 26013
+UserName :  a0935803783@yahoo.com.tw
+IP : 101.10.5.116
+7/2/2014 12:28:38 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=1731
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 37.58.100.133
+7/2/2014 12:28:41 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 207.46.128.60
+7/2/2014 12:28:41 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/kchart.aspx?no=2115
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.70.162.170
+7/2/2014 12:28:44 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.173.52.27
+7/2/2014 12:28:55 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+MemberNo : 44561
+UserName :  jing-qian99@hotmail.com
+IP : 180.204.24.238
+7/2/2014 12:28:57 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/TwIndex.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.59.217
+7/2/2014 12:29:04 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/chart.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/chart.aspx?no=2330
+前一頁 : 
+MemberNo : 88712
+UserName :  scott5415710@yahoo.com.tw
+IP : 218.161.60.53
+7/2/2014 12:29:05 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+MemberNo : 55134
+UserName :  liu.chuns711@gmail.com
+IP : 115.80.184.24
+7/2/2014 12:29:06 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/stock.aspx?no=3576
+MemberNo : 81434
+UserName :  lon1169a@hotmail.com
+IP : 42.74.98.148
+7/2/2014 12:29:08 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=3033
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 26013
+UserName :  a0935803783@yahoo.com.tw
+IP : 101.10.5.116
+7/2/2014 12:29:08 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=3406
+前一頁 : http://m.wantgoo.com/stock.aspx?no=3406
+MemberNo : 0
+UserName :  NotLogin
+IP : 122.201.131.35
+7/2/2014 12:29:09 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+MemberNo : 44561
+UserName :  jing-qian99@hotmail.com
+IP : 180.204.24.238
+7/2/2014 12:29:28 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/TwIndex.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.59.217
+7/2/2014 12:29:34 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/chart.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/chart.aspx?no=0000
+前一頁 : http://m.wantgoo.com/chart.aspx?no=0000
+MemberNo : 88712
+UserName :  scott5415710@yahoo.com.tw
+IP : 218.161.60.53
+7/2/2014 12:29:36 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+MemberNo : 55134
+UserName :  liu.chuns711@gmail.com
+IP : 115.80.184.24
+7/2/2014 12:29:36 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=3576
+前一頁 : 
+MemberNo : 81434
+UserName :  lon1169a@hotmail.com
+IP : 42.74.98.148
+7/2/2014 12:29:38 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 26013
+UserName :  a0935803783@yahoo.com.tw
+IP : 101.10.5.116
+7/2/2014 12:29:38 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=3406
+前一頁 : http://m.wantgoo.com/stock.aspx?no=3406
+MemberNo : 0
+UserName :  NotLogin
+IP : 122.201.131.35
+7/2/2014 12:29:40 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 207.46.128.60
+7/2/2014 12:29:41 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+MemberNo : 44561
+UserName :  jing-qian99@hotmail.com
+IP : 180.204.24.238
+7/2/2014 12:29:58 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=2312
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.15.197.124
+7/2/2014 12:30:00 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/TwIndex.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.59.217
+7/2/2014 12:30:05 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/chart.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/chart.aspx?no=0000
+前一頁 : http://m.wantgoo.com/chart.aspx?no=0000
+MemberNo : 88712
+UserName :  scott5415710@yahoo.com.tw
+IP : 218.161.60.53
+7/2/2014 12:30:06 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+MemberNo : 55134
+UserName :  liu.chuns711@gmail.com
+IP : 115.80.184.24
+7/2/2014 12:30:06 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/stock.aspx?no=3576
+MemberNo : 81434
+UserName :  lon1169a@hotmail.com
+IP : 42.74.98.148
+7/2/2014 12:30:08 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 26013
+UserName :  a0935803783@yahoo.com.tw
+IP : 101.10.5.116
+7/2/2014 12:30:08 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 110.25.80.115
+7/2/2014 12:30:09 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=2301
+前一頁 : http://m.wantgoo.com/stock.aspx?no=2301
+MemberNo : 0
+UserName :  NotLogin
+IP : 122.201.131.35
+7/2/2014 12:30:11 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.69.220.110
+7/2/2014 12:30:12 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.10.1.39
+7/2/2014 12:30:16 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+MemberNo : 44561
+UserName :  jing-qian99@hotmail.com
+IP : 180.204.24.238
+7/2/2014 12:30:29 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=2312
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.15.197.124
+7/2/2014 12:30:31 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/chart.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/chart.aspx?no=0000
+前一頁 : http://m.wantgoo.com/chart.aspx?no=0000
+MemberNo : 88712
+UserName :  scott5415710@yahoo.com.tw
+IP : 218.161.60.53
+7/2/2014 12:30:36 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+MemberNo : 55134
+UserName :  liu.chuns711@gmail.com
+IP : 115.80.184.24
+7/2/2014 12:30:36 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=4
+MemberNo : 55134
+UserName :  liu.chuns711@gmail.com
+IP : 115.80.184.24
+7/2/2014 12:30:38 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index.aspx?no=S2TWZ1
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 203.210.7.77
+7/2/2014 12:30:38 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/TwIndex.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.59.217
+7/2/2014 12:30:39 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 26013
+UserName :  a0935803783@yahoo.com.tw
+IP : 101.10.5.116
+7/2/2014 12:30:39 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/topicDetail.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/topicDetail.aspx?p=1&id=9&tid=19762
+前一頁 : http://m.wantgoo.com/Club.aspx
+MemberNo : 82639
+UserName :  irisu1018@yahoo.com
+IP : 218.166.247.87
+7/2/2014 12:30:41 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 71487
+UserName :  
+IP : 42.74.177.204
+7/2/2014 12:30:42 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/stock.aspx?no=2049
+MemberNo : 0
+UserName :  NotLogin
+IP : 39.12.17.96
+7/2/2014 12:30:42 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=2330
+前一頁 : http://m.wantgoo.com/stock.aspx?no=2301
+MemberNo : 0
+UserName :  NotLogin
+IP : 122.201.131.35
+7/2/2014 12:30:42 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/topicDetail.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/topicDetail.aspx?p=1&id=10&tid=19765
+前一頁 : http://m.wantgoo.com/topicDetail.aspx?p=1&id=10&tid=19765
+MemberNo : 0
+UserName :  NotLogin
+IP : 59.120.188.121
+7/2/2014 12:30:46 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.10.1.39
+7/2/2014 12:30:49 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 207.46.128.60
+7/2/2014 12:30:54 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=4130
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.36.187.11
+7/2/2014 12:30:59 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx?g=8
+MemberNo : 44561
+UserName :  jing-qian99@hotmail.com
+IP : 180.204.24.238
+7/2/2014 12:31:01 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/blog.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/blog.aspx?bid=70469
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.79.73
+7/2/2014 12:31:05 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/chart.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/chart.aspx?no=0000
+前一頁 : http://m.wantgoo.com/chart.aspx?no=0000
+MemberNo : 88712
+UserName :  scott5415710@yahoo.com.tw
+IP : 218.161.60.53
+7/2/2014 12:31:06 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=2312
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.15.197.124
+7/2/2014 12:31:07 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 26013
+UserName :  a0935803783@yahoo.com.tw
+IP : 101.10.5.116
+7/2/2014 12:31:09 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.69.220.110
+7/2/2014 12:31:13 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=4915
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.59.217
+7/2/2014 12:31:13 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/topicDetail.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/topicDetail.aspx?p=1&id=9&tid=19762
+前一頁 : http://m.wantgoo.com/Club.aspx
+MemberNo : 82639
+UserName :  irisu1018@yahoo.com
+IP : 218.166.247.87
+7/2/2014 12:31:14 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=3406
+前一頁 : http://m.wantgoo.com/stock.aspx?no=3406
+MemberNo : 0
+UserName :  NotLogin
+IP : 122.201.131.35
+7/2/2014 12:31:19 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.10.1.39
+7/2/2014 12:31:24 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Globals.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 110.25.80.115
+7/2/2014 12:31:27 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Login.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at MemberAuthority.WriteCookie(String userName, Int32 cookieExpires) in F:\WantGooMobile\wwwroot\App_Code\MemberAuthority.vb:line 106
+   at Login.Login1_LoggedIn(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Login.aspx.vb:line 15
+   at System.Web.UI.WebControls.Login.OnLoggedIn(EventArgs e)
+   at System.Web.UI.WebControls.Login.AttemptLogin()
+   at System.Web.UI.WebControls.Login.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.WebControls.Button.OnCommand(CommandEventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 88026
+UserName :  
+IP : 101.10.111.60
+7/2/2014 12:34:34 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index.aspx?no=
+前一頁 : http://m.wantgoo.com/stock.aspx?no=1704
+MemberNo : 0
+UserName :  NotLogin
+IP : 175.96.143.236
+7/2/2014 12:38:49 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index.aspx?no=WTX&
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.8.201.199
+7/2/2014 12:39:09 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index.aspx?no=WTX&
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.8.201.199
+7/2/2014 12:39:34 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Login.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.cllp_sjh.17.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 476
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 673
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at MemberAuthority.WriteCookie(String userName, Int32 cookieExpires) in F:\WantGooMobile\wwwroot\App_Code\MemberAuthority.vb:line 106
+   at Login.Login1_LoggedIn(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Login.aspx.vb:line 15
+   at System.Web.UI.WebControls.Login.OnLoggedIn(EventArgs e)
+   at System.Web.UI.WebControls.Login.AttemptLogin()
+   at System.Web.UI.WebControls.Login.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.WebControls.Button.OnCommand(CommandEventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 88026
+UserName :  
+IP : 118.166.217.188
+7/2/2014 12:42:03 PM
+-----------------------------------------------------------------------------------------------------------------------

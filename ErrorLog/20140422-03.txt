@@ -1,0 +1,21 @@
+﻿發生錯誤的網頁:/chart.aspx
+錯誤訊息:並未將物件參考設定為物件的執行個體。
+詳細資訊:
+   於 DealInfo.DisplayColor() 於 C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb: 行 86
+   於 DealInfo.LoadData() 於 C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb: 行 64
+   於 DealInfo.Page_Load(Object sender, EventArgs e) 於 C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb: 行 16
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/chart.aspx?no=WTX
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 202.108.1.225
+4/22/2014 3:29:05 AM
+-----------------------------------------------------------------------------------------------------------------------

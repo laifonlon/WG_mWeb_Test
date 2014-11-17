@@ -1,0 +1,593 @@
+﻿發生錯誤的網頁:/PersonalPage/MyBlogPost.aspx
+錯誤訊息:檔案 '/PersonalPage/MyBlogPost.aspx' 不存在。
+詳細資訊:
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/PersonalPage/MyBlogPost.aspx?MemberNo=22456&ArticleID=1306
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.77.32
+4/22/2014 12:16:41 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Login.aspx
+錯誤訊息:交易 (處理序識別碼 67) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at MemberAuthority.Login(String userName, Boolean isAutoLogin) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\MemberAuthority.vb:line 14
+   at Login.Login1_LoggedIn(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Login.aspx.vb:line 14
+   at System.Web.UI.WebControls.Login.AttemptLogin()
+   at System.Web.UI.WebControls.Login.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 10.112.160.75
+4/22/2014 12:30:32 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 132) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/AutoRefresh.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.249.100.10
+4/22/2014 12:30:39 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 132) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/AutoRefresh.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.249.100.10
+4/22/2014 12:30:41 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 132) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/AutoRefresh.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.249.100.10
+4/22/2014 12:30:41 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Login.aspx
+錯誤訊息:交易 (處理序識別碼 67) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at MemberAuthority.Login(String userName, Boolean isAutoLogin) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\MemberAuthority.vb:line 14
+   at Login.Login1_LoggedIn(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Login.aspx.vb:line 14
+   at System.Web.UI.WebControls.Login.AttemptLogin()
+   at System.Web.UI.WebControls.Login.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 10.112.160.75
+4/22/2014 12:31:39 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:交易 (處理序識別碼 122) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WantGooTableAdapters.QueriesTableAdapter.UpdateAutoLoginState(String UserName, Nullable`1 IsAutoLogin, String IP) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\1cd545e1\111b8c1d\App_Code.pzuxmk5h.12.vb:line 16349
+   at CMFunction_autologin.AutoLogin() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 58
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.12.207.249
+4/22/2014 12:35:28 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:必須宣告純量變數 "@EndDate"。
+接近關鍵字 'AS' 之處的語法不正確。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM (SELECT StockNo,SUM(IsLargeVolume) AS IsLargeVolume,SUM(IsLargeVolumeContinue) AS IsLargeVolumeContinue FROM Selection1 WHERE  Selection1.Direction = 1 And Selection1.Date >= '2014/04/15' And Selection1.Date <= '2014/04/22' GROUP BY StockNo) AS Selection1  INNER JOIN Stock ON Selection1.StockNo = Stock.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo   WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Selection1.IsLargeVolume > 0 And Selection1.IsLargeVolumeContinue > 0  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=382&RuleName=帶量多&rd=近一周&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 29223
+UserName :  wang3402@yahoo.com.tw
+IP : 39.10.76.211
+4/22/2014 12:46:20 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:必須宣告純量變數 "@EndDate"。
+接近關鍵字 'AS' 之處的語法不正確。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM (SELECT StockNo,SUM(IsThrough5Mean) AS IsThrough5Mean,SUM(IsThroughInterval) AS IsThroughInterval FROM Selection1 WHERE  Selection1.Direction = 1 And Selection1.Date >= '2014/04/15' And Selection1.Date <= '2014/04/22' GROUP BY StockNo) AS Selection1  INNER JOIN Stock ON Selection1.StockNo = Stock.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo   WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Selection1.IsThrough5Mean > 0 And Selection1.IsThroughInterval > 0  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=385&RuleName=突破短多&rd=近一周&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 29223
+UserName :  wang3402@yahoo.com.tw
+IP : 39.10.76.211
+4/22/2014 12:46:34 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:必須宣告純量變數 "@EndDate"。
+接近關鍵字 'AS' 之處的語法不正確。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM (SELECT StockNo,SUM(IsLargeVolume) AS IsLargeVolume,SUM(IsThrough5Mean) AS IsThrough5Mean,SUM(IsThroughInterval) AS IsThroughInterval FROM Selection1 WHERE  Selection1.Direction = 1 And Selection1.Date >= '2014/04/15' And Selection1.Date <= '2014/04/22' GROUP BY StockNo) AS Selection1  INNER JOIN Stock ON Selection1.StockNo = Stock.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo   WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Selection1.IsLargeVolume > 0 And Selection1.IsThrough5Mean > 0 And Selection1.IsThroughInterval > 0  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=413&RuleName=突破三日衝&rd=近一周&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 29223
+UserName :  wang3402@yahoo.com.tw
+IP : 39.10.76.211
+4/22/2014 12:46:52 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:必須宣告純量變數 "@EndDate"。
+接近關鍵字 'AS' 之處的語法不正確。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM (SELECT StockNo,SUM(IsLargeVolume) AS IsLargeVolume,SUM(IsLargeVolumeContinue) AS IsLargeVolumeContinue FROM Selection1 WHERE  Selection1.Direction = 1 And Selection1.Date >= '2014/04/15' And Selection1.Date <= '2014/04/22' GROUP BY StockNo) AS Selection1  INNER JOIN Stock ON Selection1.StockNo = Stock.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo   WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Selection1.IsLargeVolume > 0 And Selection1.IsLargeVolumeContinue > 0  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=382&RuleName=帶量多&rd=近一周&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 29223
+UserName :  wang3402@yahoo.com.tw
+IP : 39.10.76.211
+4/22/2014 12:47:22 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:必須宣告純量變數 "@EndDate"。
+接近關鍵字 'AS' 之處的語法不正確。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM (SELECT StockNo,SUM(IsLargeVolume) AS IsLargeVolume,SUM(IsLargeVolumeContinue) AS IsLargeVolumeContinue FROM Selection1 WHERE  Selection1.Direction = 1 And Selection1.Date >= '2014/04/15' And Selection1.Date <= '2014/04/22' GROUP BY StockNo) AS Selection1  INNER JOIN Stock ON Selection1.StockNo = Stock.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo   WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Selection1.IsLargeVolume > 0 And Selection1.IsLargeVolumeContinue > 0  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=382&RuleName=帶量多&rd=近一周&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 29223
+UserName :  wang3402@yahoo.com.tw
+IP : 39.10.76.211
+4/22/2014 12:47:31 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:必須宣告純量變數 "@EndDate"。
+接近關鍵字 'AS' 之處的語法不正確。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM (SELECT StockNo,SUM(IsLargeVolume) AS IsLargeVolume,SUM(IsThrough5Mean) AS IsThrough5Mean,SUM(IsThroughInterval) AS IsThroughInterval FROM Selection1 WHERE  Selection1.Direction = 1 And Selection1.Date >= '2014/04/15' And Selection1.Date <= '2014/04/22' GROUP BY StockNo) AS Selection1  INNER JOIN Stock ON Selection1.StockNo = Stock.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo   WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Selection1.IsLargeVolume > 0 And Selection1.IsThrough5Mean > 0 And Selection1.IsThroughInterval > 0  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=413&RuleName=突破三日衝&rd=近一周&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 29223
+UserName :  wang3402@yahoo.com.tw
+IP : 39.10.76.211
+4/22/2014 12:49:36 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:必須宣告純量變數 "@EndDate"。
+接近關鍵字 'AS' 之處的語法不正確。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM (SELECT StockNo,SUM(IsThrough5Mean) AS IsThrough5Mean,SUM(IsThroughInterval) AS IsThroughInterval FROM Selection1 WHERE  Selection1.Direction = 1 And Selection1.Date >= '2014/04/15' And Selection1.Date <= '2014/04/22' GROUP BY StockNo) AS Selection1  INNER JOIN Stock ON Selection1.StockNo = Stock.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo   WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Selection1.IsThrough5Mean > 0 And Selection1.IsThroughInterval > 0  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=385&RuleName=突破短多&rd=近一周&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 29223
+UserName :  wang3402@yahoo.com.tw
+IP : 39.10.76.211
+4/22/2014 12:49:45 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:必須宣告純量變數 "@EndDate"。
+接近關鍵字 'AS' 之處的語法不正確。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM (SELECT StockNo,SUM(IsLargeVolume) AS IsLargeVolume,SUM(IsThrough5Mean) AS IsThrough5Mean,SUM(IsThroughInterval) AS IsThroughInterval FROM Selection1 WHERE  Selection1.Direction = 1 And Selection1.Date >= '2014/04/15' And Selection1.Date <= '2014/04/22' GROUP BY StockNo) AS Selection1  INNER JOIN Stock ON Selection1.StockNo = Stock.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo   WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Selection1.IsLargeVolume > 0 And Selection1.IsThrough5Mean > 0 And Selection1.IsThroughInterval > 0  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=413&RuleName=突破三日衝&rd=近一周&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 29223
+UserName :  wang3402@yahoo.com.tw
+IP : 39.10.76.211
+4/22/2014 12:50:01 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:必須宣告純量變數 "@EndDate"。
+接近關鍵字 'AS' 之處的語法不正確。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM (SELECT StockNo,SUM(IsLargeVolume) AS IsLargeVolume,SUM(IsThrough5Mean) AS IsThrough5Mean,SUM(IsThroughInterval) AS IsThroughInterval FROM Selection1 WHERE  Selection1.Direction = 1 And Selection1.Date >= '2014/04/15' And Selection1.Date <= '2014/04/22' GROUP BY StockNo) AS Selection1  INNER JOIN Stock ON Selection1.StockNo = Stock.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo   WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Selection1.IsLargeVolume > 0 And Selection1.IsThrough5Mean > 0 And Selection1.IsThroughInterval > 0  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=413&RuleName=突破三日衝&rd=近一周&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 29223
+UserName :  wang3402@yahoo.com.tw
+IP : 39.10.76.211
+4/22/2014 12:50:02 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:必須宣告純量變數 "@EndDate"。
+接近關鍵字 'AS' 之處的語法不正確。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM (SELECT StockNo,SUM(IsLargeVolume) AS IsLargeVolume,SUM(IsThrough5Mean) AS IsThrough5Mean,SUM(IsThroughInterval) AS IsThroughInterval FROM Selection1 WHERE  Selection1.Direction = 1 And Selection1.Date >= '2014/04/15' And Selection1.Date <= '2014/04/22' GROUP BY StockNo) AS Selection1  INNER JOIN Stock ON Selection1.StockNo = Stock.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo   WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Selection1.IsLargeVolume > 0 And Selection1.IsThrough5Mean > 0 And Selection1.IsThroughInterval > 0  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=413&RuleName=突破三日衝&rd=近一周&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 29223
+UserName :  wang3402@yahoo.com.tw
+IP : 39.10.76.211
+4/22/2014 12:50:03 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:必須宣告純量變數 "@EndDate"。
+接近關鍵字 'AS' 之處的語法不正確。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM (SELECT StockNo,SUM(IsLargeVolume) AS IsLargeVolume,SUM(IsLargeVolumeContinue) AS IsLargeVolumeContinue FROM Selection1 WHERE  Selection1.Direction = 1 And Selection1.Date >= '2014/04/15' And Selection1.Date <= '2014/04/22' GROUP BY StockNo) AS Selection1  INNER JOIN Stock ON Selection1.StockNo = Stock.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo   WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Selection1.IsLargeVolume > 0 And Selection1.IsLargeVolumeContinue > 0  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=382&RuleName=帶量多&rd=近一周&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 29223
+UserName :  wang3402@yahoo.com.tw
+IP : 39.10.76.211
+4/22/2014 12:50:18 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:必須宣告純量變數 "@EndDate"。
+接近關鍵字 'AS' 之處的語法不正確。
+詳細資訊:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.ListView.PerformSelect()
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 99
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM (SELECT StockNo,SUM(IsThrough5Mean) AS IsThrough5Mean,SUM(IsThroughInterval) AS IsThroughInterval FROM Selection1 WHERE  Selection1.Direction = 1 And Selection1.Date >= '2014/04/15' And Selection1.Date <= '2014/04/22' GROUP BY StockNo) AS Selection1  INNER JOIN Stock ON Selection1.StockNo = Stock.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo   WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Selection1.IsThrough5Mean > 0 And Selection1.IsThroughInterval > 0  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=385&RuleName=突破短多&rd=近一周&direction=多頭
+前一頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 29223
+UserName :  wang3402@yahoo.com.tw
+IP : 39.10.76.211
+4/22/2014 12:50:38 PM
+-----------------------------------------------------------------------------------------------------------------------

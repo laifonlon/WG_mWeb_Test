@@ -1,0 +1,38 @@
+﻿發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:Value cannot be null.
+Parameter name: value
+詳細資訊:
+   at System.String.Insert(Int32 startIndex, String value)
+   at Hottip_HottipResult.SetDatePeriod(String& sql) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 321
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 88
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED; Declare @StartDate date Set @StartDate = '2014/04/11' Declare @EndDate date Set @EndDate = '2014/04/18' SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=1 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM Stock Left OUTER JOIN (SELECT StockNo,SUM(IsLargeVolume) AS IsLargeVolume FROM Selection1 WHERE Selection1.Direction = 1 And Selection1.Date >= @StartDate And Selection1.Date <= @EndDate GROUP BY StockNo,Direction) AS Selection1  ON Stock.StockNo = Selection1.StockNo Left OUTER JOIN Selection ON Stock.StockNo = Selection.StockNo Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo Left OUTER JOIN Exright ON Stock.StockNo = Exright.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Selection1.IsLargeVolume > 0  Order by StockNo
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=4706&RuleName=%25u7206%25u91cf%25u9577%25u7d05&rd=%25u8fd1%25u4e00%25u5468&direction=%25u591a%25u982d
+前一頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=4706&RuleName=爆量長紅&rd=近一周&direction=多頭
+MemberNo : 84763
+UserName :  
+IP : 180.204.58.160
+4/20/2014 7:38:59 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:Value cannot be null.
+Parameter name: value
+詳細資訊:
+   at System.String.Insert(Int32 startIndex, String value)
+   at Hottip_HottipResult.SetDatePeriod(String& sql) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 321
+   at Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 88
+   at Hottip_HottipResult.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb:line 31
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=4706&RuleName=%25u7206%25u91cf%25u9577%25u7d05&rd=%25u8fd1%25u4e00%25u5468&direction=%25u591a%25u982d
+前一頁 : http://m.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=4706&RuleName=爆量長紅&rd=近一周&direction=多頭
+MemberNo : 84763
+UserName :  
+IP : 180.204.58.160
+4/20/2014 7:39:43 PM
+-----------------------------------------------------------------------------------------------------------------------

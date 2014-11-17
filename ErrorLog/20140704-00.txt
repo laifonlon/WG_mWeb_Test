@@ -1,0 +1,79 @@
+﻿發生錯誤的網頁:/Login.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 66.249.80.40
+	Port: 48203
+	Referer: http://m.wantgoo.com/Login.aspx?GoBackUrl=%2fHottip%2fHottipPage2.aspx%3fg%3d1
+	Path: /Login.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; GT-I9500 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+	ViewState: /wEPDwULLTE2OTA0OTQ4NjJkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRMb2dpbjEkUmVtZW1iZXJNZfoUDRfhLrAxT3ta7a/AMnbyfyR7eElAMNbBG6S3kqGu
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage2.aspx?g=1
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage2.aspx?g=1
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.115.196.53
+7/4/2014 12:18:10 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=INTC
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 220.181.108.142
+7/4/2014 12:25:12 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Login.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 66.249.80.40
+	Port: 42035
+	Referer: http://m.wantgoo.com/Login.aspx?GoBackUrl=%2fHottip%2fHottipPage2.aspx%3fg%3d1
+	Path: /Login.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; GT-I9500 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+	ViewState: /wEPDwULLTE2OTA0OTQ4NjJkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRMb2dpbjEkUmVtZW1iZXJNZfoUDRfhLrAxT3ta7a/AMnbyfyR7eElAMNbBG6S3kqGu
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage2.aspx?g=1
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage2.aspx?g=1
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.115.196.53
+7/4/2014 12:26:59 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Login.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 66.249.80.40
+	Port: 52271
+	Referer: http://m.wantgoo.com/Login.aspx?GoBackUrl=%2fHottip%2fHottipPage2.aspx%3fg%3d1
+	Path: /Login.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; GT-I9500 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+	ViewState: /wEPDwULLTE2OTA0OTQ4NjJkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRMb2dpbjEkUmVtZW1iZXJNZfoUDRfhLrAxT3ta7a/AMnbyfyR7eElAMNbBG6S3kqGu
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage2.aspx?g=1
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage2.aspx?g=1
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.115.196.53
+7/4/2014 12:27:14 AM
+-----------------------------------------------------------------------------------------------------------------------

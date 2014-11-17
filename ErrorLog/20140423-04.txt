@@ -1,0 +1,32 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:在應用程式組態中找不到連接名稱 'ApplicationServices'，或連接字串為空白。
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAPsjkli0fcsWPZAdmYocWO5PEV841BH7f6PJgaj7ryl2us5avB4ixJuheGbznsuFSM0qkhKRVpXAZCdUBwFxeoGmPGB2SwCNLp2lRjZBQFFtv9l6VSZC39ZAMW9YrDFCjOdtj80cIaCZBCURYizHftJaQjSvpGaVBGZBocYcCfM2uThavcKsY8ZD&m=linhc1201@gmail.com&u=100000901112620&l=林&f=益賢&s=male&n=林益賢&r=&GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 111.81.181.32
+4/23/2014 4:31:25 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/GetData.asmx/GlobalData
+錯誤訊息:無法辨認要求格式，因為 URL 未預期地以 /GlobalData 結束。
+詳細資訊:
+   at System.Web.Services.Protocols.WebServiceHandlerFactory.CoreGetHandler(Type type, HttpContext context, HttpRequest request, HttpResponse response)
+   at System.Web.Services.Protocols.WebServiceHandlerFactory.GetHandler(HttpContext context, String verb, String url, String filePath)
+   at System.Web.Script.Services.ScriptHandlerFactory.GetHandler(HttpContext context, String requestType, String url, String pathTranslated)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/GetData.asmx/GlobalData
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.77.32
+4/23/2014 4:58:22 AM
+-----------------------------------------------------------------------------------------------------------------------

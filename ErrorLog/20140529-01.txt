@@ -1,0 +1,127 @@
+﻿發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=WTX&
+前一頁 : http://m.wantgoo.com/Hottip/HottipPage1.aspx
+MemberNo : 86590
+UserName :  
+IP : 123.192.22.150:58618
+5/29/2014 1:08:04 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=3060
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 180.153.206.23:51154
+5/29/2014 1:12:15 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/globals.aspx?g=a
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.200.132.209:46156
+5/29/2014 1:12:18 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=3259
+前一頁 : http://m.wantgoo.com/Search.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 106.65.40.162:40128
+5/29/2014 1:12:25 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=4164
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 39.12.177.131:9434
+5/29/2014 1:12:30 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=5522
+前一頁 : http://m.wantgoo.com/stock.aspx?no=2324
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.104.17:22460
+5/29/2014 1:12:36 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=3259
+前一頁 : http://m.wantgoo.com/Search.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 106.65.40.162:40158
+5/29/2014 1:12:56 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=8183
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.81.130:3278
+5/29/2014 1:13:00 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:The connection name 'ApplicationServices' was not found in the applications configuration or the connection string is empty.
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BACfG9pLF532z1rl4nx4lGIj8t4iMhh7Haf3kSVmQGp0YhbMknmENgtP6KjeiYMMHXo3sdzDWUx0yyU4Vx4z5NiL4UJYsqlnbRJ92QoDvIbabQpsSkHGcosIqYg5egnBsXiKdvH7oxQLDCVng869XGLdWobpJ93F1WlRdEn1pNoLifa0ZD&m=kitty721217@gmail.com&u=100000270753822&l=廖&f=小渟&s=female&n=廖小渟&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.10.40.121:53340
+5/29/2014 1:14:45 AM
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,115 @@
+﻿<%@ Master Language="VB" CodeFile="m_search.master.vb" Inherits="m_search" EnableViewState="False" %>
+<%@ Register Src="Footer.ascx" TagName="Footer" TagPrefix="uc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>WantGoo 玩股網 手機版</title>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport" />
+    <link href="/styles/style.css?20140318" media="all" rel="stylesheet" type="text/css" />
+    <link href="/styles/responsive.css?20140318" media="all" rel="stylesheet" type="text/css" />
+    <link href="/styles/hp.css?20140318" rel="stylesheet" type="text/css" />
+    <link href="/styles/m.css?20140323" media="all" rel="stylesheet" type="text/css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js?20140318" type="text/javascript"></script>
+    <script src="/scripts/master.min.js?20140318" type="text/javascript"></script>
+<!-- 置頂:end -->
+    <%--主內容區 加載到Header--%>
+    <asp:ContentPlaceHolder ID="Header_ContentPlaceHolder" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body id="bp-bd">
+    <form id="form1" runat="server">
+        <div id="w">
+            <div id="pagebody">
+
+                <%--登入按鈕--%>
+                <header id="toolbarnav">
+                    <a href="/"><img src="/image/bg/m-logo.jpg" /></a>
+                    <h1><asp:Literal ID="h1" runat="server">玩股網</asp:Literal></h1> 
+                    <a href="/Login.aspx" id="login-btn" style="top:3px;right:3px;position:absolute;width:90px;text-align:center;background:linear-gradient(#f10d35, #cd0024);border:1px solid #bbo122;height:35px;color:#fff;line-height:37px;border-radius:3px;font-size:17px;font-family:helvetica,'Nokia Sans','Apple LiGothic','Lihei pro','微軟正黑體', Arial,Sans-serif"><b>登入/註冊</b></a>
+                    <a href="/Hottip/HottipPage1.aspx" style="top:3px;right:96px;position:absolute;width:70px;text-align:center;background:linear-gradient(#f10d35, #cd0024);border:1px solid #bbo122;height:35px;color:#fff;line-height:37px;border-radius:3px;font-size:17px;font-family:helvetica,'Nokia Sans','Apple LiGothic','Lihei pro','微軟正黑體', Arial,Sans-serif"><b>自選股</b></a>
+                </header>
+
+                <%--橫向選單--%>
+                <div id="navi">
+                    <ul class="navi-list">
+                        <li><a id="linka" href="/TwIndex.aspx" class="on">台股</a></li>
+                        <li><a id="linkb" href="/Globals.aspx" class="">國際</a></li>
+                        <li><a id="linkc" href="/Article.aspx" class="">文章</a></li>
+                        <li><a id="linkd" href="/Club.aspx" class="">社團</a></li>
+                        <li><a id="linke" href="/Lesson.aspx" class="">課程</a></li>
+                        <li><a id="linkf" href="/Hottip/HottipSearch.aspx" class="">飆股</a></li>
+                    </ul>
+                </div>
+
+                <section id="content" class="clearfix">  
+        
+                    <%--提示--%>
+                    <div id="div_choice" style="display:none;" class="fixed-ad">
+                        <asp:Panel ID="pnlShoc" runat="server" EnableViewState="False">
+                        <div class="org_box">
+                         <span class="org_bot_cor"></span>
+                        <span style="color:white;">按下<img width="20px;" src="/image/iosfa.png" />把玩股網加入主畫面螢幕，一鍵看最新指數！</span>
+                        </div>
+                        </asp:Panel>
+                    </div>    
+
+                    <%--搜尋Bar--%>
+                    <div id="srch-bar">
+                        <div class="srch-br">
+                            <asp:textbox id="tbxKeyWord" runat="server" text="輸入股票代碼/名稱" onfocus="if (this.value == '輸入股票代碼/名稱') this.value = ''" onblur="if(this.value=='')this.value='輸入股票代碼/名稱'" class="srch-inpt" ></asp:textbox>
+                            <asp:Button ID="btnsearch" runat="server"  class="srch-btn" Text="搜尋" />    
+                        </div><!-- srch-br:end -->
+                        <p class="hot-keywd"><asp:Label ID="lblresult" runat="server"></asp:Label></p>
+                    </div><!-- srch-bar:end -->
+                    <%--搜尋Bar 開始搜尋：SqlDataSource--%>
+                    <asp:SqlDataSource ID="sdsSearchStockNo" runat="server" 
+                        ConnectionString="<%$ ConnectionStrings:twStocksConnectionString %>" 
+                        SelectCommand="SELECT StockNo FROM Stock WHERE (StockNo = @KeyWord1) OR ((Name LIKE @KeyWord2) And Not (Name is Null) and not StockNo like '^%')">
+                        <SelectParameters>
+                            <asp:Parameter Name="KeyWord1" DefaultValue="-1" />
+                            <asp:Parameter Name="KeyWord2" DefaultValue="0" />
+                        </SelectParameters>
+                    </asp:SqlDataSource>
+                    <%--搜尋Bar 增門搜尋：SqlDataSource--%>
+                    <asp:SqlDataSource id="sdsStocksearch" runat="server" 
+                        connectionstring="<%$ ConnectionStrings:twStocksConnectionString %>" 
+                        selectcommand="SELECT Top (7) Name, StockNo, Deal, Last, [Open], Change, TotalVolume FROM Stock WHERE StockNo <> '0000' AND StockNo <> '0081' AND StockNo <> '0080' AND (Market <=1) AND ((change/last)>0.02) Order by [Deal] Desc" 
+                        EnableCaching="True" CacheDuration="600">
+                        <SelectParameters>
+                            <asp:Parameter DefaultValue="0" Type="Int32" />
+                        </SelectParameters>
+                    </asp:SqlDataSource>
+                    
+                    <%--主內容區 加載到 Body--%>
+                    <asp:ContentPlaceHolder id="Body_ContentPlaceHolder" runat="server"></asp:ContentPlaceHolder> 
+
+                </section>
+            </div>
+
+        </div>
+    </form>
+
+    <iframe src="/AutoRefresh.aspx" height="0" width="0" scrolling="no" frameborder="0"></iframe>
+    
+    <script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <ins class="adsbygoogle"
+	    style="display:none;width:320px;height:50px"
+	    data-ad-client="pub-6240822095534788"
+	    data-ad-host="ca-host-pub-7475939466736018"
+	    data-ad-channel="GoogleAnchorAd"
+	    data-ad-host-channel="2718771356"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({ params: { google_reactive_ad_format: 1 } });
+    </script>
+
+</body>
+
+    <%--主內容區 加載到 Footer--%>
+    <asp:ContentPlaceHolder id="Footer_ContentPlaceHolder" runat="server"></asp:ContentPlaceHolder>
+    
+    <script src="/Scripts/MasterPageEnding.js?20140327" type="text/javascript"></script>
+
+    <link rel="apple-touch-icon" href="/custom_icon.png" />
+    <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+
+</html>

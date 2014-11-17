@@ -1,0 +1,34 @@
+﻿發生錯誤的網頁:/stock.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 115.80.61.131
+	Port: 60918
+	Referer: http://m.wantgoo.com/stock.aspx?no=5483
+	Path: /stock.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.3; C6802 Build/14.2.A.1.136) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36
+	ViewState: /wEPDwUKMTMxNDU3MzUzM2QYCAUkY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkc24xJGx2DxQrAA5kZGRkZGRkPCsACgACCmRkZGYC/////w9kBSxjdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRzY3MxJGd2Q29sbGVjdA88KwAMAQgCAWQFJmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJGRpMSRmdlR3DxQrAAdkZGRkZBYAAgFkBSRjdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRkaTEkZnYPZ2QFK2N0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJHNjczEkZ3ZSZWxhdGUPPCsADAEIZmQFLGN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFRocmVlMSRndlN0b2NrDzwrAAwBCAIBZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkTWFyZ2luMSRmdjAwMDAPZ2QFKGN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJE1hcmdpbjEkZnYPFCsAB2RkZGRkFgACHmS+hHZtXOMsFZqz26o6Lvpg26WAg7TGYiUsgUu/LAjXUg==
+詳細資訊:
+
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=5483
+前一頁 : http://m.wantgoo.com/stock.aspx?no=5483
+MemberNo : 55328
+UserName :  hsieh1730@yahoo.com.tw
+IP : 115.80.61.131:60918
+5/26/2014 2:03:15 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:The connection name 'ApplicationServices' was not found in the applications configuration or the connection string is empty.
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAOOMqbfBmZBy9dRZBOYmzQsBIAmiK0LCiZBvKAixZCCnlCZArYTLBmiDMw1vd28oUNHRj4bVtrNpmjc0N09PYw5p50k3q0UDQMiHMb7AkGpZAT6YN3nQcpBOyhgqlgE9ivZAicmXVhEPtQbdZBzs8Iv7VnZBYh01ZAFTTsI2hphfAd&m=shawn.543@hotmail.com&u=100000068753530&l=Chien&f=Shawn&s=male&n=Shawn Chien&r=&GoBackUrl=/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage1.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.142.223.239:6528
+5/26/2014 2:08:33 AM
+-----------------------------------------------------------------------------------------------------------------------

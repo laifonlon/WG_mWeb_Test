@@ -1,0 +1,45 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:The connection name 'ApplicationServices' was not found in the applications configuration or the connection string is empty.
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAKpZC9Le2QXMv9Orpu20aN3QSH7wuQuKItpm87Iwr40qV4ydecxSWvh5CNvW1Yxl6ahzDMZAm1MvjN0kUkioE3c6L5Q7DaK5YXe7GAKjF328H8AtaAJNjiI3kKrdZBi9HCZBPYOdT7EnFpIuAABeLUJKE1K26G2qjotLbrF5&m=sebastian.cc.tang@gmail.com&u=100005596660581&l=Tang&f=Sebastian&s=male&n=Sebastian Tang&r=&GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.14.93.88
+7/1/2014 8:52:49 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipSearch.aspx
+錯誤訊息:Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints.
+詳細資訊:
+   at System.Data.DataTable.EnableConstraints()
+   at System.Data.DataTable.set_EnforceConstraints(Boolean value)
+   at System.Data.DataTable.EndLoadData()
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WantGooTableAdapters.SelectMemberDataTableAdapter.GetData(Nullable`1 MemberNo) in C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\f212b951\a13ef9af\App_Code.jmp-dkkk.21.vb:line 13723
+   at MemberDataAccessor.GetMemberData(Int32 memberNo) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 415
+   at MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) in F:\WantGooMobile\wwwroot\App_Code\MemberDataAccessor.vb:line 612
+   at Member.SetShowAdFlag(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 69
+   at Member.IsShowAd(String memberNo) in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 54
+   at Member.IsShowAd() in F:\WantGooMobile\wwwroot\App_Code\Member.vb:line 61
+   at Hottip_HottipSearch.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\Hottip\HottipSearch.aspx.vb:line 32
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Article.aspx
+MemberNo : 88026
+UserName :  
+IP : 115.80.255.21
+7/1/2014 8:56:09 PM
+-----------------------------------------------------------------------------------------------------------------------

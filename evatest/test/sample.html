@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>玩股網網頁設計-Sample</title>
+
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+.value { font-weight:bold; font-size:15px; font-family:Tahoma, Geneva, sans-serif;}
+.now-v {font-size:29px;font-family:Arial, Helvetica, sans-serif;  }
+li {font-weight:bold;}
+
+li:first-child {color:#c00;} /* IE6 不支援 */
+
+li:nth-child(3) {color:#3C0;} /* IE6、IE7、IE8 不支援 */
+
+li:last-child {color:#999;}  /* IE6、IE7、IE8 不支援 */
+</style>
+
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="js/jquery-1.9.0.min.js"></script>
+
+
+
+
+</head>
+<body>
+
+<div class="li">
+<ul>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+<li>4</li>
+<li>5</li>
+</ul>
+</div><!-- tb:end -->
+
+<div class="value up lmt">
+<em class="now-v">509.29</em><span class="cha-v">1.78</span><span class="per-v">+0.35%</span>
+</div>
+
+<div class="value dn lmt">
+<em class="now-v">509.29</em><span class="cha-v">1.78</span><span class="per-v">+0.35%</span>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:在應用程式組態中找不到連接名稱 'ApplicationServices'，或連接字串為空白。
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAPWxVa4atIANUNap3fPo5GCr6AgKFQoQMkf6MvK0qil32f109Kuh6uZB88Rx3N6ZCZAxS7qTCaANtd2hzt6o4r14oTGPameFdthsdwI5HZBXF8zf8UK2xDyFinTloB9eaCe63a75xZCB114DNKnYYeZAO75V3Bo7YCb7GQkAYq&m=ray0616@hotmail.com&u=100000267454042&l=Chen&f=Pujle&s=male&n=Pujle Chen&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 114.37.124.177
+4/25/2014 11:57:37 PM
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,65 @@
+﻿發生錯誤的網頁:/Globals.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Globals.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 14.120.82.31:3046
+6/3/2014 6:56:23 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/topicDetail.aspx?p=1&id=9&tid=18405
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.244.120:7545
+6/3/2014 6:56:35 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=1814
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 106.107.250.232:2481
+6/3/2014 6:56:55 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=a
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.70.213.184:53274
+6/3/2014 6:56:56 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/topicDetail.aspx?p=1&id=9&tid=18405
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.244.120:7567
+6/3/2014 6:57:05 AM
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,75 @@
+﻿發生錯誤的網頁:/index_s.aspx
+錯誤訊息:遠端主機已強制關閉一個現存的連線。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/4/1 下午 02:11:40
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/GetFiles.asmx/_vti_bin/ListData.svc/$metadata
+錯誤訊息:服務 '/GetFiles.asmx/_vti_bin/ListData.svc' 不存在。
+詳細資訊:
+   於 System.ServiceModel.ServiceHostingEnvironment.HostingManager.EnsureServiceAvailable(String normalizedVirtualPath, EventTraceActivity eventTraceActivity)
+   於 System.ServiceModel.ServiceHostingEnvironment.EnsureServiceAvailableFast(String relativeVirtualPath, EventTraceActivity eventTraceActivity)
+   於 System.ServiceModel.Activation.HostedHttpRequestAsyncResult.HandleRequest()
+   於 System.ServiceModel.Activation.HostedHttpRequestAsyncResult.BeginRequest()
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/GetFiles.asmx/_vti_bin/ListData.svc/$metadata
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/4/1 下午 02:16:07
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/GetFiles.asmx/_vti_bin/ListData.svc/$metadata
+錯誤訊息:服務 '/GetFiles.asmx/_vti_bin/ListData.svc' 不存在。
+詳細資訊:
+   於 System.ServiceModel.ServiceHostingEnvironment.HostingManager.EnsureServiceAvailable(String normalizedVirtualPath, EventTraceActivity eventTraceActivity)
+   於 System.ServiceModel.ServiceHostingEnvironment.EnsureServiceAvailableFast(String relativeVirtualPath, EventTraceActivity eventTraceActivity)
+   於 System.ServiceModel.Activation.HostedHttpRequestAsyncResult.HandleRequest()
+   於 System.ServiceModel.Activation.HostedHttpRequestAsyncResult.BeginRequest()
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/GetFiles.asmx/_vti_bin/ListData.svc/$metadata
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/4/1 下午 02:16:07
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/GetFiles.asmx/$metadata
+錯誤訊息:無法辨認要求格式，因為 URL 未預期地以 /$metadata 結束。
+詳細資訊:
+   於 System.Web.Services.Protocols.WebServiceHandlerFactory.CoreGetHandler(Type type, HttpContext context, HttpRequest request, HttpResponse response)
+   於 System.Web.Services.Protocols.WebServiceHandlerFactory.GetHandler(HttpContext context, String verb, String url, String filePath)
+   於 System.Web.Script.Services.ScriptHandlerFactory.GetHandler(HttpContext context, String requestType, String url, String pathTranslated)
+   於 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/GetFiles.asmx/$metadata
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/4/1 下午 02:16:07
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:遠端主機已強制關閉一個現存的連線。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/4/1 下午 02:26:48
+-----------------------------------------------------------------------------------------------------------------------

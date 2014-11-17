@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "wwwroot", ".", "{66D64F05-29A2-454D-99D2-0D0C4E64C8D2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/wwwroot"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\!Project\!!!WantGooMobile_2014-0704\WantGooMobile\wwwroot\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\wwwroot\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/wwwroot"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\!Project\!!!WantGooMobile_2014-0704\WantGooMobile\wwwroot\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\wwwroot\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D64F05-29A2-454D-99D2-0D0C4E64C8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D64F05-29A2-454D-99D2-0D0C4E64C8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

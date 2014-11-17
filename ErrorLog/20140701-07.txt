@@ -1,0 +1,642 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAJCZAkfmJNWjvKR22enpIMsbOfVWUk4wbCKSq0b4Spby0tPGpYbuPuxZAk6CnXvnB3rUKbGzNS96deGGtXbi8QXuv2zM3ZCrA8ym2KLL4HhldDT1KaEWuZCBT1grDeipuUlGQB272OlXfyB10GrOjlMVvJctb00eAjZA4cXZBRHfIdXMPaZA7UZD&m=undefined&u=100005471897424&l=呂&f=達&s=male&n=呂達&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.160.40.51
+7/1/2014 7:20:40 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BALqTxTd8Ov4ZCatxhZBnrZAMPRwZCIM7ngniv2odPcnDrOZBDNO3wxsJfqPtHIdww9J6kFnae6ZCimJcFZA1e6Ogta9tK63paGOF24Fp3wvNDZANCpc91vrY3ffUFCRStU9orOgmumdeJfcuZCZAkzFmo7u96ZAflcfDDFufhWZBmmuaj6a2wzFBiP8ZD&m=undefined&u=100005471897424&l=呂&f=達&s=male&n=呂達&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.160.40.51
+7/1/2014 7:21:02 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(1, 2, 'tabmn2_', 'tabinner2_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(1, 2, 'tabmn2_', 'tabinner2_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:33 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(1, 2, 'tabmn2_', 'tabinner2_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(1, 2, 'tabmn2_', 'tabinner2_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:33 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(1, 3, 'tabmn7_', 'tabinner7_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(1, 3, 'tabmn7_', 'tabinner7_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:34 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(1, 3, 'tabmn7_', 'tabinner7_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(1, 3, 'tabmn7_', 'tabinner7_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:34 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(2, 3, 'tabmn4_', 'tabinner4_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(2, 3, 'tabmn4_', 'tabinner4_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:34 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(2, 3, 'tabmn4_', 'tabinner4_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(2, 3, 'tabmn4_', 'tabinner4_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:34 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(1, 3, 'tabmn4_', 'tabinner4_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(1, 3, 'tabmn4_', 'tabinner4_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:35 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(1, 3, 'tabmn4_', 'tabinner4_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(1, 3, 'tabmn4_', 'tabinner4_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:35 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(2, 3, 'tabmn6_', 'tabinner6_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(2, 3, 'tabmn6_', 'tabinner6_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:37 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(2, 3, 'tabmn6_', 'tabinner6_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(2, 3, 'tabmn6_', 'tabinner6_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:37 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(2, 2, 'tabmn5_', 'tabinner5_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(2, 2, 'tabmn5_', 'tabinner5_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:38 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(2, 2, 'tabmn5_', 'tabinner5_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(2, 2, 'tabmn5_', 'tabinner5_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:38 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(2, 2, 'tabmn2_', 'tabinner2_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(2, 2, 'tabmn2_', 'tabinner2_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:38 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(2, 2, 'tabmn2_', 'tabinner2_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(2, 2, 'tabmn2_', 'tabinner2_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:38 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(2, 4, 'tabmn_', 'tabinner_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(2, 4, 'tabmn_', 'tabinner_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:38 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(2, 4, 'tabmn_', 'tabinner_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(2, 4, 'tabmn_', 'tabinner_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:38 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(1, 2, 'tabmn5_', 'tabinner5_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(1, 2, 'tabmn5_', 'tabinner5_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:38 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(1, 2, 'tabmn5_', 'tabinner5_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(1, 2, 'tabmn5_', 'tabinner5_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:38 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(1, 3, 'tabmn6_', 'tabinner6_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(1, 3, 'tabmn6_', 'tabinner6_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:39 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(1, 3, 'tabmn6_', 'tabinner6_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(1, 3, 'tabmn6_', 'tabinner6_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:39 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(2, 3, 'tabmn7_', 'tabinner7_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(2, 3, 'tabmn7_', 'tabinner7_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:41 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(2, 3, 'tabmn7_', 'tabinner7_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(2, 3, 'tabmn7_', 'tabinner7_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:41 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(3, 3, 'tabmn4_', 'tabinner4_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(3, 3, 'tabmn4_', 'tabinner4_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:41 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(3, 3, 'tabmn4_', 'tabinner4_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(3, 3, 'tabmn4_', 'tabinner4_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:41 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(3, 3, 'tabmn6_', 'tabinner6_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(3, 3, 'tabmn6_', 'tabinner6_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:43 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(3, 3, 'tabmn6_', 'tabinner6_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(3, 3, 'tabmn6_', 'tabinner6_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:43 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(1, 2, 'tabmn3_', 'tabinner3_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(1, 2, 'tabmn3_', 'tabinner3_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:43 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(1, 2, 'tabmn3_', 'tabinner3_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(1, 2, 'tabmn3_', 'tabinner3_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:43 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(4, 4, 'tabmn_', 'tabinner_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(4, 4, 'tabmn_', 'tabinner_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:43 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(4, 4, 'tabmn_', 'tabinner_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(4, 4, 'tabmn_', 'tabinner_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:43 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(2, 2, 'tabmn3_', 'tabinner3_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(2, 2, 'tabmn3_', 'tabinner3_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:43 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(2, 2, 'tabmn3_', 'tabinner3_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(2, 2, 'tabmn3_', 'tabinner3_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:43 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(3, 4, 'tabmn_', 'tabinner_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(3, 4, 'tabmn_', 'tabinner_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:44 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(3, 4, 'tabmn_', 'tabinner_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(3, 4, 'tabmn_', 'tabinner_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:44 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(3, 3, 'tabmn7_', 'tabinner7_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(3, 3, 'tabmn7_', 'tabinner7_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:44 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(3, 3, 'tabmn7_', 'tabinner7_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(3, 3, 'tabmn7_', 'tabinner7_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:44 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(1, 4, 'tabmn_', 'tabinner_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(1, 4, 'tabmn_', 'tabinner_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:44 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:tabSwitch(1, 4, 'tabmn_', 'tabinner_');
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:tabSwitch(1, 4, 'tabmn_', 'tabinner_');
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:44 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:__doPostBack('ctl00$Body_ContentPlaceHolder$di1$btnAddAll','')
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:__doPostBack('ctl00$Body_ContentPlaceHolder$di1$btnAddAll','')
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:47 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:__doPostBack('ctl00$Body_ContentPlaceHolder$di1$btnAddAll','')
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:__doPostBack('ctl00$Body_ContentPlaceHolder$di1$btnAddAll','')
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:47 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:__doPostBack('ctl00$Body_ContentPlaceHolder$deal1$btnAddAll','')
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:__doPostBack('ctl00$Body_ContentPlaceHolder$deal1$btnAddAll','')
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:48 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/javascript:__doPostBack('ctl00$Body_ContentPlaceHolder$deal1$btnAddAll','')
+錯誤訊息:A potentially dangerous Request.Path value was detected from the client (:).
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/javascript:__doPostBack('ctl00$Body_ContentPlaceHolder$deal1$btnAddAll','')
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 195.234.136.80
+7/1/2014 7:44:48 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=MET
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 220.181.108.187
+7/1/2014 7:44:49 AM
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,19 @@
+﻿發生錯誤的網頁:/index_s.aspx
+錯誤訊息:已經加入含有相同索引鍵的項目。
+詳細資訊:
+   於 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   於 TwStockAccessor.GetName(String stockNo) 於 C:\!Project\!!!WantGooMobile_2014-0704\WantGooMobile\wwwroot\App_Code\twStock\TwStockAccessor.vb: 行 353
+   於 TwStockAccessor.GetRealTimeChart(String stockNo, Int32 width, Int32 height) 於 C:\!Project\!!!WantGooMobile_2014-0704\WantGooMobile\wwwroot\App_Code\twStock\TwStockAccessor.vb: 行 369
+   於 _index_s.GetRealTimeChart() 於 C:\!Project\!!!WantGooMobile_2014-0704\WantGooMobile\wwwroot\index_s.aspx.vb: 行 570
+   於 _index_s.Page_Load(Object sender, EventArgs e) 於 C:\!Project\!!!WantGooMobile_2014-0704\WantGooMobile\wwwroot\index_s.aspx.vb: 行 23
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/7/15 上午 09:39:15
+-----------------------------------------------------------------------------------------------------------------------

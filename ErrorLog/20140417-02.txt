@@ -1,0 +1,30 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAOVTNM1K436p779w4Iv2vIyhAZCyczvg7A8xgcQtmPLytW8t42nlS5F0ge7YyjcnkQOsXWZCJj0pBMMcRilbumjmmAGwe5e3p7279jwWIIbBUQN5sVmZB3KAkG5MJNyR78AUhzBYu5JtEPmIUK0oMWlqUHpv1DZApQKunFxUPaiFhvItzKcZD&m=undefined&u=100007995876947&l=許&f=宸豪&s=male&n=許宸豪&r=&GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 175.96.165.142
+4/17/2014 2:29:16 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAEkc8Y5MJw92jcELyGxv3tUmpDRCZB3nOTPUqgZBgDcQ4lKU9XCxnkZBtNMwBa07ALleARWZCKnPlH7fYKPklQegNZAnYXWcIMdG4KcpO4gkrFuMvJZAoZAhPZC0mYadYweiHZC1RHjGlazUptYmbaP7rRA8Ur8HmPEZBPahrtaN0cUzUesAVGBpYZD&m=undefined&u=100007995876947&l=許&f=宸豪&s=male&n=許宸豪&r=&GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 175.96.165.142
+4/17/2014 2:32:09 AM
+-----------------------------------------------------------------------------------------------------------------------

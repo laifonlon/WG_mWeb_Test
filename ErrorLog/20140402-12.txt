@@ -1,0 +1,15 @@
+﻿發生錯誤的網頁:/Login.aspx
+錯誤訊息:並未將物件參考設定為物件的執行個體。
+詳細資訊:
+   於 Login.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Login.aspx.vb: 行 77
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Login.aspx
+前一頁 : 
+MemberNo : 77681
+UserName :  laifonlon@gmail.com
+IP : 127.0.0.1
+2014/4/2 下午 12:06:09
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+﻿發生錯誤的網頁:/Hottip/HottipPage3.aspx
+錯誤訊息:同時在 'lvMyCollect' 上定義 DataSource 和 DataSourceID。請移除其中一個定義。
+詳細資訊:
+   於 System.Web.UI.WebControls.DataBoundControl.EnsureSingleDataSource()
+   於 System.Web.UI.WebControls.DataBoundControl.ConnectToDataSourceView()
+   於 System.Web.UI.WebControls.DataBoundControl.GetData()
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 Hottip_HottipPage3.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage3.aspx.vb: 行 25
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage3.aspx
+前一頁 : 
+MemberNo : 77681
+UserName :  laifonlon@gmail.com
+IP : 127.0.0.1
+2014/3/26 下午 04:20:21
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage3.aspx
+錯誤訊息:並未將物件參考設定為物件的執行個體。
+詳細資訊:
+   於 Hottip_HottipPage3.lvMyCollect_DataBound(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage3.aspx.vb: 行 242
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 Hottip_HottipPage3.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage3.aspx.vb: 行 25
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage3.aspx
+前一頁 : 
+MemberNo : 77681
+UserName :  laifonlon@gmail.com
+IP : 127.0.0.1
+2014/3/26 下午 04:20:51
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,49 @@
+﻿發生錯誤的網頁:/elearn/myrecord.aspx
+錯誤訊息:檔案 '/elearn/myrecord.aspx' 不存在。
+詳細資訊:
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/elearn/myrecord.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.77.32
+5/22/2014 7:24:02 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:在應用程式組態中找不到連接名稱 'ApplicationServices'，或連接字串為空白。
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAObQCzarIVZAnFaedXtP6ioXAlqzKLqo62deICU60SZAVmxdZBUU6mjZAn8CGWiwTwoZCtHL1y44oqHwzhrY2cGLvZArLEk8scY03VrwZBR6sWZBBvVD2Sgp5EhiCcqgxHjPAi2M5ZAb2CLxPeBvYhiCEOHRiRntzh0LEbkkrMygDUYkVfVjHEl4ZD&m=lyaa0610@yahoo.com.tw&u=100002377994691&l=王&f=博&s=male&n=王博&r=&GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.71.202.200
+5/22/2014 7:40:27 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:在應用程式組態中找不到連接名稱 'ApplicationServices'，或連接字串為空白。
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BABZBPLDqg2GQdBbEs7n6BQNoRcakBF2Wm1UrnfADhaWyZC1VlcfqlJ8CDLuEPR1VrDuoqmIiaqhSFbAB91xQZC1VKZCruRx8pSeXgPCZAZCnAZB1Nuxy9bX9mKrRgTGMJrdCIhv92iwUZBxtdCxIZCccU7SocHDvGEmH4LLP9NG6x&m=tony3310t@yahoo.com.tw&u=100000165623240&l=林&f=昇暉&s=male&n=昇暉林&r=&GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 39.13.157.42
+5/22/2014 7:46:32 PM
+-----------------------------------------------------------------------------------------------------------------------

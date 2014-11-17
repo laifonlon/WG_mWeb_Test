@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* 
+Wantgoo.com Reset Stylesheet
+Last Updated: 2013-02-05
+Author: Eva Tseng
+*/
+
+html, body, div, span, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,abbr, address, cite, code,del, dfn, em, img, ins, kbd, q, samp,small, strong, sub, sup, var,b, i,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary,time, mark, audio, video {margin:0;padding:0;border:0;outline:0;font-size:100%;font-style:normal;vertical-align:baseline;background:transparent;}
+body {line-height:1;color:#333;}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {display:block;}
+ul,ol,li {list-style:none;}
+blockquote, q {quotes:none;}
+blockquote:before, blockquote:after,q:before, q:after {content:'';content:none;}
+a {font-size:100%;margin:0;padding:0;vertical-align:baseline;outline:none;}
+ins {background-color:#ff9;text-decoration:none;}
+del {text-decoration:line-through;}
+mark {background:transparent;color:#c00;font-style:italic;font-weight:bold;}
+abbr[title], dfn[title] {border-bottom:1px dotted;cursor:help;}
+table {border-collapse:collapse;border-spacing:0;width:100%;}
+input, select {vertical-align:middle;}
+
+/* ===== Other ===== */
+.clearfix {content:".";display:block;height:0;clear:both;visibility:hidden;_display:inline;}
+
+
+/* ===== Up/Down/Limit Up/Limit Down ===== */
+.up {color:#d40001;}  
+.dn {color:#1ca208;}
+
+.up.lmt {background-color:#d40001;color:#fff;background:-webkit-gradient(linear, 0 0, 0 bottom, from(#d40001), to(#ef0027));}
+.dn.lmt {background-color:#1ca208;color:#fff;background:-webkit-gradient(linear, 0 0, 0 bottom, from(#1ca208), to(#52ca2b));}
+.up.arw {}
+.dn.arw {}
+
+
+
+
+
+
+/* ===== Hearder ===== */
+
+
+/* ===== Footer ===== */
+
+
+/* ===== Forms(input,select,textarea) ===== */
+
+
+/* ===== Table(th,td) ===== */
+
+
+/* ===== Navbar ===== */
+
+
+/* ===== Button ===== */
+
+
+
+

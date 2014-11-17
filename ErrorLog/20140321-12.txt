@@ -1,0 +1,33 @@
+﻿發生錯誤的網頁:/Hottip/HottipSearch.aspx
+錯誤訊息:DataBinding: 'System.Data.DataRowView' 沒有包含名為 'Trend' 的屬性。
+詳細資訊:
+   於 System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   於 System.Web.UI.DataBinder.Eval(Object container, String[] expressionParts)
+   於 ASP.hottip_hottipsearch_aspx.__DataBinding__control47(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipSearch.aspx: 行 120
+   於 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   於 System.Web.UI.Control.DataBindChildren()
+   於 System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   於 System.Web.UI.WebControls.ListView.CreateItemsWithoutGroups(ListViewPagedDataSource dataSource, Boolean dataBinding, InsertItemPosition insertPosition, ArrayList keyArray)
+   於 System.Web.UI.WebControls.ListView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   於 System.Web.UI.WebControls.ListView.PerformDataBinding(IEnumerable data)
+   於 System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   於 System.Web.UI.WebControls.ListView.CreateChildControls()
+   於 System.Web.UI.Control.EnsureChildControls()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx
+前一頁 : 
+MemberNo : 77664
+UserName :  laifonlon@wantgoo.com
+IP : 127.0.0.1
+2014/3/21 下午 12:05:09
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,28 @@
+﻿發生錯誤的網頁:/dw3ed69a2698354&t=banner&dev=i
+錯誤訊息:具有潛在危險 Request.Path 的值已從用戶端 (&) 偵測到。
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/dw3ed69a2698354&t=banner&dev=i
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.75.54.103
+4/16/2014 6:08:14 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/dw3ed69a2698354&t=banner&dev=i
+錯誤訊息:具有潛在危險 Request.Path 的值已從用戶端 (&) 偵測到。
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/dw3ed69a2698354&t=banner&dev=i
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.75.54.103
+4/16/2014 6:08:14 PM
+-----------------------------------------------------------------------------------------------------------------------

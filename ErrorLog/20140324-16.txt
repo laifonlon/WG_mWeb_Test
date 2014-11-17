@@ -1,0 +1,141 @@
+﻿發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:有參數值缺少
+詳細資訊:
+   於 Hottip_HottipResult.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 32
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=5119&RuleName=大三元選股秘技-2&rd=今日&direction=空頭
+前一頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx?direction=空頭&rd=今日
+MemberNo : 23795
+UserName :  a3173002000@yahoo.com.tw
+IP : 127.0.0.1
+2014/3/24 下午 04:08:48
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:在此內容中無法使用要求
+詳細資訊:
+   於 System.Web.UI.Page.get_Request()
+   於 Hottip_HottipResult..ctor() 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 8
+   於 ASP.hottip_hottipresult_aspx..ctor() 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 912304
+   於 __ASP.FastObjectFactory_app_web_le1orcla.Create_ASP_hottip_hottipresult_aspx()
+   於 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   於 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   於 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=4704&RuleName=高成長高毛利&rd=今日&direction=空頭
+前一頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx?direction=空頭&rd=今日
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 下午 04:14:45
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:有參數值缺少
+詳細資訊:
+   於 Hottip_HottipResult.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 28
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action :  Declare @StartDate date Set @StartDate = '2014/03/24' Declare @EndDate date Set @EndDate = '2014/03/24' SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=0 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM Stock Left OUTER JOIN Selection1 ON Stock.StockNo = Selection1.StockNo Left OUTER JOIN Selection ON Stock.StockNo = Selection.StockNo Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo Left OUTER JOIN Exright ON Stock.StockNo = Exright.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Fundamentals.IncomeHighLastYear > 6 And Fundamentals.OperatingMargin > 20  Order by StockNo
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx
+前一頁 : 
+MemberNo : 23795
+UserName :  a3173002000@yahoo.com.tw
+IP : 127.0.0.1
+2014/3/24 下午 04:16:00
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:值不能為 null。
+參數名稱: value
+詳細資訊:
+   於 System.String.Insert(Int32 startIndex, String value)
+   於 Hottip_HottipResult.SetDatePeriod(String& sql) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 436
+   於 Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 96
+   於 Hottip_HottipResult.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 28
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action :  Declare @StartDate date Set @StartDate = '2014/03/24' Declare @EndDate date Set @EndDate = '2014/03/24' SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=0 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM Stock Left OUTER JOIN Selection1 ON Stock.StockNo = Selection1.StockNo Left OUTER JOIN Selection ON Stock.StockNo = Selection.StockNo Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo Left OUTER JOIN Exright ON Stock.StockNo = Exright.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo  WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Fundamentals.IncomeHighLastYear > 6 And Fundamentals.OperatingMargin > 20  Order by StockNo
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=5119&RuleName=大三元選股秘技-2&rd=&direction=
+前一頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 23795
+UserName :  a3173002000@yahoo.com.tw
+IP : 127.0.0.1
+2014/3/24 下午 04:19:13
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:值不能為 null。
+參數名稱: value
+詳細資訊:
+   於 System.String.Insert(Int32 startIndex, String value)
+   於 Hottip_HottipResult.SetDatePeriod(String& sql) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 438
+   於 Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 98
+   於 Hottip_HottipResult.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 30
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action :  Declare @StartDate date Set @StartDate = '2014/03/24' Declare @EndDate date Set @EndDate = '2014/03/24' Declare @CompareDate date Set @CompareDate = '2013/05/30' SELECT Distinct Stock.Name, Stock.StockNo, Stock.Deal, Stock.Change, Stock.Change / (Stock.Deal - Stock.Change) as ChangeRate, ABS(Stock.High-Stock.Low) / (Stock.Deal - Stock.Change) as AmplitudeRate, case when Stock.Change > 0 then '▲' when Stock.Change < 0 then '▼' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),Stock.Change ))) as Change2, case when Stock.Change > 0 then 'r' when Stock.Change < 0 then 'g' else '' End as ColorStyle, case when Stock.Change > 0 then '+' when Stock.Change < 0 then '-' else '' End + convert(varchar(10),abs( Convert(decimal(10,2),100 *Stock.Change/ Stock.Last ))) as perc,Stock.TotalVolume, Stock.Mean5Volume, Stock.Mean20Volume, Stock.NPTT, Stock.Mean60DistanceRate, Stock.Mean20DistanceRate, Stock.EPS, Stock.RankDuration, (Stock.Deal - Stock.Last5DPrice)/Stock.Last5DPrice as WeekChange, Fundamentals.OperatingMargin, Fundamentals.ProfitMargin, Fundamentals.CashRate, Fundamentals.TaxRate, cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 as 資本額, cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float )*Stock.deal/100000000 as 市值, Fundamentals.MonthIncreaseVsLastMonth as 月營收vs上月, Fundamentals.MonthIncreaseVsLastYear as 月營收vs去年, Fundamentals.TotalIncreaseVsLastYear as 累計營收vs去年, Fundamentals.EpsSeason as EPS季, Fundamentals.Eps as EPS年, Stock.TotalDSH/NULLIF(cast(replace(replace(CompanyProfile.TDR,',',''),N'股','') as float ), 0) as 董監持股, Fundamentals.ForeignStockRatio as 外資持股, Fundamentals.FocusRatioNoForeign as 大戶持股, Fundamentals.FocusRatio as 籌碼集中, (select risepercent From twstocks.dbo.selection1  where direction=0 and [date] = @EndDate and stockno = stock.stockno  ) as risepercent  FROM Stock Left OUTER JOIN Selection1 ON Stock.StockNo = Selection1.StockNo Left OUTER JOIN Selection ON Stock.StockNo = Selection.StockNo Left OUTER JOIN Fundamentals ON Stock.StockNo = Fundamentals.StockNo Left OUTER JOIN CompanyProfile ON Stock.StockNo = CompanyProfile.StockNo Inner JOIN (Select [StockNo],[Open],[High],[Low],[Close],[Volume],[K9],[D9],[PriceVolume],[Mean5],[Mean10],[Mean20],[Mean60],[Mean120],[Mean240],[RankDirect],[RankDirectShort],[RankDuration],[RankDurationShort],[Rank20Short],[Rank20],[Rank40Short],[Rank40],[Rank60Short],[Rank60],[Mean5Volume],[Mean10Volume],[Mean20Volume],[Mean60Volume],[William20],[Last],[RSI3],[RSI5],[RSI6],[RSI9],[RSI10],[RSI12],[RSI14],[Mean20DistanceRate],[Mean60DistanceRate],[ChangeRatio],[AmplitudeRatio],[UpShadowRatio],[DownShadowRatio],[KstickRatio],NewHighDays FROM HistoryPriceDaily WHERE Date = @CompareDate And StockNo In (Select StockNo From Stock Where Market < 2)) AS Today ON Stock.StockNo = Today.StockNo Inner JOIN (Select K9,D9,StockNo FROM HistoryPriceWeekly WHERE DATEDIFF(WK,Date, @CompareDate) = 0 And StockNo In (Select StockNo From Stock Where Market < 2)) AS Week ON Stock.StockNo = Week.StockNo Inner JOIN (Select K9,D9,StockNo FROM HistoryPriceMonthly WHERE DATEDIFF(M,Date, @CompareDate) = 0 And StockNo In (Select StockNo From Stock Where Market < 2)) AS Month ON Stock.StockNo = Month.StockNo Inner JOIN (Select K9,D9,StockNo From (Select RANK () Over( PARTITION BY StockNo Order by Date Desc) C,K9,D9,StockNo,Date From HistoryPriceDaily Where StockNo In ( Select StockNo From Stock Where Market < 2 ) And Date < @CompareDate and Date > DATEADD(D,-10,@CompareDate) ) t1 Where C = 1)  AS Yesterday ON Stock.StockNo = Yesterday.StockNo Inner JOIN (Select K9,D9,StockNo From (Select RANK () Over( PARTITION BY StockNo Order by Date Desc) C,K9,D9,StockNo,Date From HistoryPriceWeekly Where StockNo In ( Select StockNo From Stock Where Market < 2 ) And DATEDIFF(WK,Date,@CompareDate) < 3 and DATEDIFF(WK,Date,@CompareDate) >= 1 ) t1 Where C = 1)  AS LastWeek ON Stock.StockNo = LastWeek.StockNo Inner JOIN (Select K9,D9,StockNo From (Select RANK () Over( PARTITION BY StockNo Order by Date Desc) C,K9,D9,StockNo,Date From HistoryPriceMonthly Where StockNo In ( Select StockNo From Stock Where Market < 2 ) And DATEDIFF(M,Date,@CompareDate) < 3 and DATEDIFF(M,Date,@CompareDate) >= 1 ) t1 Where C = 1) AS LastMonth ON Stock.StockNo = LastMonth.StockNo  WHERE (Stock.Deal > 0) AND (Stock.Market < 2) And Today.[Close] > 3 And Today.[Close] < 50 And Today.Volume > 300000 And 100*Today.[AmplitudeRatio] > 1 And Today.K9 > Yesterday.K9 And Week.K9 > LastWeek.K9 And Month.K9 > LastMonth.K9 And Today.NewHighDays > 3 And cast(replace(replace(CompanyProfile.PaidinCapital,',',''),N'元','') as float )/100000000 < 35 And Stock.StockNo > 999 And Stock.EPS > 0.01 And Stock.EPS < 16 And Fundamentals.EpsSeason > 0  Order by StockNo
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=5119&RuleName=大三元選股秘技-2&rd=近一日&direction=多頭
+前一頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 23795
+UserName :  a3173002000@yahoo.com.tw
+IP : 127.0.0.1
+2014/3/24 下午 04:33:20
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/index.aspx
+錯誤訊息:檔案 '/Hottip/index.aspx' 不存在。
+詳細資訊:
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   於 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   於 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   於 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/index.aspx?no=0000
+前一頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx?direction=空頭&rd=近一周
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 下午 04:35:21
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipSearch.aspx
+錯誤訊息:會員未登入
+詳細資訊:
+   於 Hottip_HottipSearch.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipSearch.aspx.vb: 行 17
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx
+前一頁 : http://devm.wantgoo.com/index_s.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 下午 04:54:50
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/Hottip/HottipSearch.aspx
+錯誤訊息:檔案 '/Hottip/Hottip/HottipSearch.aspx' 不存在。
+詳細資訊:
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   於 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   於 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   於 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   於 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/Hottip/HottipSearch.aspx
+前一頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=4706&RuleName=爆量長紅&rd=近一周&direction=多頭
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 下午 04:55:36
+-----------------------------------------------------------------------------------------------------------------------

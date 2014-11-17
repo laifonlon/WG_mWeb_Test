@@ -1,0 +1,38 @@
+﻿發生錯誤的網頁:/globals.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 27.147.42.25
+	Port: 60438
+	Referer: http://m.wantgoo.com/globals.aspx?g=f
+	Path: /globals.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.1.1; HTC J Z321e Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.122 Mobile Safari/537.36
+	ViewState: /wEPDwUKMTM2Mzg5OTg4NmRkN8hLfc2wmvSglvRgfyaTT2hXzxVaMMJVr0h59z2kqk8=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=f
+前一頁 : http://m.wantgoo.com/globals.aspx?g=f
+MemberNo : 0
+UserName :  NotLogin
+IP : 27.147.42.25:60438
+5/25/2014 11:28:42 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 42.74.76.198
+	Port: 29241
+	Referer: http://m.wantgoo.com/stock.aspx?no=4536
+	Path: /stock.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; HTC Butterfly Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36
+	ViewState: /wEPDwUKMTMxNDU3MzUzM2QYCAUkY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkc24xJGx2DzwrAA4DCGYMZg0C/////w9kBSxjdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRzY3MxJGd2Q29sbGVjdA88KwAMAQgCAWQFJmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJGRpMSRmdlR3DxQrAAdkZGRkZBYAAgFkBSRjdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRkaTEkZnYPZ2QFK2N0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJHNjczEkZ3ZSZWxhdGUPPCsADAEIZmQFLGN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFRocmVlMSRndlN0b2NrDzwrAAwBCAIBZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkTWFyZ2luMSRmdjAwMDAPZ2QFKGN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJE1hcmdpbjEkZnYPFCsAB2RkZGRkFgACGGQZzhD+i1TRWarW9+79igCrBoyf2iVis6m14tkjlNs4EA==
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=4536
+前一頁 : http://m.wantgoo.com/stock.aspx?no=4536
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.74.76.198:29241
+5/25/2014 11:58:18 PM
+-----------------------------------------------------------------------------------------------------------------------

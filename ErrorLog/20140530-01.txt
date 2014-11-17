@@ -1,0 +1,36 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:The connection name 'ApplicationServices' was not found in the applications configuration or the connection string is empty.
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAFAmrV3dxlhRZCZBmKesrOVnSZA0ff2MrbBLMK4lMLQzoaZCCiwMz9ZAXJGJ2fhF0C0GEuZCMWpRNZBDjFpzFHCzgAJVpQj75RIH1PTQMtMnky2OriU0HV8RDEgZAUrT2QKTZBgA7yKSZAdPKZCbpsysKqItVQfE8nTM46aIOJZBU8rMuHpr1yVj1OYZD&m=h472288@yahoo.com.tw&u=100001205829225&l=黃&f=鈺庭&s=female&n=黃鈺庭&r=&GoBackUrl=/Hottip/HottipPage1.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipPage1.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 220.133.252.99:45724
+5/30/2014 1:26:51 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/stock.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in D:\home\site\wwwroot\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/stock.aspx?no=STM
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.125.71.59:8999
+5/30/2014 1:30:15 AM
+-----------------------------------------------------------------------------------------------------------------------

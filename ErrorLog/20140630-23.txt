@@ -1,0 +1,30 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:The connection name 'ApplicationServices' was not found in the applications configuration or the connection string is empty.
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAB56f4y24dL3sjLjwMEs2CtHbqSTy7vWYwCxcOssHpwY3iexvUo9pRLK9hTZAGXRgXZA2fmQhVmrKDaLff7fBUlU1ZAZCHWZAk6nUD0wZCcn7MTBri8gHZCW1Dc6edJT5KLE3gsmIi1Tgwbtq61HYQaKmpd0dy1O1xFyttWW9sG&m=ewine0401@hotmail.com&u=756037868&l=Chen&f=Yi Fong&s=male&n=Yi Fong Chen&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 223.142.72.64
+6/30/2014 11:30:56 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:The connection name 'ApplicationServices' was not found in the applications configuration or the connection string is empty.
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAKFVZCOZBP31P7TL8WaFUjZBDZAEPaUJrAZCoOod7SnwVrRvsbQZA60B26A8uOMmwBtbRrsejAnCjBZCAXiK3yzrjX4ViMxOaaeeXkac4XJBgkdVKvRhxViRd2rjLZBoFSOxdLKbXdcLOxrN2NoVA7xxYWn2FTTIfsBCQF3JFNlZAEkYjLZCIZC8X0ZD&m=a27688728@yahoo.com.tw&u=100000207563458&l=許&f=振嘉&s=male&n=許振嘉&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 101.8.251.235
+6/30/2014 11:37:48 PM
+-----------------------------------------------------------------------------------------------------------------------

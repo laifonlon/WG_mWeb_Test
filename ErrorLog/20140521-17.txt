@@ -1,0 +1,14 @@
+﻿發生錯誤的網頁:/http:/cache.wantgoo.comhttp:/www.wantgoo.com/UpdateFiles/23795/2472.jpg
+錯誤訊息:具有潛在危險 Request.Path 的值已從用戶端 (:) 偵測到。
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/http:/cache.wantgoo.comhttp:/www.wantgoo.com/UpdateFiles/23795/2472.jpg
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 37.58.100.184
+5/21/2014 5:34:00 PM
+-----------------------------------------------------------------------------------------------------------------------

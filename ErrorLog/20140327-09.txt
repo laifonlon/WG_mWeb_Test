@@ -1,0 +1,52 @@
+﻿發生錯誤的網頁:/Hottip/HottipPage3.aspx
+錯誤訊息:'gvNo' 的 DataSourceID 必須是 IDataSource 型別的控制項 ID。找不到 ID 為 'sdsCollect' 的控制項。
+詳細資訊:
+   於 System.Web.UI.WebControls.DataBoundControl.GetDataSource()
+   於 System.Web.UI.WebControls.DataBoundControl.ConnectToDataSourceView()
+   於 System.Web.UI.WebControls.DataBoundControl.GetData()
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   於 System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   於 System.Web.UI.Control.EnsureChildControls()
+   於 System.Web.UI.WebControls.GridView.get_Rows()
+   於 Hottip_HottipPage3.GetCollectStock(List`1& nos) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage3.aspx.vb: 行 166
+   於 Hottip_HottipPage3.GetDataFromDB(String memberNo, String group) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage3.aspx.vb: 行 45
+   於 Hottip_HottipPage3.GetData(String memberNo, String group) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage3.aspx.vb: 行 34
+   於 Hottip_HottipPage3.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage3.aspx.vb: 行 24
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage3.aspx
+前一頁 : 
+MemberNo : 77681
+UserName :  laifonlon@gmail.com
+IP : 127.0.0.1
+2014/3/27 上午 09:11:51
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage3.aspx
+錯誤訊息:ExecuteReader: CommandText 屬性尚未初始化
+詳細資訊:
+   於 System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   於 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   於 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   於 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   於 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   於 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   於 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   於 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   於 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   於 Hottip_HottipPage3.GetDataFromDB(String memberNo, String group) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage3.aspx.vb: 行 68
+   於 Hottip_HottipPage3.GetData(String memberNo, String group) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage3.aspx.vb: 行 34
+   於 Hottip_HottipPage3.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage3.aspx.vb: 行 24
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage3.aspx
+前一頁 : 
+MemberNo : 77681
+UserName :  laifonlon@gmail.com
+IP : 127.0.0.1
+2014/3/27 上午 09:53:25
+-----------------------------------------------------------------------------------------------------------------------

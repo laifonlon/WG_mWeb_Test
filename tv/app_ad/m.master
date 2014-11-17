@@ -1,0 +1,61 @@
+﻿<%@ Master Language="VB" CodeFile="m.master.vb" Inherits="m" EnableViewState="False" %>
+<%@ Register src="Footer.ascx" tagname="Footer" tagprefix="uc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <link href="http://www.wantgoo.com/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport" />
+    <link href="http://www.wantgoo.com/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+    <link href="styles/style.css" media="all" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="styles/hp.css" />
+<%--    <link href="m.css" media="all" rel="stylesheet" type="text/css" />--%>
+<%--    <script src="scripts/master.min.js" type="text/javascript"></script>--%>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body id="bp-bd">
+    <form id="form1" runat="server">
+<div id="w">
+<div id="pagebody">  
+    <header id="toolbarnav">
+        <div style="float:right; font-size:1em; width:160px;"><b>電視版</b> | <a style="width:100px; display:inline; color:#ffffff; font-weight:bold; line-height:3;" href="http://www.wantgoo.com/cmfunction/f.aspx?f=pcmode">切換 網頁版</a></div>
+        <%--<a rel="external" href="#navmenu" id="menu-btn"><b>更多</b>--%><%--<img alt="more" src="/image/btn-1.png" />--%><%--</a> --%> 
+        <a href="/tv/app_ad/default.aspx"><%--<span></span>--%><img src="/image/bg/m-logo.jpg" /></a><h1><asp:Literal ID="h1" runat="server"></asp:Literal>
+<%--        <table style=" font-size:15px"><tr><td><a href="TwIndex.aspx">台股資訊</a></td>
+        <td><a href="Globals.aspx">國際股市</a></td>
+        <td><a href="Search.aspx">股票搜尋</a></td></tr></table>--%></h1>
+    </header>
+    <div id="gm"><ul class="tabs_sub">
+        <li><asp:LinkButton ID="tab_1" runat="server" PostBackUrl="http://m.wantgoo.com/tv/app_ad/default.aspx">首頁</asp:LinkButton></li>
+        <li><asp:LinkButton ID="tab_2" runat="server" PostBackUrl="http://m.wantgoo.com/tv/app_ad/TwIndex.aspx">台股資訊</asp:LinkButton></li>
+        <li><asp:LinkButton ID="tab_3" runat="server" PostBackUrl="http://m.wantgoo.com/tv/app_ad/Globals.aspx">即時國際股市指數</asp:LinkButton></li>
+        <li><asp:LinkButton ID="tab_4" runat="server" PostBackUrl="http://m.wantgoo.com/tv/app_ad/Article.aspx">必讀理財教學好文</asp:LinkButton></li>
+        <li><asp:LinkButton ID="tab_5" runat="server" PostBackUrl="http://m.wantgoo.com/tv/app_ad/Search.aspx">股票搜尋</asp:LinkButton></li>
+        <%--<li class="list"><asp:LinkButton ID="tab_5" runat="server">匯率</asp:LinkButton></li>--%>
+    </ul></div>
+    <section id="content" class="clearfix">  
+        <asp:ContentPlaceHolder id="CPH" runat="server">
+        </asp:ContentPlaceHolder> 
+    </section>  
+</div>  
+<%--<div id="navmenu">  
+<header>  
+    <h1>更多服務</h1>  
+</header>  
+<ul>  
+    <li><a href="/" >首頁</a></li>  
+    <li><a href="TwIndex.aspx">台股資訊</a></li>  
+    <li><a href="Globals.aspx">國際股市</a></li>  
+    <li><a href="Search.aspx">股票搜尋</a></li>
+</ul>--%><%--     <li><a rel="external" href="#write.html" class="navlink">焦點文章</a></li>  
+            <li><a rel="external" href="#contacts.html" class="navlink">玩股俏秘書</a></li> 
+            <li><a rel="external" href="#privacy.html" class="navlink">Privacy Policy</a></li>  
+        </ul>  --%>
+<%--</div>--%>
+</div>
+</form>
+</body>
+</html>

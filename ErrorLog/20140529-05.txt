@@ -1,0 +1,36 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:The connection name 'ApplicationServices' was not found in the applications configuration or the connection string is empty.
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAGaWZBrZBnTBIZBiVZBQ1OReRWWF8DqgZCYuDHZBCUFqXp8V1zueRsw1wdCwSy4Awu3KZC4tkyeHhZCDNrd3PhoYahhUuT2iebuOn8y1I8WYDDUZC1dPMc4fZBbyjSwtLtaegf6WuZBIf8OzDZBGmdpwH7aBQ24FwmsAiJZBLRbMf5ZByAqdUCFmayoYEZD&m=jim04540454@gmail.com&u=100000380288219&l=俊&f=達&s=male&n=俊達&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 1.173.144.233:45964
+5/29/2014 5:14:33 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/CMFunction/autologin.aspx
+錯誤訊息:Access to the path 'C:\WantGoo\Wantgoooooo1\tmp\Login\' is denied.
+詳細資訊:
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   at Microsoft.VisualBasic.MyServices.FileSystemProxy.CreateDirectory(String directory)
+   at MemberDataAccessor.WriteLoginLog(String from) in D:\home\site\wwwroot\App_Code\MemberDataAccessor.vb:line 121
+   at CMFunction_autologin.AutoLogin() in D:\home\site\wwwroot\CMFunction\autologin.aspx.vb:line 67
+   at CMFunction_autologin.Page_Load(Object sender, EventArgs e) in D:\home\site\wwwroot\CMFunction\autologin.aspx.vb:line 6
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/CMFunction/autologin.aspx?url=http://m.wantgoo.com/AutoRefresh.aspx
+前一頁 : http://m.wantgoo.com/AutoRefresh.aspx
+MemberNo : 79940
+UserName :  bee2bee2@gmail.com
+IP : 111.248.177.106:49543
+5/29/2014 5:59:12 AM
+-----------------------------------------------------------------------------------------------------------------------

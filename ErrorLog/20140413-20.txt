@@ -1,0 +1,60 @@
+﻿發生錯誤的網頁:/chart.aspx
+錯誤訊息:Object reference not set to an instance of an object.
+詳細資訊:
+   at DealInfo.DisplayColor() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 86
+   at DealInfo.LoadData() in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 64
+   at DealInfo.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\DealInfo.ascx.vb:line 16
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/chart.aspx?no=WTE&
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.77.32
+4/13/2014 8:18:50 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/blog.aspx?bid=101684
+錯誤訊息:具有潛在危險 Request.Path 的值已從用戶端 (?) 偵測到。
+詳細資訊:
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/blog.aspx?bid=101684
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.194.172.103
+4/13/2014 8:27:04 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Login.aspx
+錯誤訊息:已經加入項目。字典中的索引鍵: '84302'  加入的索引鍵: '84302'
+詳細資訊:
+   於 System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   於 Member.GetHottipDevelopDeadline(String memberNo) 於 C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\Member.vb: 行 139
+   於 Member.IsHottipDeveloper(String memberNo) 於 C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\Member.vb: 行 105
+   於 MemberDataAccessor.GetMemberLevel(String memberNo, Int32& days) 於 C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\MemberDataAccessor.vb: 行 625
+   於 Member.SetShowAdFlag(String memberNo) 於 C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\Member.vb: 行 69
+   於 Member.IsShowAd(String memberNo) 於 C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\Member.vb: 行 54
+   於 Member.IsShowAd() 於 C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\Member.vb: 行 61
+   於 MemberAuthority.WriteCookie(String userName, Int32 cookieExpires) 於 C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\App_Code\MemberAuthority.vb: 行 106
+   於 Login.Login1_LoggedIn(Object sender, EventArgs e) 於 C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\Login.aspx.vb: 行 15
+   於 System.Web.UI.WebControls.Login.AttemptLogin()
+   於 System.Web.UI.WebControls.Login.OnBubbleEvent(Object source, EventArgs e)
+   於 System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 84302
+UserName :  
+IP : 125.230.10.176
+4/13/2014 8:28:47 PM
+-----------------------------------------------------------------------------------------------------------------------

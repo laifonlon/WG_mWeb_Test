@@ -1,0 +1,105 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAL4Fr01RelxxlO738a2qF77qTd6avvjruShdhXJhwBZBGUpgHs4ZBsGJaUJj0kZBDRVZAImcswcJZCr0K80DSjS9WCIUZCdBZCNtZAXZBZBKBnV3g4uHZBiXKIbsGx8XtRBkwmDT6PKYYZAZApD4WmKVEli1T5SGapAggjTqAMRSDooqV&m=undefined&u=100007546394599&l=黃&f=昭閔&s=male&n=黃昭閔&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.79.13.176
+5/2/2014 1:12:48 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAHCWC6DjrpYSNKHJVKWZAcWrxNy4ZCaQ3kwFvoZABVyTWrsMHt4isAt4CPlncZCnEnZBP0dLt6Wpuf6ZA4BEBE3bYklIVsRs92aqnEKGsYuhCy22xInKtXALJ9bAnWZByOHflUynDoX0mnocN98yeWEXTgrvXH67K4VOmigcyKq&m=undefined&u=100007546394599&l=黃&f=昭閔&s=male&n=黃昭閔&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.79.13.176
+5/2/2014 1:13:16 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAHCWC6DjrpYSNKHJVKWZAcWrxNy4ZCaQ3kwFvoZABVyTWrsMHt4isAt4CPlncZCnEnZBP0dLt6Wpuf6ZA4BEBE3bYklIVsRs92aqnEKGsYuhCy22xInKtXALJ9bAnWZByOHflUynDoX0mnocN98yeWEXTgrvXH67K4VOmigcyKq&m=undefined&u=100007546394599&l=黃&f=昭閔&s=male&n=黃昭閔&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.79.13.176
+5/2/2014 1:13:21 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAHCWC6DjrpYSNKHJVKWZAcWrxNy4ZCaQ3kwFvoZABVyTWrsMHt4isAt4CPlncZCnEnZBP0dLt6Wpuf6ZA4BEBE3bYklIVsRs92aqnEKGsYuhCy22xInKtXALJ9bAnWZByOHflUynDoX0mnocN98yeWEXTgrvXH67K4VOmigcyKq&m=undefined&u=100007546394599&l=黃&f=昭閔&s=male&n=黃昭閔&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.79.13.176
+5/2/2014 1:13:23 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAI8OreZAllU8WlyAm81hY5u67voD0upBnW1s79aoUZA1VlNhnJ25bNkgfZCRDAFoO2QTgWZCHWDdaKt5Vp93SLLgmB3lAghSAPRxMzHI9kom26fJO5XFVhD3mQTr3XZCRX2piifziRf9V6BMR32Ia667aGs2icXwE0ewHyPvV&m=undefined&u=100007546394599&l=黃&f=昭閔&s=male&n=黃昭閔&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.79.13.176
+5/2/2014 1:13:56 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAAC0eWKnQzXdLDitKWyMuFQpS6t0z9Da5oNzHe6H1ZBb8uZA0z7FoNJEpnJ1gkWmMY8FNqJTcXSUeUCrmN1mtXu1w5rbKja9x9Qrmut40sa7ZCgBujKPfxuY9ZCkIGlpwjyc8DTpKbH3dZAWZA5ZBqln4FAT7UzJtSZC35nRh2Iy&m=undefined&u=100007546394599&l=黃&f=昭閔&s=male&n=黃昭閔&r=&GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.79.13.176
+5/2/2014 1:15:20 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:Index was outside the bounds of the array.
+詳細資訊:
+   at Facebook_fblogin.Page_Load(Object sender, EventArgs e) in C:\WantGoo\mobile2014\mobile2014_2014-0311-01_2014-0402-001\mobile2014_2014-0311-01\mobile2014\fblogin.aspx.vb:line 80
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAJoY5D8D39ZBlxWp8A4VpZChMVnLKycksz83gGPHlerdnzdjG8FlCZChITyiolYXwdZCyzBx060GUWJpCf5zIRLZAlmDyWAdbrwd5bVtsZBy87ZANhaXb3SdAMfyi9rttAkuoRgmbZBS1mfBgJkCC8OVlfJBszxdXfg2wzonNvhf&m=undefined&u=100007546394599&l=黃&f=昭閔&s=male&n=黃昭閔&r=&GoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://m.wantgoo.com/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.79.13.176
+5/2/2014 1:44:03 AM
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+﻿發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 123.0.216.157
+	Port: 60029
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; U; Android 2.3.6; zh-tw; ZTE N880E Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+	ViewState: /wEPDwULLTEzMTE0NzQ3OTAPZBYCAgMPZBYCAg0PDxYCHgRUZXh0BaUEPGxpPjxhIGNsYXNzPSJAY2xhc3MyIiBocmVmPSIvc3RvY2siPuWPsOiCoeWkp+ebpDwvYT48L2xpPjxsaT48YSBjbGFzcz0iQGNsYXNzNCIgaHJlZj0iL3N0b2NrL2NsYXNzLmFzcHgiPuWIhumhnuihjOaDhTwvYT48L2xpPjxsaT48YSBjbGFzcz0iQGNsYXNzNSIgaHJlZj0iL2hvdHRpcGNvbGxlY3QuYXNweCI+5YCL6IKh6L+96LmkPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJAY2xhc3M2IiBocmVmPSIvc3RvY2svdGhyZWVhbGwuYXNweCI+5LiJ5aSn5rOV5Lq6PC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJAY2xhc3M3IiBocmVmPSIvc3RvY2svdGhyZWVhbGwuYXNweD9tPW1hIj7os4fliLjnsYznorw8L2E+PC9saT48bGk+PGEgY2xhc3M9IkBjbGFzczgiIGhyZWY9Ii9zdG9jay9zdGF0LmFzcHgiPuWNs+aZguaOkuihjDwvYT48L2xpPjxsaT48YSBjbGFzcz0iQGNsYXNzOSIgaHJlZj0iL3N0b2NrL2xpbmUuYXNweCI+5oyH5qiZ5q+U6LyDPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJAY2xhc3MzIiBocmVmPSIvc3RvY2svcGsuYXNweC...
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.0.216.157
+6/5/2014 2:13:53 AM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 118.165.13.8
+	Port: 39249
+	Referer: http://m.wantgoo.com/
+	Path: /index_s.aspx
+	User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.2; zh-tw; HTC_Desire_600 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+	ViewState: /wEPDwULLTExNjM4OTkwNDhkGAYFLmN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfRG93bl8xXzUPFCsADmRkZGRkZGQ8KwAFAAIFZGRkZgL/////D2QFLWN0bDAwJEJvZHlfQ29udGVudFBsYWNlSG9sZGVyJFR3U3RvY2tfVG9wXzFfNQ8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUuY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkVHdTdG9ja19Ub3BfNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUnY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZUd1N0b2NrDxQrAAdkZGRkZBYAAgFkBS9jdGwwMCRCb2R5X0NvbnRlbnRQbGFjZUhvbGRlciRUd1N0b2NrX0Rvd25fNl8xMA8UKwAOZGRkZGRkZDwrAAUAAgVkZGRmAv////8PZAUsY3RsMDAkQm9keV9Db250ZW50UGxhY2VIb2xkZXIkZnZHZW5lcmFsU3RvY2sPFCsAB2RkZGRkFgACAWTaFdsSdd9Bjd0GKWXbRku2Ivv4vcgW3FdHlojxlCtkAA==
+詳細資訊:
+
+
+Action : AutoLogin
+輸入頁 : http://m.wantgoo.com/index_s.aspx
+前一頁 : http://m.wantgoo.com/
+MemberNo : 84883
+UserName :  una1114@yahoo.com.tw
+IP : 118.165.13.8
+6/5/2014 2:34:31 AM
+-----------------------------------------------------------------------------------------------------------------------

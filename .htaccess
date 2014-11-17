@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?wantgoo.com [NC]
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?www.wantgoo.com [NC]
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?m.wantgoo.com [NC]
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?q.wantgoo.com [NC]
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?wantgoo.com.cn [NC]
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?www.wantgoo.com.cn [NC]
+RewriteRule \.(jpg|jpeg|png|gif)$ http://m.wantgoo.com/image/bg/m-logo.jpg [NC,R,L]

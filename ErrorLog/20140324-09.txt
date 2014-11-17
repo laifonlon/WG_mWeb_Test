@@ -1,0 +1,256 @@
+﻿發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:00:27
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:01:27
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:02:27
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:03:27
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:04:27
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:05:27
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:06:27
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:07:27
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:08:27
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:09:27
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:10:27
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:11:32
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipSearch.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:11:53
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:12:01
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/index_s.aspx
+錯誤訊息:找不到網路路徑。
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/index_s.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/3/24 上午 09:13:27
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:將 nvarchar 值 '<%' 轉換成資料類型 int 時，轉換失敗。
+詳細資訊:
+   於 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   於 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   於 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   於 System.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   於 System.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   於 System.Data.SqlClient.SqlDataReader.Read()
+   於 System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   於 System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   於 System.Data.Common.DataAdapter.Fill(DataSet dataSet, String srcTable, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   於 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   於 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   於 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   於 System.Web.UI.WebControls.SqlDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   於 System.Web.UI.WebControls.SqlDataSource.Select(DataSourceSelectArguments arguments)
+   於 Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 76
+   於 Hottip_HottipResult.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 18
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=<%25
+前一頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 23795
+UserName :  a3173002000@yahoo.com.tw
+IP : 127.0.0.1
+2014/3/24 上午 09:44:37
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipSearch.aspx
+錯誤訊息:輸入字串格式不正確。
+詳細資訊:
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToDouble(String Value, NumberFormatInfo NumberFormat)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx
+前一頁 : 
+MemberNo : 23795
+UserName :  a3173002000@yahoo.com.tw
+IP : 127.0.0.1
+2014/3/24 上午 09:52:58
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipResult.aspx
+錯誤訊息:並未將物件參考設定為物件的執行個體。
+詳細資訊:
+   於 Hottip_HottipResult.SetDatePeriod(String& sql) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 402
+   於 Hottip_HottipResult.lvMyRule_RowCommand(String CommandName, String RuleId, String RuleName) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 84
+   於 Hottip_HottipResult.Page_Load(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipResult.aspx.vb: 行 18
+   於 System.Web.UI.Control.LoadRecursive()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipResult.aspx?Type=MyRule&CommandName=search&RuleId=5119&RuleName=大三元選股秘技-2
+前一頁 : http://devm.wantgoo.com/Hottip/HottipSearch.aspx
+MemberNo : 23795
+UserName :  a3173002000@yahoo.com.tw
+IP : 127.0.0.1
+2014/3/24 上午 09:54:31
+-----------------------------------------------------------------------------------------------------------------------

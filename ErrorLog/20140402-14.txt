@@ -1,0 +1,56 @@
+﻿發生錯誤的網頁:/Hottip/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+錯誤訊息:具有潛在危險 Request.Path 的值已從用戶端 (?) 偵測到。
+詳細資訊:
+   於 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   於 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/Login.aspx%3FGoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://devm.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/4/2 下午 02:50:56
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+錯誤訊息:具有潛在危險 Request.Path 的值已從用戶端 (?) 偵測到。
+詳細資訊:
+   於 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   於 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/Login.aspx%3FGoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://devm.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/4/2 下午 02:51:29
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+錯誤訊息:具有潛在危險 Request.Path 的值已從用戶端 (?) 偵測到。
+詳細資訊:
+   於 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   於 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/Login.aspx%3FGoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://devm.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/4/2 下午 02:52:53
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/Login.aspx?GoBackUrl=/Hottip/HottipSearch.aspx
+錯誤訊息:具有潛在危險 Request.Path 的值已從用戶端 (?) 偵測到。
+詳細資訊:
+   於 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   於 System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/Login.aspx%3FGoBackUrl=/Hottip/HottipSearch.aspx
+前一頁 : http://devm.wantgoo.com/
+MemberNo : 0
+UserName :  NotLogin
+IP : 127.0.0.1
+2014/4/2 下午 02:55:19
+-----------------------------------------------------------------------------------------------------------------------

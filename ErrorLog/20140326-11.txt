@@ -1,0 +1,48 @@
+﻿發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:並未將物件參考設定為物件的執行個體。
+詳細資訊:
+   於 Hottip_HottipPage1.gvCollect_DataBound(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage1.aspx.vb: 行 85
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   於 System.Web.UI.WebControls.ListView.CreateChildControls()
+   於 System.Web.UI.Control.EnsureChildControls()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : AutoLogin
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 77681
+UserName :  laifonlon@gmail.com
+IP : 127.0.0.1
+2014/3/26 上午 11:44:15
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/Hottip/HottipPage1.aspx
+錯誤訊息:無法將類型 'System.Web.UI.WebControls.Literal' 的物件轉換為類型 'System.Web.UI.WebControls.Label'。
+詳細資訊:
+   於 Hottip_HottipPage1.gvCollect_DataBound(Object sender, EventArgs e) 於 C:\!Project\mobile2014_2014-0311-01\mobile2014\Hottip\HottipPage1.aspx.vb: 行 79
+   於 System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   於 System.Web.UI.WebControls.ListView.PerformSelect()
+   於 System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   於 System.Web.UI.WebControls.ListView.CreateChildControls()
+   於 System.Web.UI.Control.EnsureChildControls()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Control.PreRenderRecursiveInternal()
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://devm.wantgoo.com/Hottip/HottipPage1.aspx
+前一頁 : 
+MemberNo : 77681
+UserName :  laifonlon@gmail.com
+IP : 127.0.0.1
+2014/3/26 上午 11:45:57
+-----------------------------------------------------------------------------------------------------------------------

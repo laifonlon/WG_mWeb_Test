@@ -1,0 +1,13 @@
+﻿發生錯誤的網頁:/TwIndex.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/TwIndex.aspx
+前一頁 : http://m.wantgoo.com/Globals.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 60.245.65.182
+7/1/2014 9:15:02 AM
+-----------------------------------------------------------------------------------------------------------------------

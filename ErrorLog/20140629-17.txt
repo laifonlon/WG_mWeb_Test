@@ -1,0 +1,15 @@
+﻿發生錯誤的網頁:/fblogin.aspx
+錯誤訊息:The connection name 'ApplicationServices' was not found in the applications configuration or the connection string is empty.
+詳細資訊:
+   at System.Web.Util.SecUtility.GetConnectionString(NameValueCollection config)
+   at System.Web.Security.SqlMembershipProvider.Initialize(String name, NameValueCollection config)
+   at System.Web.Configuration.ProvidersHelper.InstantiateProvider(ProviderSettings providerSettings, Type providerType)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/fblogin.aspx?a=CAAAAHea21V4BAJoZB2AojZBTngZCexrOKE0PquCtKv6Qkp1ZC0Q1DoH5nxvaKJxFLCilaDi3M4sAwL92x3bwT7mb9HznuCUfpCIXyQIr31x5IMtF1mu5dfs8YlDFQoqZCz1P2xoaw2uQJyHIB5ZAPW2T6hePpSHmr5VJin7cGejmbcVALSZALOi&m=janicelin2628@yahoo.com.tw&u=100001290548418&l=林&f=易春&s=female&n=林易春&r=&GoBackUrl=
+前一頁 : http://m.wantgoo.com/Login.aspx
+MemberNo : 0
+UserName :  NotLogin
+IP : 123.195.194.240
+6/29/2014 5:12:19 PM
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+﻿發生錯誤的網頁:/kchart.aspx
+錯誤訊息:Input string was not in a correct format.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToSingle(String Value, NumberFormatInfo NumberFormat)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/kchart.aspx?no=SP5
+前一頁 : http://m.wantgoo.com/index.aspx?no=SP5
+MemberNo : 0
+UserName :  NotLogin
+IP : 218.83.9.202
+5/15/2014 6:01:08 AM
+-----------------------------------------------------------------------------------------------------------------------

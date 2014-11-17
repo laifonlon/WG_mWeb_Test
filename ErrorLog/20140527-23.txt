@@ -1,0 +1,38 @@
+﻿發生錯誤的網頁:/globals.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 42.67.66.136
+	Port: 28953
+	Referer: http://m.wantgoo.com/globals.aspx?g=o
+	Path: /globals.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.1.1; HTC One S Special Edition Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36
+	ViewState: /wEPDwUKMTM2Mzg5OTg4NmRkN8hLfc2wmvSglvRgfyaTT2hXzxVaMMJVr0h59z2kqk8=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=o
+前一頁 : http://m.wantgoo.com/globals.aspx?g=o
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.67.66.136:28953
+5/27/2014 11:36:51 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/globals.aspx
+錯誤訊息:Invalid viewstate. 
+	Client IP: 42.67.66.136
+	Port: 28953
+	Referer: http://m.wantgoo.com/globals.aspx?g=o
+	Path: /globals.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 4.1.1; HTC One S Special Edition Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36
+	ViewState: /wEPDwUKMTM2Mzg5OTg4NmRkN8hLfc2wmvSglvRgfyaTT2hXzxVaMMJVr0h59z2kqk8=
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx?g=o
+前一頁 : http://m.wantgoo.com/globals.aspx?g=o
+MemberNo : 0
+UserName :  NotLogin
+IP : 42.67.66.136:28953
+5/27/2014 11:37:18 PM
+-----------------------------------------------------------------------------------------------------------------------

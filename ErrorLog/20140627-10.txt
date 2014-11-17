@@ -1,0 +1,13 @@
+﻿發生錯誤的網頁:/globals.aspx
+錯誤訊息:The wait operation timed out
+詳細資訊:
+
+
+Action : 
+輸入頁 : http://m.wantgoo.com/globals.aspx
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 59.124.246.217
+6/27/2014 10:20:32 AM
+-----------------------------------------------------------------------------------------------------------------------

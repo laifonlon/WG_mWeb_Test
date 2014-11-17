@@ -1,0 +1,93 @@
+﻿發生錯誤的網頁:/blog.aspx
+錯誤訊息:Conversion from type 'DBNull' to type 'Boolean' is not valid.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToBoolean(Object Value)
+   at blog.LoadArticle() in F:\WantGooMobile\wwwroot\blog.aspx.vb:line 114
+   at blog.fv_DataBound(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\blog.aspx.vb:line 57
+   at System.Web.UI.WebControls.BaseDataBoundControl.OnDataBound(EventArgs e)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.FormView.DataBind()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/blog.aspx?bid=25902
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.79.73
+6/26/2014 6:16:57 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/blog.aspx
+錯誤訊息:Conversion from type 'DBNull' to type 'Boolean' is not valid.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToBoolean(Object Value)
+   at blog.LoadArticle() in F:\WantGooMobile\wwwroot\blog.aspx.vb:line 114
+   at blog.fv_DataBound(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\blog.aspx.vb:line 57
+   at System.Web.UI.WebControls.BaseDataBoundControl.OnDataBound(EventArgs e)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.FormView.DataBind()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/blog.aspx?bid=25897
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.79.73
+6/26/2014 6:17:10 PM
+-----------------------------------------------------------------------------------------------------------------------
+發生錯誤的網頁:/blog.aspx
+錯誤訊息:Conversion from type 'DBNull' to type 'Boolean' is not valid.
+詳細資訊:
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToBoolean(Object Value)
+   at blog.LoadArticle() in F:\WantGooMobile\wwwroot\blog.aspx.vb:line 114
+   at blog.fv_DataBound(Object sender, EventArgs e) in F:\WantGooMobile\wwwroot\blog.aspx.vb:line 57
+   at System.Web.UI.WebControls.BaseDataBoundControl.OnDataBound(EventArgs e)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.FormView.DataBind()
+   at System.Web.UI.WebControls.BaseDataBoundControl.EnsureDataBound()
+   at System.Web.UI.WebControls.FormView.EnsureDataBound()
+   at System.Web.UI.WebControls.CompositeDataBoundControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Action : 
+輸入頁 : http://m.wantgoo.com/blog.aspx?bid=25904
+前一頁 : 
+MemberNo : 0
+UserName :  NotLogin
+IP : 66.249.79.99
+6/26/2014 6:17:33 PM
+-----------------------------------------------------------------------------------------------------------------------
