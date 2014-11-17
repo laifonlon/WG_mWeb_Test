@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "wwwroot", ".", "{66D64F05-29A2-454D-99D2-0D0C4E64C8D2}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WG_mWeb_Test", ".", "{66D64F05-29A2-454D-99D2-0D0C4E64C8D2}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/wwwroot"
@@ -18,6 +18,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "wwwroot", ".", "{66D64F05-2
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59568"
 	EndProjectSection
 EndProject
 Global
